@@ -1,0 +1,55 @@
+,snippet.textOriginal,sentiment
+0,"['equally', 'importantluck', 'health', 'important']",0.2
+1,"['true', 'really', 'true']",0.35
+2,"['exactlyi', 'know', 'feel']",0.0
+3,"['tru', 'fackkk']",0.0
+4,"['radha', 'krishna', 'cant', 'understand', 'english', 'please']",0.0
+5,"['sukuvar', 'thu', 'ninakkan', 'sulle', 'magne']",0.0
+6,"['bismi', 'house', 'friendrelative']",0.0
+7,['agree'],0.0
+8,"['botlhale', 'valencia', 'mongake', 'yupp']",0.0
+9,"['devil', 'everywhere', 'world', 'tell']",0.0
+10,"['like', 'one', 'dy', 'human', 'like', 'video', 'neither', 'like', 'dislike', 'video', 'pay', 'condolence', 'comment']",0.0
+11,"['palmist', 'ritesh', 'sinha', 'please', 'stop', 'promote', 'urself', 'ridiculous']",-0.3333333333333333
+12,"['palmist', 'maine', 'inke', 'hand', 'suicide', 'wali', 'rekha', 'dekhi', 'hai', 'inke', 'life', 'bahot', 'depression', 'raha', 'hoga', 'inka', 'shani', 'bhi', 'kamjor', 'tha', 'inke', 'hand', 'e', 'affair', 'ki', 'line', 'bhi', 'thi']",0.0
+13,"['revelation', 'time']",0.0
+14,['aameen'],0.0
+15,['nightmare'],0.0
+16,"['rope', 'tie', 'right', 'good', 'height', 'ur', 'neck', 'suppose', 'break', 'instead', 'choke']",0.4928571428571428
+17,"['yes', 'consider', 'disha', 'ex', 'manager']",0.0
+18,"['yeah', 'true']",0.35
+19,"['someone', 'may', 'seem', 'happy', 'actually', 'depress', 'could', 'facade', 'successful', 'mental', 'health', 'doesnt', 'spare', 'anyone']",0.3458333333333333
+20,"['sanjay', 'singh', 'theyre', 'bad', 'im', 'doctortruth', 'always', 'hide', 'world', 'full', 'lie']",-0.17499999999999993
+21,"['say', 'horrific', 'doctor', 'idea']",-1.0
+22,"['r', 'row', 'actor', 'sushant', 'singh']",0.0
+23,"['agree', 'something', 'right']",0.2857142857142857
+24,['yes'],0.0
+25,"['julius', 'shabong', 'rashtriya', 'swayamsevak', 'sangh', 'abbreviate', 'r', 'indian', 'rightwing', 'hindu', 'nationalist', 'paramilitary', 'volunteer', 'organisation', 'mentality', 'kill', 'mahatma', 'gandhi', 'well', 'dont', 'accept', 'r', 'dictation', 'wont', 'let', 'live']",0.13636363636363635
+26,['r'],0.0
+27,"['agree', 'first', 'manager', 'nah', 'something', 'isnt', 'right']",0.26785714285714285
+28,"['cctv', 'camera', 'joke']",0.0
+29,"['rich', 'live', 'simple', 'lifehe', 'good', 'heart', 'help', 'like', 'poorstudentactors', 'without', 'grantedhe', 'confuse', 'bcuz', 'jelous', 'people']",0.3028409090909091
+30,"['really', 'matterlook', 'performance']",0.2
+31,"['simple', 'guy', 'didnt', 'need', 'gucci', 'prove', 'value']",0.0
+32,"['yolo', 'never', 'know', 'someone', 'capable', 'investigation', 'ustheres', 'always', 'mystery', 'death', 'surround', 'high', 'profile', 'people']",0.18
+33,"['something', 'behind']",-0.4
+34,"['would', 'anyone']",0.0
+35,"['year', 'really', 'unlucky']",0.2
+36,"['pray', 'allah', 'answer']",0.0
+37,"['rajput', 'nam', 'ko', 'atmahatya', 'shobha', 'nahi', 'deta', 'deshbhakt', 'aur', 'susanskrut', 'young', 'actor', 'ko', 'bollywood', 'dabaya', 'jata', 'jay', 'modiji', 'jay', 'nitinji', 'gadakari', 'jay', 'devendra', 'fadanvis', 'saheb']",0.1
+38,"['inside', 'key', 'door']",0.0
+39,"['palmistry', 'read', 'stop', 'fool', 'people']",0.0
+40,"['lakshmi', 'vaidyanathan', 'hope', 'sarcastic', 'even', 'prove', 'yet', 'suicide', 'seem', 'like', 'murder', 'picture', 'suicide']",0.1
+41,"['palmist', 'ritesh', 'sinha', 'mere', 'haath', 'ke', 'picture', 'bhi', 'bhejdoo', 'problem', 'hai']",-0.5
+42,"['lakshmi', 'vaidyanathan', 'maine', 'picture', 'dekhi', 'inki', 'hand']",0.0
+43,"['aap', 'kabi', 'mile', 'inse', 'mera', 'haath', 'bhi', 'dekho', 'na']",0.0
+44,"['palmist', 'ritesh', 'sinha', 'tumne', 'inse', 'mila', 'hai']",0.0
+45,"['palmist', 'maine', 'inke', 'hand', 'suicide', 'wali', 'rekha', 'dekhi', 'hai', 'inke', 'life', 'bahot', 'depression', 'raha', 'hoga', 'inka', 'shani', 'bhi', 'kamjor', 'tha', 'inke', 'hand', 'e', 'affair', 'ki', 'line', 'bhi', 'thi']",0.0
+46,"['door', 'close', 'inside', 'friend', 'help', 'fight', 'depression', 'yesterday']",0.0
+47,"['agree', 'completely']",0.1
+48,"['well', 'say']",0.0
+49,"['lakir', 'dekhi', 'use', 'bataya', 'q', 'nahi', 'aur', 'samjhaya', 'q', 'nahi', 'k', 'aisa', 'mat', 'karna']",0.0
+50,"['sadaf', 'ejaz', 'jakar', 'surah', 'e', 'bakra', 'parho', 'inshaaallah', 'afaqa', 'hoga']",0.0
+51,"['shame', 'every', 'life', 'important']",0.4
+52,['idiot'],-0.8
+53,"['jahanum', 'wasil']",0.0

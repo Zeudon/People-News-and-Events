@@ -1,0 +1,211 @@
+,snippet.textOriginal,sentiment
+0,"['there', 'still', 'month', 'leave', 'till']",0.0
+1,"['celebrity', 'rich', 'people']",0.375
+2,"['gagan', 'ahuja', 'right', 'bro']",0.2857142857142857
+3,['agree'],0.0
+4,"['actor', 'discus', 'hardship', 'problem', 'wid', 'get', 'mental', 'relief', 'srk', 'salman', 'amir', 'shud', 'lead', 'front', 'keep', 'artist', 'check', 'always', 'else', 'lose', 'good', 'artist', 'true', 'human', 'rip', 'sushant', 'high', 'time', 'pls', 'save', 'pure', 'soul']",0.22071428571428567
+5,['exactly'],0.25
+6,['true'],0.35
+7,['right'],0.2857142857142857
+8,"['trash', 'game', 'dont', 'think', 'thats', 'reason', 'step']",-0.4
+9,"['dont', 'believe', 'allah', 'prophet', 'muhammad', 'peace', 'allah', 'pe', 'upon']",0.0
+10,"['bring', 'curse', 'people', 'lead', 'commit', 'suicide']",0.0
+11,"['everyone', 'mean', 'except', 'personality']",-0.3125
+12,['absolutely'],0.2
+13,"['yes', 'biggest', 'possible', 'crime', 'one', 'commit', 'body']",0.0
+14,"['sundeep', 'true', 'good', 'sacrifice', 'life']",0.5249999999999999
+15,"['kya', 'sahi', 'baat', 'likhi', 'hai', 'bhai']",0.0
+16,"['suicide', 'cause', 'depression', 'loneliness', 'dont', 'know', 'know', 'famous', 'actor', 'like', 'salman', 'khan', 'many', 'actor', 'whenever', 'see', 'news', 'still', 'doesnt', 'understand', 'thing']",0.5
+17,"['banjara', 'life', 'ya', 'bro']",0.0
+18,"['haa', 'yaar']",0.0
+19,"['banjara', 'life', 'totally', 'agree', 'brother']",0.0
+20,"['assumption', 'nobody', 'know', 'reality', 'investigation', 'go', 'conclusion']",0.0
+21,"['filmo', 'mai', 'real', 'life', 'mai', 'bohut', 'fark', 'hota', 'hai']",0.2
+22,"['sana', 'sheikh', 'wahi', 'toh', 'kya', 'janaab']",0.0
+23,"['wahi', 'toh']",0.0
+24,['right'],0.2857142857142857
+25,['yes'],0.0
+26,['yeah'],0.0
+27,['true'],0.35
+28,"['startusler', 'body', 'every', 'one', 'problem', 'even', 'actor', 'billioners']",0.0
+29,"['laxmi', 'nope', 'thats', 'wrong', 'logic', 'weaks', 'cant', 'suicide', 'need', 'gut']",-0.5
+30,"['master', 'af', 'actually', 'read', 'comment', 'doesnt', 'support', 'kill', 'oneself', 'say', 'respect', 'soul', 'move']",0.0
+31,"['startusler', 'u', 'r', 'insane', 'coward']",-1.0
+32,"['plz', 'save', 'govindai', 'think', 'u', 'ka', 'next', 'wo', 'b', 'bohay', 'depression', 'film', 'nai', 'aur', 'flop', 'ho', 'gia']",0.0
+33,"['startusler', 'cawords', 'cant', 'suicide']",0.0
+34,"['startusler', 'tere', 'ghar', 'pe', 'bhi', 'char', 'coward', 'ho', 'jaye']",0.0
+35,"['startusler', 'thats', 'absurd', 'bollywood', 'evil', 'place', 'evil', 'people', 'survive', 'place', 'people', 'like', 'ekta', 'kapoor', 'alike']",-0.8333333333333334
+36,"['startusler', 'people', 'commit', 'suicide', 'coward', 'im', 'sick', 'people', 'online', 'say', 'idea', 'go', 'drive', 'make', 'decision', 'couldnt', 'possibly', 'understand', 'struggle', 'people', 'offer', 'condolence', 'move', 'along']",-0.35714285714285715
+37,['irony'],0.0
+38,['startusler'],0.0
+39,['startusler'],0.0
+40,['coward'],0.0
+41,"['absolutely', 'right']",0.2857142857142857
+42,"['kill', 'yaarhe', 'fine']",0.4166666666666667
+43,"['komal', 'rabi', 'well', 'madam', 'listen', 'without', 'judgement', 'please', 'message', 'anytime', 'u', 'want', 'life', 'suffer', 'alive', 'conscious', 'able', 'experience', 'life', 'simply', 'magical']",0.3
+44,"['depress', 'help', 'else', 'next', 'gon', 'na', 'commit', 'wont', 'friend', 'help']",-0.03333333333333333
+45,"['narayanan', 'm', 'talk', 'live', 'among', 'evil', 'ostentatious', 'fake', 'people', 'bollywood', 'cold', 'mean', 'place', 'believe', 'one', 'friend', 'others', 'run', 'rat', 'race', 'compete', 'selfish', 'good', 'actor', 'keep', 'quite', 'take', 'favor', 'bad', 'people', 'survive', 'industry', 'evil', 'people', 'get', 'powerful', 'like', 'ekta', 'kapoor', 'alike']",-0.34761363636363635
+46,"['talk', 'live', 'among', 'evil', 'ostentatious', 'fake', 'bollywood', 'people', 'lonely', 'cold', 'place', 'believe']",-0.4127272727272728
+47,"['didnt', 'commit', 'suicide', 'kill', 'sister', 'nd', 'frd', 'money']",0.0
+48,"['salman', 'khan', 'gandu', 'reason']",0.0
+49,"['naela', 'rezwana', 'prottasha', 'hey', 'get', 'information', 'relate', 'unreasonable', 'accident', 'rumour', 'say', 'manager', 'die', 'junebut', 'dont', 'know']",0.0
+50,"['ya', 'get', 'know']",0.0
+51,"['naela', 'rezwana', 'prottasha', 'live', 'apartment', 'alone']",0.13636363636363635
+52,"['alpha', 'charlie', 'also', 'question', 'mind', 'live', 'apartment', 'alone', 'report', 'news', 'policeand', 'also', 'reaction', 'death', 'managerif', 'know', 'please', 'let', 'know']",0.13636363636363635
+53,"['much', 'satisfy', 'live', 'fullest', 'thats', 'god', 'sake', 'must', 'unresolved', 'crisis', 'choose', 'suicide', 'last', 'resort']",0.11212121212121212
+54,"['plz', 'save', 'govindai', 'think', 'u', 'ka', 'next', 'wo', 'b', 'bohay', 'depression', 'film', 'nai', 'aur', 'flop', 'ho', 'gia']",0.0
+55,"['xxtrash', 'game', 'xx', 'love', 'failure']",-0.07222222222222224
+56,['yeah'],0.0
+57,"['garbage', 'industry', 'bollywood', 'kill', 'himcongrats', 'bollywood', 'take', 'yet', 'another', 'lifecancel', 'bollywood']",0.0
+58,"['vishal', 'giraddi', 'happen', 'padukone']",0.0
+59,"['alaina', 'khan', 'damnhe', 'seek', 'help', 'like', 'deepika', 'padukone']",0.0
+60,"['jenita', 'binoy', 'ohh', 'accha']",0.0
+61,"['alaina', 'khan', 'yup', 'medical', 'paper', 'depression']",0.0
+62,"['people', 'also', 'say', 'ke', 'drepression']",0.0
+63,"['delhi', 'college', 'engineer', 'stand', 'aieee', 'exam']",0.0
+64,"['dca', 'entrance', 'exam']",0.0
+65,"['iit', 'delhiit', 'delhi', 'college', 'engineer']",0.0
+66,"['iit', 'dce', 'edit', 'comment', 'spread', 'fakenews']",0.0
+67,"['chutiye', 'dce', 'iit', 'dont', 'spread', 'rumor']",0.0
+68,"['mra', 'irs', 'guess', 'check', 'statistic']",0.0
+69,"['blast', 'indian', 'student', 'choose', 'engineer', 'probably', 'people', 'die', 'engineer']",0.0
+70,"['saddensvery', 'much', 'note', 'talented', 'highly', 'academic', 'person', 'choose', 'exit', 'world', 'may', 'soul', 'rest', 'peace']",0.3
+71,"['wow', 'thats', 'incredible', 'feel', 'sad', 'family']",0.16666666666666666
+72,"['mir', 'adil', 'ali', 'rizvi', 'think', 'join', 'english', 'class']",0.0
+73,"['think', 'also', 'victim', 'depression']",-0.07500000000000001
+74,"['shivah', 'even', 'relate', 'migrant', 'always', 'dumb', 'course']",-0.375
+75,"['bad', 'thing', 'happen', 'good', 'people']",5.551115123125783e-17
+76,"['cry', 'migrant', 'walk', 'die']",0.0
+77,"['muslim', 'nd', 'cry', 'act', 'real', 'life', 'cry', 'act', 'onlt', 'yaad', 'rakhi', 'har', 'rk', 'ko', 'marana', 'hai']",0.2
+78,"['fathima', 'shahjahan', 'herecant', 'believe']",0.0
+79,"['naqui', 'abusaleh', 'idiot', 'way', 'replyu', 'r', 'give', 'laugh']",-0.25
+80,['cry'],0.0
+81,"['abhi', 'hum', 'zinda', 'hai']",0.0
+82,"['true', 'talented', 'actor']",0.5249999999999999
+83,['cry'],0.0
+84,"['tom', 'bhakk', 'chutiye', 'kid', 'ko', 'kya', 'hawa', 'khilaega']",0.0
+85,"['true', 'success', 'people', 'u', 'time', 'true', 'friend', 'true', 'family', 'real', 'success']",0.36
+86,"['definitely', 'agree']",0.0
+87,"['family', 'life', 'kid', 'live', 'relation', 'girl', 'aftr', 'year', 'another', 'indian', 'life', 'style', 'bad', 'dont', 'marry', 'n', 'kid']",-0.28181818181818175
+88,"['let', 'wait', 'watch']",0.0
+89,['oh'],0.0
+90,['possible'],0.0
+91,"['also', 'think']",0.0
+92,"['well', 'never', 'know', 'theyll', 'cover']",0.0
+93,"['rip', 'bolne', 'se', 'aa', 'jate', 'mai', 'apni', 'best', 'friend', 'ko', 'mag', 'leti', 'life', 'hume', 'jeene', 'hai', 'na', 'kuch', 'sikh', 'lo', 'incident', 'sa', 'aage', 'barho']",1.0
+94,"['wajid', 'khan', 'cheerangeevi', 'kobe', 'bryant']",0.0
+95,"['lucky', 'gamer', 'sushant', 'hindu']",0.3333333333333333
+96,"['even', 'wajid', 'khan']",0.0
+97,"['also', 'wajid', 'khan']",0.0
+98,"['sapna', 'islam', 'tera', 'muh', 'dekh', 'liya', 'tha']",0.0
+99,"['rishi', 'kapoor', 'commit', 'suicide']",0.0
+100,['yaar'],0.0
+101,"['lucky', 'gamer', 'heyy', 'bihari', 'hindu']",0.3333333333333333
+102,"['military', 'analysis']",-0.1
+103,"['kobe', 'bryant']",0.0
+104,"['death', 'suicide']",0.0
+105,"['rishihindu', 'irfanmuslim', 'sushantsikh']",0.0
+106,"['actor', 'discus', 'hardship', 'problem', 'wid', 'get', 'mental', 'relief', 'srk', 'salman', 'amir', 'shud', 'lead', 'front', 'keep', 'artist', 'check', 'always', 'else', 'lose', 'good', 'artist', 'true', 'human', 'rip', 'sushant', 'high', 'time', 'pls', 'save', 'pure', 'soul']",0.22071428571428567
+107,"['angela', 'rebello', 'mean', 'may', 'soul', 'die']",-0.3125
+108,"['may', 'soul', 'rip']",0.0
+109,"['r', 'keusgba', 'also', 'year', 'marriage']",0.0
+110,"['r', 'keusgba', 'investigation', 'go']",0.0
+111,"['sk', 'lover', 'cheat']",0.0
+112,"['sayuri', 'patel', 'true']",0.35
+113,"['generosity', 'live', 'wont', 'forget']",0.13636363636363635
+114,"['maaaf', 'karna', 'ye', 'chanel', 'copy', 'q', 'karte', 'ho', 'ha']",0.0
+115,"['angel', 'roy', 'yes']",0.0
+116,"['pankaj', 'rath', 'prince', 'fake']",-0.5
+117,"['yes', 'bro']",0.0
+118,"['big', 'fan', 'sushant', 'also']",0.0
+119,"['carryminati', 'ur', 'big', 'fan']",0.0
+120,"['come', 'see', 'ur', 'post', 'sad', 'reality', 'world']",-0.5
+121,['yes'],0.0
+122,"['worst', 'year']",-1.0
+123,"['miss', 'u', 'bro']",0.0
+124,"['bahuth', 'talent', 'waste', 'hogaya']",-0.2
+125,"['bohut', 'kharab', 'saal', 'carry']",0.0
+126,"['susant', 'sir', 'watch', 'first', 'tv', 'sierel', 'pavitra', 'rishta', 'chechore', 'every', 'movie']",0.25
+127,"['apsukun', 'ka', 'saal']",0.0
+128,['yes'],0.0
+129,"['even', 'irfan', 'khan', 'die']",0.0
+130,['true'],0.35
+131,"['alok', 'attack', 'pakistani', 'enemy']",0.0
+132,"['naqui', 'abusaleh', 'sooner', 'later', 'go', 'worry', 'attitude', 'nature', 'due', 'wont', 'go', 'far', 'life']",-0.008333333333333331
+133,"['wajad', 'khan']",0.0
+134,"['naqui', 'abusaleh', 'remember', 'karmait', 'come', 'wont', 'change', 'ur', 'attitudemark', 'word']",0.0
+135,"['tm', 'bhi', 'jao', 'aur', 'puch', 'lo', 'ja', 'kr', 'clear', 'ho', 'jaega', 'reason']",0.10000000000000002
+136,"['yeah', 'damn']",0.0
+137,"['come', 'due', 'brahma', 'allah']",-0.125
+138,['sad'],-0.5
+139,"['yeah', 'obviously']",0.0
+140,['say'],0.0
+141,"['even', 'day', 'suicide', 'without', 'investigation']",0.0
+142,"['fairness', 'cream', 'ambassador', 'jnu', 'queen', 'deepu', 'tu', 'usko', 'ghar', 'rehta', 'hy']",0.0
+143,"['faryaal', 'rehman', 'like', 'seriously']",-0.3333333333333333
+144,"['lakh', 'di', 'lanat']",0.0
+145,"['sanam', 'chartursing', 'depress', 'mother', 'pass', 'away', 'remember', 'mother', 'everyday']",-0.13333333333333333
+146,"['ex', 'manager']",0.0
+147,"['mra', 'irs', 'there', 'particular', 'reason', 'depress', 'could', 'best', 'everything', 'life', 'still', 'depress', 'health', 'condition', 'like', 'need', 'care', 'treatment']",0.25833333333333336
+148,"['paki', 'meme', 'ya', 'still', 'many', 'hit', 'lack', 'money', 'dont', 'know', 'either', 'seem', 'unrealistic', 'let', 'wait', 'see', 'investigation']",0.0
+149,"['sanam', 'chartursing', 'news', 'say', 'sushant', 'suicided', 'le', 'money', 'crisis', 'idh']",0.0
+150,"['ya', 'maybe', 'love', 'couldnt', 'bear', 'pain', 'still', 'seem', 'unrealistic', 'im', 'sure', 'im', 'confuse']",0.16666666666666666
+151,"['parad', 'aryan', 'accord', 'friend', 'colleague', 'depression', 'month', 'plz', 'dont', 'make', 'anything']",0.0
+152,"['aryan', 'parad', 'kuch', 'bhi', 'apne', 'pa', 'se']",0.0
+153,['think'],0.0
+154,"['day', 'ago', 'bro']",0.0
+155,['hope'],0.0
+156,['maybe'],0.0
+157,"['ya', 'might', 'connection', 'affair', 'common', 'india', 'major', 'case', 'per', 'year', 'suicide', 'bf', 'gf']",-0.11875
+158,"['dangerous', 'news']",-0.6
+159,"['bhot', 'hi', 'kharab', 'year', 'jaa', 'raha', 'hai', 'kuch', 'na', 'kuch', 'kharabh', 'hi', 'ho', 'raha', 'hai', 'saal', 'mai']",0.0
+160,"['sahi', 'bole', 'aap']",0.0
+161,"['sahi', 'hai']",0.0
+162,"['big', 'fan', 'u', 'sir']",0.0
+163,"['agar', 'maa', 'baap', 'nhi', 'ha', 'kisi', 'ne', 'unko', 'palla', 'hoga', 'unke', 'liye', 'hi', 'sooch', 'lo', 'koi', 'unke', 'piche', 'hoga']",0.0
+164,"['reel', 'video', 'jinke', 'maa', 'baap', 'nahi', 'hain', 'unka', 'kya']",0.0
+165,"['wajed', 'khan', 'know', 'kabhi', 'kabhi', 'aisa', 'hota', 'ha', 'plzz', 'yrr', 'ik', 'var', 'uske', 'liye', 'socho', 'ki', 'apke', 'maa', 'baap', 'ka', 'bne', 'ga']",0.0
+166,"['zindegi', 'kabi', 'kabi', 'aasi', 'halat', 'py', 'ly', 'aaty', 'hki', 'ji', 'karti', 'h', 'mar', 'jau']",0.0
+167,"['bad', 'news']",-0.6999999999999998
+168,"['rab', 'nawaz', 'ho', 'sakta', 'hai', 'bhai', 'bollywood', 'indian', 'film', 'industry', 'dont', 'let', 'outsider', 'thrive']",0.0
+169,"['well', 'killuminatis', 'dnt', 'kill', 'bollywood', 'actor', 'worth']",0.3
+170,"['marwaya', 'hai', 'kisi', 'ne']",0.0
+171,"['pata', 'kya', 'mental', 'issue', 'se', 'log', 'guzarte', 'hain']",-0.1
+172,"['baby', 'mujhe', 'apna', 'whatsapp', 'number', 'dedo']",0.0
+173,"['varry', 'nice', 'masg']",0.6
+174,"['people', 'critical', 'judgemental', 'give', 'break']",0.0
+175,"['grass', 'problem', 'least', 'try']",-0.3
+176,"['sanjay', 'p', 'p', 'atleast', 'try']",0.0
+177,"['cambridge', 'certify', 'english']",0.0
+178,"['rip', 'english']",0.0
+179,"['actor', 'discus', 'hardship', 'problem', 'wid', 'get', 'mental', 'relief', 'srk', 'salman', 'amir', 'shud', 'lead', 'front', 'keep', 'artist', 'check', 'always', 'else', 'lose', 'good', 'artist', 'true', 'human', 'rip', 'sushant', 'high', 'time', 'pls', 'save', 'pure', 'soul']",0.22071428571428567
+180,"['bos', 'need', 'cbi', 'investigation', 'th', 'impossible', 'suside']",-0.6666666666666666
+181,"['ohh', 'really', 'somethings', 'really', 'vv', 'fishy', 'medium', 'personal', 'want', 'give', 'depresshion', 'angle']",0.13333333333333333
+182,['maybe'],0.0
+183,"['lekin', 'kuch', 'asa', 'hota', 'h', 'asi', 'tym', 'p', 'kuch', 'nhi', 'sochta', 'asa', 'feel', 'hotihe', 'say', 'mar', 'jane', 'se', 'hi', 'thik']",0.0
+184,"['shesadri', 'sekhar', 'bagchi', 'wrongits', 'selfish', 'think', 'commit', 'suicide', 'cant', 'human', 'care', 'love', 'one', 'state', 'hear', 'saddest', 'news', 'everplz', 'live', 'love', 'one', 'dont', 'give', 'hardest', 'pain', 'ever']",0.12727272727272726
+185,"['shesadri', 'sekhar', 'bagchi', 'whttttttttttt', 'kuchhhhh', 'bhi']",0.0
+186,"['awesome', 'say', 'practical', 'way', 'feel', 'sad', 'true', 'life', 'beautiful', 'journey', 'hardship', 'sometimes', 'joy', 'sucscide', 'option', 'ask', 'help', 'oneis', 'better', 'comment', 'suscide', 'talented', 'man', 'beautiful', 'journey', 'shock', 'suresuicide', 'link']",0.56875
+187,"['know', 'thing', 'call', 'depression', 'one', 'scariest', 'disease', 'force', 'commit', 'sucide', 'dont', 'treat', 'like', 'small', 'thing', 'main', 'reason', 'fuck', 'society', 'lose', 'cousin', 'due', 'disease', 'trigger', 'illness', 'must', 'unimaginable', 'suffer', 'dont', 'fuck', 'take', 'like', 'fault', 'commit', 'sucide']",-0.20166666666666666
+188,"['forcefully', 'bear', 'choose', 'die', 'every', 'human', 'right', 'suicide', 'dont', 'like', 'earth', 'good', 'job']",0.32857142857142857
+189,"['jiske', 'uper', 'beet', 'ti', 'h', 'wo', 'hi', 'samajh', 'sakta', 'h']",0.0
+190,"['ek', 'trah', 'se', 'sabhi', 'samsya', 'ka', 'hal']",0.0
+191,"['jab', 'medium', 'sarkar', 'ke', 'propaganda', 'se', 'free', 'hoga', 'tabhi', 'toh', 'logon', 'ki', 'baat', 'karega', 'hum', 'sab', 'affect', 'hone', 'wale', 'hain', 'wait', 'watch', 'time', 'start', 'boycott', 'govt', 'propaganda', 'policy']",0.06666666666666668
+192,"['kay', 'tere', 'ghar', 'k', 'saamne', 'ek', 'gaadi', 'aayega', 'abhi', 'seedha', 'jaake', 'bet', 'ja', 'aur', 'nimhans', 'par', 'le', 'chalega', 'aur', 'kuch', 'nai', 'hoga', 'tere', 'saath']",0.0
+193,"['govt', 'disturb', 'anything', 'test', 'humanity', 'strong', 'u', 'r', 'life']",0.4333333333333333
+194,"['matlab', 'kuch', 'bhikl', 'tuze', 'taati', 'ni', 'aegi', 'sarkar', 'ki', 'glti']",0.0
+195,"['tumlogo', 'ko', 'jab', 'rupee', 'per', 'tweet', 'milna', 'band', 'hoga', 'tab', 'samajh', 'ayega', 'ki', 'congressy', 'kaun', 'hai', 'aur', 'propagandy', 'kaun', 'hai']",0.0
+196,"['har', 'cheez', 'mein', 'sarkar', 'ko', 'dosh', 'mat', 'matlab', 'kuch', 'bhi']",0.0
+197,"['ye', 'congressi', 'lagta', 'hai']",0.0
+198,"['souciant', 'wahi', 'toh']",0.0
+199,"['isme', 'sarkar', 'ne', 'kya', 'kr', 'diya', 'h']",0.0
+200,"['galat', 'faisale', 'toh', 'se', 'liye', 'jaa', 'rahe']",0.0
+201,"['fir', 'kya', 'kiya', 'jaye', 'aap', 'batao']",0.0
+202,"['depression', 'kuch', 'pata', 'nahi', 'hota', 'ki', 'ham', 'kya', 'kar', 'rahe', 'hai']",0.0
+203,"['haan', 'janaab']",0.0
+204,"['furqan', 'ahmed', 'hope', 'u', 'wont', 'choose', 'path']",0.0
+205,['also'],0.0
+206,['hi'],0.0
+207,"['malik', 'mariam', 'yearn', 'mean', 'strong', 'desire', 'something', 'english', 'pe', 'dhyan', 'koi', 'word', 'ki', 'mean', 'naa', 'aaye', 'toh', 'google', 'pe', 'mean', 'search', 'kar', 'lo', 'simple']",-0.08402777777777777
+208,"['kya', 'matlab', 'yearn', 'year']",0.0
+209,"['kill', 'one', 'know', 'manager', 'die', 'week', 'ago', 'way', 'suicide']",0.0

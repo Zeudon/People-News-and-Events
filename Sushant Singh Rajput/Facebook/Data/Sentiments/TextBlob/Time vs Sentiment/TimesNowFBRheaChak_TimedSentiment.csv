@@ -1,0 +1,79 @@
+,message,created_time,sentiment
+77,['barjing'],2020-07-31T11:30:36+0000,0.0
+11,"['voice', 'irritate']",2020-07-31T11:30:50+0000,0.0
+51,"['ambika', 'sharma', 'roopa', 'sharma', 'hasan', 'forward', 'min', 'watch']",2020-07-31T11:31:20+0000,0.0
+7,"['may', 'comedy', 'act', 'show', 'true', 'nature']",2020-07-31T11:31:51+0000,0.35
+1,"['standup', 'act', 'mention', 'record', 'video']",2020-07-31T11:33:25+0000,0.0
+45,"['toh', 'apun', 'ka', 'matha', 'k', 'upper', 'hain', 'apun', 'bata', 'nahi', 'sakta', 'fuck', 'know', 'everything', 'connect', 'big', 'mafia', 'community', 'take', 'remand', 'police', 'gaar', 'main', 'rull', 'ghusao', 'sab', 'bolti', 'sali', 'ki', 'nikal', 'bahar', 'aye', 'gaaa']",2020-07-31T11:34:02+0000,-0.05833333333333334
+4,"['channel', 'republic', 'thats', 'get', 'footage', 'get']",2020-07-31T11:34:08+0000,0.0
+20,"['clearly', 'say', 'manipulate', 'n', 'control', 'tai']",2020-07-31T11:37:31+0000,0.10000000000000002
+76,['cheater'],2020-07-31T11:39:31+0000,0.0
+75,"['like', 'stand', 'up', 'argha', 'tribedi']",2020-07-31T11:39:50+0000,0.0
+22,"['stand', 'act', 'tell', 'dont', 'record', 'jobless', 'film', 'rehearse']",2020-07-31T11:40:46+0000,0.0
+74,"['wah', 'wah', 'kya', 'baat', 'hai']",2020-07-31T11:42:37+0000,0.0
+49,"['small', 'time', 'gold', 'digger']",2020-07-31T11:43:17+0000,-0.25
+73,"['mental', 'hai']",2020-07-31T11:43:20+0000,-0.1
+72,"['vijay', 'aravind']",2020-07-31T11:43:23+0000,0.0
+35,"['thats', 'true', 'stand', 'act']",2020-07-31T11:45:03+0000,0.35
+44,['rhea'],2020-07-31T11:45:13+0000,0.0
+71,"['lakshmi', 'mansa']",2020-07-31T11:48:03+0000,0.0
+40,"['look', 'like', 'shes', 'drink', 'stand', 'act']",2020-07-31T11:50:24+0000,0.0
+6,"['sorry', 'death', 'sushanth', 'medium', 'coverage', 'focus', 'issue', 'also', 'relate', 'common', 'man', 'life']",2020-07-31T11:51:35+0000,-0.4
+15,"['pretty', 'face', 'dirty', 'language', 'demon', 'mindsyeh', 'dur', 'dur', 'tak', 'standup', 'comedy', 'nahi', 'hai', 'hand', 'itch', 'slap', 'watch', 'nonsense']",2020-07-31T11:53:04+0000,-0.175
+70,['arrest'],2020-07-31T11:54:38+0000,-0.05
+21,"['say', 'dont', 'quote', 'otherwise', 'deny']",2020-07-31T11:55:06+0000,0.0
+29,"['u', 'portray', 'though', 'hav', 'do', 'smthing', 'grt']",2020-07-31T11:56:10+0000,0.0
+69,"['wat', 'coverage', 'rhea']",2020-07-31T11:56:19+0000,0.0
+68,"['jay', 'shah', 'itne', 'twist', 'hai', 'case', 'need', 'ekta', 'kapoor', 'make', 'movie', 'cant', 'keep', 'w', 'news', 'anymore']",2020-07-31T11:56:30+0000,0.0
+33,"['encounter', 'best', 'revenge']",2020-07-31T11:56:49+0000,1.0
+47,"['one', 'thing', 'everybodys', 'come', 'pehle', 'mahine', 'se', 'kahan', 'sab', 'f', 'sudden', 'bodyguard', 'kaahan', 'se', 'agaya', 'whole', 'big', 'racket', 'work', 'wd']",2020-07-31T11:59:15+0000,0.06666666666666667
+16,"['n', 'sudden', 'video', 'bhi', 'kahas', 'se', 'release', 'hogaye', 'gold', 'digger', 'behind', 'r', 'many', 'people', 'work', 'bollywood', 'mafia', 'family', 'n', 'bahut', 'badhiya', 'conspiracy', 'hai']",2020-07-31T12:01:40+0000,0.033333333333333326
+43,"['know', 'come']",2020-07-31T12:04:15+0000,0.0
+0,"['show', 'upbringing', 'probably', 'mother', 'laugh', 'back', 'grind', 'expensive', 'shop', 'foreign', 'trip', 'others', 'expense', 'anybody', 'state']",2020-07-31T12:05:21+0000,-0.08125
+31,"['tabhi', 'mumbai', 'police', 'somehow', 'save', 'ushowing', 'ur', 'true', 'color', 'u', 'bh']",2020-07-31T12:07:13+0000,0.35
+67,"['oindrila', 'mukherjee', 'nivedita', 'dharsaptarshi', 'bhattacharya', 'see']",2020-07-31T12:08:43+0000,0.0
+66,"['click', 'link', 'reach', 'mr', 'yahuza', 'mohd']",2020-07-31T12:18:20+0000,0.0
+65,"['keep', 'hope', 'alive', 'never', 'lose', 'faith', 'gratitude', 'appreciation', 'go', 'mr', 'margaret', 'yahuza', 'mohd', 'show', 'sincerity', 'give', 'reason', 'invest', 'binarybitcoin', 'mine', 'forex', 'trade', 'never', 'know', 'come', 'across', 'honest', 'forex', 'manager', 'scammed', 'severally', 'past', 'month', 'thank', 'god', 'earn', 'weekly', 'basis', 'thank', 'much', 'mr', 'yahuza', 'mohd', 'outcome', 'trade', 'platform', 'maam', 'click', 'link', 'http']",2020-07-31T12:18:22+0000,0.16249999999999998
+64,"['vidhan', 'shah']",2020-07-31T12:22:13+0000,0.0
+26,"['truth', 'win', 'eventually', 'real', 'culprit']",2020-07-31T12:24:52+0000,0.5
+46,"['sali', 'landikuch', 'saram', 'karo']",2020-07-31T12:30:02+0000,0.0
+63,['arrest'],2020-07-31T12:31:28+0000,-0.05
+62,"['neha', 'khubchandani']",2020-07-31T12:48:50+0000,0.0
+3,"['stand', 'act', 'true', 'color', 'arrest', 'murder', 'ssr']",2020-07-31T13:08:29+0000,0.15
+37,"['wish', 'could', 'invent', 'time', 'travel', 'machine', 'could', 'save', 'real', 'one']",2020-07-31T13:39:47+0000,0.2
+34,"['sound', 'arrogant', 'lock', 'throw', 'away', 'key', 'call', 'stand', 'comedy']",2020-07-31T13:55:50+0000,0.2
+23,"['rhea', 'chakraborty', 'tu', 'tai', 'nahi', 'bewribai', 'hai', 'tum', 'jaise', 'insaano', 'pe', 'sabki', 'duhaai', 'hai', 'ab', 'jaake', 'tumhari', 'sachhai', 'sabke', 'samne', 'aayi', 'hai', 'sambhal', 'jao', 'tum', 'aur', 'tumhare', 'jitne', 'bhai', 'hai', 'tum', 'sab', 'ki', 'shaamat', 'aayi', 'hai', 'kyunki', 'ab', 'ye', 'sirf', 'ssr', 'ki', 'nahi', 'pure', 'samaaj', 'ki', 'ladai', 'hai']",2020-07-31T14:05:26+0000,0.21428571428571427
+18,"['decor', 'one', 'guess', 'whether', 'happen', 'party', 'rhea', 'host', 'sushant', 'house', 'stair', 'sleep', 'drug']",2020-07-31T14:39:09+0000,0.0
+24,['admit'],2020-07-31T14:41:59+0000,0.0
+50,"['main', 'killer', 'shusantshe', 'notorious', 'girl', 'world']",2020-07-31T15:24:52+0000,0.16666666666666666
+41,"['video', 'could', 'reality']",2020-07-31T15:29:43+0000,0.0
+61,"['tejas', 'chavan', 'shubhankar', 'srivastava', 'badal', 'joshi', 'aman', 'gupta']",2020-07-31T15:45:59+0000,0.0
+60,"['jail', 'life', 'unfair', 'sushant']",2020-07-31T15:56:30+0000,-0.3
+59,['interest'],2020-07-31T17:26:01+0000,0.0
+58,['narcissistic'],2020-07-31T17:33:09+0000,0.0
+8,"['know', 'suppose', 'comeguys', 'dont', 'justifyshe', 'face', 'rather', 'run', 'evidence', 'proof', 'everything', 'goondi', 'u', 'r', 'catch', 'acceptsurrender', 'urself', 'police', 'ur', 'sinsthe', 'e', 'fight', 'justice', 'think', 'work', 'godur', 'job', 'give', 'justice', 'u', 'r', 'insult', 'ur', 'job', 'think', 'itmoney', 'everything']",2020-07-31T18:15:38+0000,0.0
+39,"['dam', 'didnt', 'know', 'local']",2020-07-31T18:26:55+0000,0.0
+14,"['one', 'act', 'try', 'tell', 'people', 'care', 'dam', 'anyone', 'thing', 'scar', 'people', 'try', 'expose', 'purposely', 'put', 'video', 'like', 'show', 'type', 'background', 'bring', 'yes', 'drink', 'cross', 'limit', 'video', 'disgust', 'woman']",2020-07-31T19:31:45+0000,0.0
+13,"['stand', 'comedy', 'minute', 'ago', 'cry', 'fold', 'hand', 'hahaha']",2020-07-31T20:02:59+0000,0.2
+27,"['mumbai', 'police', 'n', 'maharashtra', 'govt', 'buy', 'god', 'save', 'country']",2020-07-31T20:04:30+0000,0.0
+57,"['pushpita', 'choudhury']",2020-07-31T20:21:24+0000,0.0
+2,"['kill', 'sushant', 'act', 'infront', 'camera', 'watch', 'goondi', 'video', 'everyone', 'know', 'character', 'think', 'nature', 'everything', 'play', 'love', 'game', 'ssr', 'fulfil', 'family', 'expensesand', 'try', 'satisfy', 'mahesh', 'bhatt', 'get', 'chance', 'film', 'hasnt', 'capability', 'act']",2020-07-31T22:27:55+0000,0.04999999999999999
+10,"['rhea', 'susant', 'something', 'big', 'bollywood', 'scam', 'coz', 'many', 'people', 'mader', 'way', 'give', 'sucied', 'bollywood', 'big', 'money', 'business', 'mostly', 'happen', 'dubai', 'thats', 'non', 'bollywood', 'star', 'come', 'openly']",2020-07-31T22:34:36+0000,0.2
+9,"['seriously', 'act', 'real', 'gold', 'digger', 'murderer', 'catch', 'soon', 'laugh', 'want', 'act', 'want', 'time', 'end', 'soon', 'free', 'someone']",2020-07-31T22:37:08+0000,0.14166666666666666
+48,"['celebrate', 'sushant', 'money', 'big', 'gold', 'digger', 'murderer', 'hope', 'u', 'get', 'sentence', 'life', 'elecricuted', 'possible', 'indiashe', 'look', 'like', 'drink']",2020-07-31T23:46:17+0000,0.0
+38,"['rhea', 'mukesh', 'bhatt', 'kill', 'sushant', 'take', 'drug']",2020-08-01T03:47:32+0000,0.0
+36,"['give', 'cbi', 'sure']",2020-08-01T04:12:16+0000,0.5
+56,"['sushant', 'happy', 'mood', 'show', 'rhea']",2020-08-01T06:05:48+0000,0.8
+5,"['seriuosly', 'clarify', 'issue', 'tai', 'thing', 'allege', 'clarify', 'hide', 'bush', 'disgust', 'one', 'dont', 'even', 'want', 'mention', 'woman']",2020-08-01T06:48:35+0000,0.0
+28,"['jab', 'apni', 'ayye', 'baba', 'ko', 'nai', 'choodi', 'fir', 'oro', 'ki', 'bat', 'alag', 'h']",2020-08-01T07:32:07+0000,0.0
+42,"['mercy', 'rhea', 'fire', 'place', 'planet']",2020-08-01T10:35:59+0000,0.0
+55,"['justiceforssr', 'pmmodibhiforssr', 'cbienquiryforsushant', 'worldwantscbiforssr']",2020-08-01T10:39:52+0000,0.0
+54,['funny'],2020-08-01T13:18:34+0000,0.25
+25,"['look', 'like', 'fool', 'believe']",2020-08-02T07:12:03+0000,0.0
+19,"['video', 'show', 'true', 'nature', 'ted', 'talk', 'hyd', 'also', 'talk', 'like', 'say', 'scar', 'manipulate', 'brother']",2020-08-02T07:36:45+0000,0.35
+32,"['comedy', 'ted', 'talk', 'hyd', 'please', 'see', 'video', 'also']",2020-08-02T07:38:04+0000,0.0
+53,['priyadarshini'],2020-08-02T07:40:23+0000,0.0
+12,"['stop', 'make', 'fool', 'type', 'comedy', 'one', 'instead', 'go', 'movie', 'u', 'go', 'comedy', 'circus', 'like', 'u', 'r', 'good', 'actress', 'u', 'r', 'floop', 'absolutely', 'true', 'say', 'video']",2020-08-03T03:54:39+0000,0.5249999999999999
+52,"['evil', 'b']",2020-08-03T21:43:56+0000,-1.0
+17,"['ever', 'viral', 'video', 'help', 'indirectly', 'expose', 'good', 'job', 'rhea', 'many', 'come', 'willexpose', 'u']",2020-08-07T01:22:27+0000,0.6
+30,"['find', 'comedy', 'act', 'celebrate']",2020-08-07T01:23:46+0000,0.0

@@ -1,0 +1,357 @@
+,Comment,sentiment
+0,"['rip', 'fr', 'stan', 'swamy']",0.0
+1,"['india', 'great', 'n', 'shiningheartless', 'dirty', 'fellow', 'n', 'system', 'kill', 'innocent', 'man', 'may', 'u', 'rip', 'oh', 'fr', 'stan', 'swamy']",-0.2732
+2,"['href', 'request', 'need', 'straw', 'drink', 'water', 'court', 'take', 'week', 'grantand', 'jail', 'inmate', 'manage', 'get', 'mobile', 'amp', 'pistol', 'plot', 'execute', 'murder', 'whilesitting', 'jailwoow', 'judiciary', 'amp', 'jail', 'system']",-0.6908
+3,['rip'],0.0
+4,"['need', 'justice', 'deathwhere', 'humanityalmost', 'vey', 'old', 'police', 'people', 'torture', 'unethical']",-0.5859
+5,"['hate', 'hell', 'bjp']",-0.8519
+6,"['news', 'bullshit', 'father', 'burtally', 'torch', 'jail']",-0.5859
+7,"['ab', 'khali', 'bolke', 'kya', 'hoga', 'tab', 'koi', 'nahi', 'aaya', 'unki', 'madat', 'ke', 'liye', 'desai', 'ne', 'suddha', 'kadhi', 'ha', 'prashna', 'uchhala', 'hota', 'ka', 'ata', 'boltoy']",0.34
+8,"['fr', 'stan', 'swamy', 'death', 'land', 'acquire', 'rich', 'corporation', 'ambanis', 'take', 'country', 'tribals', 'nothing', 'education', 'food', 'depend', 'mother', 'nature', 'sad', 'lashwadeep', 'destroy', 'bjp', 'government']",-0.7845
+9,"['worry', 'indigenous', 'people', 'childrenwho', 'loot', 'throw', 'away', 'city', 'work', 'toilet', 'cleaner', 'corporates', 'sewage', 'workhow', 'cope', 'wicked', 'educate', 'world']",-0.6808
+10,"['weak', 'thing', 'capacity', 'say', 'good', 'good']",0.4404
+11,"['every', 'good', 'work', 'repay', 'evil', 'give', 'back', 'full', 'every', 'one', 'give', 'account', 'earth', 'well', 'eternally']",-0.1027
+12,"['stand', 'people', 'treat', 'like', 'countryy', 'request', 'one', 'sipper', 'bottle', 'court', 'take', 'day', 'give', 'beautyfull', 'system', 'yarr']",0.6369
+13,"['deeply', 'pain', 'way', 'old', 'man', 'kill', 'treat', 'last', 'day']",-0.7645
+14,"['bjp', 'chutia', 'hii']",0.0
+15,"['vaise', 'pehle', 'vetican', 'se', 'pooch', 'ker', 'peta', 'kero', 'ki', 'kya', 'ek', 'vyakti', 'ek', 'saath', 'swaami', 'aur', 'father', 'rehsekta', 'hai', 'kyaagar', 'veh', 'mana', 'kerere', 'case', 'ko', 'bend', 'ker', 'vestige', 'time', 'money', 'indian', 'citizenreligious', 'fraudulentnothing', 'else']",0.0
+16,"['crocodile', 'tear', 'care', 'much', 'quiet', 'palghar', 'sadhu', 'conversion', 'money', 'speak']",0.4939
+17,"['sirdesai', 'must', 'ask', 'foreigner', 'involve', 'yr', 'year', 'promote', 'finance', 'india', 'foreign', 'fund', 'maoist', 'communist', 'naxalite', 'conversion', 'divisive', 'politics', 'one', 'side', 'story', 'doesnot', 'make', 'neutral', 'channel']",0.3818
+18,"['always', 'think', 'live', 'great', 'country', 'democratic', 'value', 'uphold']",0.7579
+19,"['speak', 'voice', 'alive']",0.3818
+20,"['abe', 'ye', 'esai', 'tribal', 'activist', 'kaisa', 'tribal', 'se', 'eska', 'kya', 'samband', 'deshke', 'logonko', 'chutya', 'banana', 'band', 'karo']",0.0
+21,"['rip', 'fatherthank', 'poor', 'countrymay', 'human', 'like', 'bear']",-0.1531
+22,"['support', 'fr', 'swamy']",0.4019
+23,"['work', 'towards', 'beatification', 'late', 'father', 'stan', 'swamy', 'finally', 'sainthood', 'may', 'bestow', 'quotsaint', 'tribals', 'amp', 'government', 'atrocity']",0.0
+24,"['god', 'punish', 'bjp', 'politician']",-0.3182
+25,"['dont', 'know', 'background', 'case', 'shame', 'government', 'accuse', 'old', 'man', 'terrorism', 'charge', 'prisoned', 'without', 'give', 'basic', 'madical', 'requirement', 'shame', 'modi']",-0.9118
+26,"['judge', 'wronglygod', 'judge']",0.0
+27,"['fr', 'stand', 'kind', 'hearted', 'parson', 'soul', 'rich', 'heaven', 'may', 'god', 'grand', 'eternel', 'peace', 'amen']",0.9578
+28,"['medium', 'people', 'stand', 'justice', 'ft', 'stan', 'swamy', 'assassinate']",0.5267
+29,"['rajdeep', 'question', 'whether', 'state', 'sponsor', 'murder', 'absolutely', 'cause', 'narendra', 'modi', 'doesnt', 'like', 'critic', 'opposer', 'idiotic', 'policy']",-0.8623
+30,"['happen', 'countrywhat', 'happen', 'judiciarythe', 'rulerspolice', 'civil', 'authority', 'fail', 'god', 'save', 'nation']",0.2732
+31,"['hero', 'doctor', 'diagnose', 'traitor', 'inhuman', 'immmature']",0.5574
+32,"['thank', 'ndtv', 'cover', 'issue', 'although', 'damage', 'do', 'already', 'channel', 'even', 'interest']",0.3182
+33,"['congrats', 'mr', 'rajdeep', 'well', 'come', 'back', 'democracy', 'good', 'presentation', 'least', 'death', 'human', 'right', 'democracy', 'amp', 'mr', 'stan', 'swamy', 'thank']",0.9193
+34,"['use', 'speak', 'christian', 'many', 'people', 'know', 'murder', 'government', 'injustice', 'do', 'holy', 'priest', 'salute', 'father', 'stan', 'may', 'soul', 'rest', 'peace']",-0.7096
+35,"['mind', 'beg', 'questionhitler', 'govts', 'sinister', 'amp', 'terroristspower', 'corruptmust', 'watchful', 'peoplegovt']",-0.5994
+36,"['mind', 'beg', 'questiona', 'govt', 'build', 'concentration', 'campsa', 'parliament', 'approve', 'totalitarian', 'lawswhat', 'condition', 'need', 'metto', 'establish', 'pmgovt', 'fascistnazi']",-0.4767
+37,"['bjp', 'play', 'big', 'game', 'india', 'court', 'work', 'bjp']",0.34
+38,"['gandhi', 'die']",-0.5994
+39,"['gandhi', 'die']",-0.5994
+40,"['country', 'people', 'provide', 'biriany', 'people', 'kill', 'many', 'people', 'provide', 'single', 'sipper', 'good', 'human', 'stan', 'swamy']",-0.4215
+41,"['long', 'narendra', 'modi', 'pm', 'country', 'christian', 'safe']",0.4404
+42,"['invite', 'curse', 'pay', 'price']",-0.5106
+43,"['telecast', 'death', 'murder', 'like', 'upa', 'prisoner']",-0.891
+44,"['rest', 'peace', 'father']",0.5423
+45,"['shame', 'indian', 'judiciary', 'kill', 'innocent', 'man', 'people', 'responsible', 'fr', 'stan', 'death', 'burn', 'hell', 'surround', 'demon', 'cry', 'nobody', 'hear', 'punishment']",-0.9633
+46,"['nomadic', 'treatment', 'fr', 'stan', 'swamy']",0.0
+47,"['racism', 'communalism', 'country', 'still', 'exist']",-0.6249
+48,"['three', 'leader', 'go', 'relax', 'social', 'worker', 'poor', 'sacrifice', 'life', 'without', 'marriage', 'luxury', 'wage', 'brutally', 'murder', 'nia', 'judiciary', 'instead', 'shrine', 'president', 'medalsdid', 'modi', 'close', 'ear', 'eye', 'satisfy', 'thirst', 'fix', 'punish']",-0.8834
+49,"['thank', 'india', 'today', 'channel', 'bring', 'true', 'news', 'people', 'nation', 'injustice', 'do', 'fr', 'stan', 'swamy', 'authority', 'responsible', 'wion', 'channel', 'give', 'wrong', 'news', 'say', 'provide', 'facility', 'thank', 'open', 'eye', 'people', 'give', 'true', 'news', 'get', 'scar', 'powerful', 'demolish', 'democracy', 'country']",0.802
+50,"['pray', 'martyr', 'fr', 'jam', 'kottayil', 'sj', 'nawatnr', 'parish', 'ranchi', 'dioeces', 'th', 'july', 'st', 'john', 'baptist', 'church', 'thuruthipally', 'pala', 'dioeces', 'kerala', 'india']",0.3182
+51,"['rajdip', 'say', 'evidence', 'sketchy', 'judiciary', 'give', 'stens', 'bail']",0.0
+52,"['kya', 'stens', 'swami', 'rajdip', 'sardesai', 'ke', 'father', 'rip']",0.0
+53,"['could', 'kill', 'jesus', 'innocent', 'man']",-0.5106
+54,"['rajdeep', 'sardesai', 'glad', 'soul', 'get', 'sell', 'time', 'happen', 'ssr', 'case', 'earliermay', 'god', 'enlighten', 'give', 'courage', 'speak', 'truth', 'justice', 'god', 'bless']",0.9648
+55,"['shameful', 'even', 'criminal', 'give', 'treatment', 'even', 'kasab', 'give', 'good', 'treatment', 'prison']",-0.7906
+56,"['involve', 'arrest', 'imprison', 'deny', 'bail', 'unjustly', 'accuse', 'father', 'stan', 'swamy', 'one', 'day', 'face', 'true', 'justice', 'lord', 'master']",0.1531
+57,"['jesuit', 'get', 'involve', 'jesus', 'say', 'give', 'god', 'ceasar']",0.2732
+58,"['god', 'godo', 'god']",0.4939
+59,"['nationwide', 'protest', 'need', 'observe']",-0.25
+60,"['indian', 'judiciary', 'n', 'bureaucrat', 'mishandle', 'law']",0.0
+61,"['give', 'life', 'god', 'get', 'involve', 'anti', 'nationalist']",-0.0516
+62,"['seek', 'spell', 'mistake']",-0.34
+63,"['sad', 'didnt', 'unite', 'save', 'noble', 'soul', 'unity', 'diversity']",-0.8024
+64,"['may', 'soul', 'rest', 'peace', 'fr']",0.5423
+65,"['government', 'terribe', 'kill', 'truth']",-0.5267
+66,"['rest', 'peace', 'father', 'karma', 'pay', 'price']",0.4767
+67,"['way', 'congress', 'govemrn', 'ment', 'charge', 'jail', 'custody', 'court', 'find', 'legitimate', 'grind', 'refuse', 'bail', 'court', 'lie', 'part', 'big', 'conspiracy']",-0.6808
+68,"['short', 'totally', 'innocent', 'saintly', 'person', 'nothing', 'train', 'tribals', 'take', 'arm', 'government', 'sure', 'frameup', 'innocent', 'man', 'wow']",0.8882
+69,"['father', 'remember', 'always']",0.0
+70,"['due', 'police', 'amp', 'judiciary', 'negligence', 'year', 'old', 'priest', 'lose', 'life', 'many', 'languish', 'jail', 'without', 'trial']",-0.4019
+71,"['blood', 'central', 'government']",0.0
+72,"['quot', 'murderquotof', 'frswamy', 'come', 'severe', 'disgraceful', 'blow', 'face', 'idiotic', 'ruler', 'particularly', 'indian', 'judiciary', 'hide', 'shame', 'simply', 'boast', 'legal', 'system', 'intact', 'ensure', 'even', 'criminal', 'may', 'escape', 'single', 'innocent', 'punish', 'per', 'law', 'concept', 'save', 'fr', 'swamy', 'torture', 'amp', 'disgrace', 'actually', 'suffer', 'deadly', 'confirm', 'criminal', 'would', 'even', 'trial', 'start', 'justice', 'time', 'legal', 'luminary', 'amp', 'human', 'right', 'activist', 'come', 'street', 'raise', 'voice', 'abundantly', 'support', 'common', 'people']",-0.9356
+73,"['lord', 'know', 'everything', 'leave', 'hand', 'r', 'real', 'judge', 'world']",0.4588
+74,"['verysad', 'news']",0.0
+75,"['taloja', 'jail', 'near', 'heaven', 'walkable', 'distance', 'slow', 'pace', 'reach', 'anybody', 'doubt']",0.2263
+76,"['real', 'hero', 'adiwasi', 'may', 'soul', 'rest', 'peace']",0.7964
+77,"['belive', 'man', 'saint', 'modern', 'day', 'martyr', 'suffer', 'hand', 'central', 'government', 'greatest', 'embarrassment', 'govt', 'declare', 'thr', 'patron', 'saint', 'india']",0.25
+78,"['belive', 'man', 'saint', 'modern', 'day', 'martyr', 'suffer', 'hand', 'central', 'government', 'greatest', 'embarrassment', 'govt', 'declare', 'thr', 'patron', 'saint', 'india']",0.25
+79,"['murder', 'criminal', 'background', 'modi', 'shaw']",-0.8442
+80,"['agency', 'involve', 'father', 'sswamy', 'case', 'unilaterally', 'club', 'one', 'issue', 'give', 'bail', 'even', 'die', 'custody', 'govt', 'machinery', 'moot', 'punish', 'people', 'help', 'adivasis', 'tribals', 'upliftment', 'dirty', 'politics', 'pray', 'father', 'sswamy', 'give', 'rip']",-0.7351
+81,"['sc', 'hc', 'bjp', 'modi', 'amp', 'co', 'blood', 'body', 'democracy', 'dead', 'rip']",-0.6486
+82,"['may', 'god', 'bless', 'brain', 'behind', 'attrosities', 'may', 'soul', 'rest', 'peace']",0.8126
+83,"['lord', 'jesus', 'christ', 'please', 'forgive', 'wrong', 'word', 'deed', 'evil', 'towards', 'fr', 'stan', 'swamy', 'respect', 'fr', 'holy', 'soul', 'surely', 'rest', 'peace', 'amen', 'rest', 'peace', 'fr', 'amen']",0.836
+84,"['father', 'stan', 'murder', 'happen', 'birsa', 'munda', 'trible', 'leader', 'jharkhand']",-0.6908
+85,['rip'],0.0
+86,"['wonder', 'issue', 'un', 'human', 'right', 'group', 'around', 'world']",0.0
+87,"['watch', 'live', 'telecast', 'funeral', 'service', 'fr', 'stan', 'swamy', 'touch', 'loked', 'peaceful', 'death', 'sure', 'forgive', 'deprive', 'decent', 'dignify', 'human', 'life']",-0.0258
+88,"['see', 'already', 'witness', 'casualty', 'due', 'way', 'fr', 'stan', 'swamy', 'treat', 'ax', 'law', 'minister', 'wait', 'watch', 'casualty', 'one', 'responsible', 'ask', 'forgiveness', 'wrath', 'almighty', 'un', 'thinkable']",-0.1779
+89,"['rajdeep', 'sardesai', 'know', 'stan', 'involve', 'plan', 'kill', 'pm', 'always', 'stand', 'antinationals']",-0.6908
+90,"['shame', 'government', 'democracy', 'country', 'anymore', 'humanity', 'death', 'country']",-0.7906
+91,"['even', 'whole', 'world', 'become', 'christian', 'go', 'happen', 'loud', 'hallelujah', 'suffer', 'much']",0.128
+92,"['bless', 'u', 'sir', 'stand', 'martyr', 'may', 'ur', 'tribe', 'increase']",0.6249
+93,"['sorrowful', 'act', 'person', 'year', 'undergo', 'imprisonment', 'deny', 'bail', 'hurt', 'human', 'groundsthat', 'indian', 'suffer', 'age', 'cruelty', 'much', 'injustice', 'whereas', 'undergo', 'treatment', 'leave', 'free', 'cruel', 'treatment', 'innocent', 'person', 'age', 'year', 'suffer', 'injustice']",-0.979
+94,"['court', 'grant', 'bail', 'himthen', 'definitely', 'must', 'find', 'involvementhe', 'must', 'fight', 'cause', 'tribalsbut', 'encourage', 'wage', 'war', 'countryif', 'everyone', 'start', 'itwhat', 'situationjust', 'imagine']",0.25
+95,"['different', 'law', 'yardstick', 'different', 'peopleam', 'sorry']",-0.0772
+96,"['respect', 'mantotal', 'empathy', 'towards', 'familybut', 'law', 'land', 'respectedyou', 'encourage', 'people', 'wag', 'war', 'countryfr', 'stan', 'swamy', 'support', 'urban', 'moistwhat', 'recent', 'crpf', 'young', 'men', 'murdured', 'moistno', 'human', 'right', 'guy', 'defend', 'state']",0.6124
+97,"['fr', 'stan', 'swamy', 'sure', 'heaven', 'scope', 'investigation', 'journalism', 'stan', 'swami', 'helpless', 'poor', 'jarkhand', 'adivasis', 'jail']",-0.128
+98,"['trust', 'govt', 'missionary', 'ulterior', 'motif']",0.5106
+99,"['mani', 'polititian', 'many', 'murder', 'do', 'law', 'still', 'roming', 'free', 'year', 'shame', 'shame', 'india', 'law']",-0.8225
+100,"['rev', 'stan', 'swamy', 'forgive', 'u', 'indian', 'barbaric', 'inhuman', 'treatment', 'go', 'nation', 'ashamed', 'government', 'handle', 'casewe', 'sadden', 'demise', 'helpless', 'way']",-0.8225
+101,"['modi', 'treat', 'like', 'one', 'day']",0.6369
+102,"['pray', 'beautification', 'stanswammy', 'saint', 'iof', 'spiritual', 'corporal', 'work', 'mercy']",0.7717
+103,"['day', 'pass', 'believe', 'government', 'goingshame', 'governmenthe', 'sick', 'n', 'one', 'fight', 'himmshame', 'shame', 'shamekeep', 'doin', 'thing', 'lyk', 'corona', 'worst', 'thn', 'corona', 'wil', 'com', 'n', 'punish']",-0.9477
+104,"['well', 'plan', 'murder', 'bjp', 'govt']",-0.5574
+105,"['pray', 'soul', 'rest', 'peace']",0.7003
+106,"['finally', 'murder', 'noble', 'social', 'worker', 'work', 'poorest', 'poor', 'country', 'rest', 'peace', 'father']",-0.7003
+107,"['yes', 'indirectly', 'murder']",-0.4588
+108,"['bail', 'deny', 'correctly', 'criminal', 'ill', 'mean', 'give', 'bail', 'die', 'natural', 'death', 'give', 'treatment', 'per', 'law', 'nothing', 'tragic', 'terrorist', 'die']",-0.9115
+109,"['country', 'let', 'go', 'people', 'like', 'vijay', 'mallya', 'deny', 'sipper', 'repeat', 'bail', 'plea', 'ail', 'year', 'manwake', 'india', 'injustice', 'peak']",-0.5574
+110,"['achhe', 'din']",0.0
+111,"['country', 'india', 'respect', 'senior', 'citizen', 'countryhe', 'ashram', 'babuwhat', 'harm', 'countryhe', 'fight', 'justice', 'poorshame', 'present', 'bjp', 'government']",0.1027
+112,"['blood', 'shed', 'cross', 'herod', 'pilate', 'become', 'friend', 'rise', 'death', 'perpetrator', 'meet', 'end']",-0.5994
+113,"['fr', 'stan', 'swamy', 'target', 'stand', 'way', 'persecution', 'tribals', 'also', 'work', 'communal', 'harmony', 'become', 'nuisance', 'government', 'fr', 'stan', 'die', 'martyr', 'sacrifice', 'life', 'battle', 'injustice']",-0.8176
+114,"['political', 'pressure', 'deny', 'justice', 'failure', 'judiciary']",-0.5423
+115,"['state', 'gain', 'murder', 'fr', 'stan', 'swamy', 'fr', 'stan', 'swamy', 'humanitarian', 'man', 'god', 'government', 'could', 'treat', 'humanity', 'part', 'bhimakoregaon', 'violence', 'arrest', 'nia', 'national', 'intelligence', 'agency', 'dubious', 'case', 'elgar', 'parishad', 'violence', 'live', 'heart', 'hero', 'brave', 'dissenter', 'stand', 'fascist', 'modi', 'government', 'cost', 'life', 'narendra', 'modi', 'amit', 'shah', 'fr', 'stan', 'blood', 'hand', 'country', 'never', 'forgive', 'death', 'fr', 'stan', 'swamy', 'july', 'haunt', 'indian', 'judiciary', 'forever', 'may', 'soul', 'rest', 'peace', 'fr', 'stan', 'swamy', 'survive', 'long', 'inevitable', 'death', 'murder', 'nothing', 'else', 'prolong', 'torture', 'fr', 'stan', 'swamy', 'face', 'age', 'condition', 'even', 'face', 'protest', 'deliberately', 'impose', 'state', 'do', 'defiantly', 'blatantly', 'openly', 'make', 'point', 'example', 'premeditate', 'bloodyminded', 'malice', 'bar', 'fang', 'highest', 'level', 'stan', 'defiance', 'epic', 'level', 'stick', 'conviction', 'last', 'might', 'power', 'state', 'could', 'break', 'year', 'old', 'man', 'many', 'ailment', 'infect', 'covid', 'end', 'like', 'gladys', 'stain', 'widow', 'late', 'graham', 'stain', 'burn', 'alive', 'along', 'two', 'son', 'sure', 'true', 'faith', 'forgive', 'oppressor', 'state', 'achieve', 'murderingfr', 'stan', 'swamy']",0.8693
+116,"['adivasi', 'always', 'peace', 'love']",0.8271
+117,"['father', 'rajdeep']",0.0
+118,"['urban', 'naxal', 'like', 'dickdeep', 'sardesai']",0.3612
+119,"['great', 'news', 'virus', 'kill', 'another', 'virus', 'anti', 'india', 'force', 'come', 'together', 'call', 'insect', 'freedom', 'fighter', 'wake', 'hindu', 'dont', 'fall', 'cheap', 'trick', 'libarandus']",0.4675
+120,"['stanswamy', 'get', 'medical', 'facility', 'ordinary', 'criminal', 'custody', 'never', 'get', 'hueampcry', 'indian', 'presstitutes']",-0.5267
+121,"['yes', 'supreme', 'court', 'silent', 'enquiry']",0.743
+122,"['go', 'indian', 'medium', 'bark', 'behalf', 'china', 'please', 'enlighten', 'charge', 'arrest', 'serious', 'ill', 'health', 'excuse', 'pardon']",0.4019
+123,"['yr', 'old', 'fr', 'stan', 'swamy', 'go', 'india', 'safe']",0.4404
+124,"['rest', 'piece', 'shame', 'bloddy', 'authority', 'cause', 'deathyou', 'always', 'prayer']",-0.4215
+125,"['julio', 'judiciary', 'disturb', 'earth', 'support', 'rhea']",0.0
+126,"['look', 'ssr', 'n', 'dishas', 'case', 'much', 'genuine', 'proof', 'n', 'yet', 'judiciary', 'take', 'forever', 'solve', 'case', 'coz', 'favorite', 'involve', 'india', 'today']",0.5859
+127,"['alive', 'help', 'get', 'dead', 'point', 'talk', 'heaven', 'safe', 'hand', 'need', 'justice']",0.9153
+128,"['julio', 'rebeiro', 'pls', 'honest', 'defend', 'favorite']",0.765
+129,"['bjp', 'pay', 'price', 'murder', 'catholic', 'priest', 'gvt', 'never', 'come', 'back', 'power']",-0.7269
+130,"['except', 'india', 'today', 'leave', 'lobby', 'nobody', 'bother', 'death', 'year', 'old', 'natural', 'death', 'india', 'become', 'fashion', 'terrorist', 'naxal', 'supporter', 'suffix', 'name', 'human', 'right', 'activist']",-0.9081
+131,"['live', 'saint', 'earth', 'may', 'soul', 'rest', 'peace', 'amen']",0.5423
+132,"['rest', 'peace', 'father', 'pray', 'u', 'heaven']",0.8442
+133,"['modi', 'sha', 'destroy', 'country']",-0.5423
+134,"['dear', 'frstan', 'great', 'hero', 'may', 'god', 'grant', 'soul', 'heavenly', 'peace', 'n', 'reward']",0.9779
+135,"['chai', 'man', 'condole', 'actor', 'die', 'priest', 'die', 'obstruction', 'rich', 'die', 'shame', 'system', 'suck', 'one', 'bother', 'hand', 'blood', 'history', 'repeat']",-0.9231
+136,"['make', 'fr', 'stan', 'hero', 'die', 'custody', 'state', 'authority', 'deny', 'oh', 'right', 'treat', 'cruelly', 'prison', 'inhumane', 'treatment', 'fr', 'stan', 'widely', 'condemn', 'mankind', 'strangest', 'term', 'authority', 'satisfy', 'murder', 'fr', 'stan', 'crime', 'fight', 'right', 'underprivileged', 'minority', 'world', 'watch']",-0.9509
+137,"['guy', 'foreign', 'fund', 'maoist', 'kill', 'many', 'people', 'die', 'natural', 'death', 'sirdesai', 'speak', 'good', 'pay', 'foreign', 'father', 'gaddhar']",-0.8591
+138,"['pithhu', 'sirdesai', 'pay', 'agent', 'foreign', 'fund', 'work', 'leftist', 'ford', 'ngo', 'qatar', 'gaddhar']",-0.1027
+139,"['stop', 'conversion', 'mafia', 'stop', 'conversion', 'mafia', 'use', 'foreign', 'fund', 'stop', 'conversion', 'mafia', 'control', 'european', 'usa', 'visa', 'fund', 'journalist', 'make', 'pliant', 'pliant', 'journalist', 'human', 'right', 'activist', 'fund', 'conversion', 'mafia', 'overlook', 'naxalite', 'muscle', 'power', 'use', 'control', 'tribal', 'area', 'conversion', 'activity', 'carry', 'areasstop', 'conversion', 'hindu']",-0.6808
+140,"['rajdeep', 'ofcourse', 'sympathise', 'terrorist', 'member', 'ban', 'terrorist', 'organisation', 'link', 'naxals', 'maoist', 'hundred', 'jawan', 'lose', 'life', 'red', 'terror', 'call', 'journalist', 'like', 'rajdeep', 'provide', 'intellectual', 'cover', 'red', 'terror', 'shame']",-0.9674
+141,"['strict', 'action', 'take', 'misguide', 'give', 'false', 'information', 'keep', 'people', 'radar', 'support', 'stain', 'like', 'culprit']",0.6369
+142,"['everyone', 'know', 'innocent', 'system', 'know', 'misuse', 'power']",0.34
+143,"['modi', 'amitshaw', 'govt', 'fight', 'vulnerable', 'people', 'evil', 'act']",-0.836
+144,"['sad', 'may', 'allah', 'grand', 'hin', 'janat', 'hereafter', 'word', 'express', 'level', 'cruelty', 'brave', 'heart', 'face', 'rip', 'salute', 'sir', 'bravery']",0.3818
+145,"['ultimate', 'shame', 'leader', 'department', 'india', 'humanity', 'show', 'curse', 'government']",-0.765
+146,"['fr', 'swamy', 'yo', 'hero', 'brave', 'frworked', 'tirelessly', 'basic', 'need', 'tribals', 'instead', 'appreciate', 'award', 'system', 'jail', 'decline', 'even', 'medical', 'need', 'sad', 'hear', 'fr', 'sorry', 'cruelty', 'ill', 'treat', 'rest', 'peace', 'frswamy']",0.8519
+147,"['shame', 'legal', 'system', 'one', 'case', 'usual', 'value', 'life', 'country', 'legal', 'system', 'fail', 'world', 'watch', 'dirty', 'system']",-0.7269
+148,"['shameful', 'cowardly', 'state', 'affair', 'country', 'fr', 'stan', 'hope', 'tribals', 'adivasis', 'work', 'shame', 'politician', 'suppose', 'take', 'care', 'privilege', 'however', 'involve', 'lose', 'game', 'india', 'throw', 'bad', 'light', 'across', 'world', 'frstan', 'go', 'rightful', 'place', 'ie', 'heaven', 'god', 'almighty']",-0.2732
+149,"['great', 'humanatarian', 'ever', 'see', 'history', 'india']",0.6249
+150,"['great', 'warriorbut', 'death', 'pay', 'consequence']",-0.0516
+151,"['sad', 'indeed', 'lord', 'mercy', 'soul', 'may', 'perpetual', 'light', 'shine', 'upon', 'may', 'god', 'angel', 'present', 'beautiful', 'soul', 'god', 'high', 'mhsripp', 'place', 'responsible', 'suffer', 'hand', 'almighty', 'god']",0.8625
+152,"['rip', 'fr', 'stan', 'may', 'lose', 'battlefield', 'human', 'good', 'deed', 'raise', 'heaven', 'christianity', 'teach', 'people', 'god', 'need', 'clearly', 'successful', 'praise', 'lord']",0.9201
+153,"['india', 'hope', 'distraught', 'poorest', 'poor', 'bjp', 'government', 'traitor', 'amd', 'need', 'bring', 'soon', 'take', 'country', 'towards', 'dustbin']",-0.8074
+154,"['live', 'voiceless', 'die', 'murder', 'petty', 'state', 'civil', 'society', 'carry', 'india', 'league', 'north', 'korea', 'congratulation']",-0.7579
+155,"['modi', 'need', 'blame', 'kill', 'many', 'covid', 'one', 'death', 'pinch', 'salt', 'modi', 'inform', 'pressn', 'investigate', 'matter', 'matter', 'priest', 'dead', 'day', 'country', 'come', 'back', 'normal', 'self', 'modi', 'know', 'blood', 'hand']",-0.9169
+156,"['another', 'graham', 'stain', 'incident', 'justice', 'delay', 'justice', 'deny', 'court', 'need', 'summer', 'vacation', 'like', 'school']",0.6808
+157,"['shame', 'nia']",-0.4767
+158,"['people', 'two', 'saint', 'kill', 'palgarh', 'front', 'police', 'capture', 'video', 'brutality', 'still', 'give', 'shock', 'judiciary', 'deny', 'bail', 'base', 'evidence']",-0.9287
+159,"['nia', 'action', 'allegation', 'preposterous', 'even', 'deny', 'fr', 'stan', 'medical', 'condition', 'karma', 'befall', 'themnothing', 'else', 'bjp', 'r', 'modishah']",-0.34
+160,"['justice', 'corrupt', 'bjp', 'govt', 'shame', 'indian', 'judiciary', 'system']",0.0772
+161,"['indian', 'democracy', 'ventilator']",0.0
+162,"['person', 'talk', 'shame', 'mr', 'desai', 'still', 'need', 'help', 'one', 'fight', 'need', 'help', 'happy', 'heaven']",0.7717
+163,"['great', 'shame', 'country', 'activist', 'ail', 'senior', 'citizen', 'gentle', 'man', 'tag', 'terrorist', 'mercilessly', 'kill', 'government', 'court']",-0.7579
+164,"['bjp', 'r', 'convert', 'india', 'total', 'totaletrian', 'statepowertends', 'tocorrupt', 'absolutepower', 'corruptsabsolutely']",0.0
+165,"['cold', 'blood', 'judicial', 'kill', 'ashamed']",-0.8316
+166,"['soon', 'country', 'destroy', 'elect', 'leader']",-0.5423
+167,"['government', 'judiciary']",0.0
+168,['sad'],-0.4767
+169,"['u', 'martyr']",0.0
+170,"['shame', 'judiciary']",-0.4767
+171,"['ironically', 'un', 'n', 'eu', 'issue', 'statement', 'christian', 'suffer']",-0.5423
+172,"['murrder', 'yah', 'hatya', 'hai']",0.0
+173,"['mourner', 'book', 'uapa', 'one', 'support', 'uapa', 'activist', 'also', 'put', 'uppa']",0.0258
+174,"['father', 'go', 'great', 'grand', 'father', 'rip', 'fuck', 'father']",0.5574
+175,"['jawan', 'die', 'fight', 'maoist', 'guy', 'sympathiser', 'maoism', 'name', 'tribal', 'welfare']",-0.7579
+176,"['href', 'killler', 'look']",0.0
+177,"['jinda', 'hoon', 'mai', 'ya', 'saansen', 'chal', 'rahi', 'hai']",0.0
+178,"['gareebon', 'ke', 'sath', 'khara', 'hone', 'wale', 'ko', 'salaam']",0.0
+179,"['law', 'abuse', 'use', 'torture', 'innocent', 'civilian', 'support', 'help', 'unprivileged', 'downtrodden', 'human', 'be', 'govt', 'seem', 'autocratic', 'court', 'remain', 'blind', 'deafthis', 'injustice', 'old', 'priest', 'bring', 'shame', 'countrymay', 'god', 'forgive', 'brutual', 'ruler']",-0.8225
+180,"['use', 'telecast', 'death', 'medium', 'sleep', 'suffer', 'jail', 'sad', 'murder', 'humanity']",-0.9451
+181,"['entire', 'system', 'responsible', 'innocent', 'kill', 'like', 'law', 'help', 'person', 'like', 'arnab', 'goswami', 'shame']",0.3818
+182,"['dat', 'wat', 'happen', 'martyr', 'live', 'christian', 'life', 'enjoy', 'heaven']",0.7579
+183,"['aane', 'wale', 'samay', 'hum', 'sub', 'usi', 'rudhiwadi', 'takatoke', 'gulam', 'hone', 'wale', 'hai', 'congratulation', 'indian']",0.5994
+184,"['father', 'shall', 'remember', 'lord', 'u', 'fearless', 'humble', 'great', 'role', 'model', 'work', 'poor', 'people']",0.5994
+185,"['sad', 'note', 'one', 'work', 'upliftment', 'downtrodden', 'persecute', 'one', 'give', 'hate', 'speech', 'invite', 'crowd', 'even', 'signal', 'bail', 'grant', 'pragya', 'thakur', 'n', 'babu', 'bajrangi', 'health', 'grind', 'deny', 'privilege', 'yr', 'old', 'citizen', 'part', 'rule', 'party']",-0.6124
+186,"['apply', 'arnab', 'goswami']",0.0
+187,"['fr', 'swami', 'deliberately', 'infect', 'covid', 'authority', 'jail', 'murder', 'blood', 'head', 'nia', 'currupted', 'institute', 'tarrorist', 'parlament']",-0.6597
+188,"['proof', 'banana', 'republic', 'period']",0.0
+189,"['way', 'stop', 'give', 'mineralrich', 'land', 'ambanis', 'adanis', 'bulldoze', 'local', 'inhabitant', 'dead', 'go', 'nothing', 'leave', 'fight', 'protect', 'know', 'ingenious', 'politician', 'may', 'fight', 'graf', 'dead']",-0.858
+190,"['may', 'soul', 'rest', 'peace', 'father', 'thank', 'much', 'wonderful', 'service']",0.8658
+191,"['may', 'soul', 'rest', 'peace']",0.5423
+192,"['totally', 'justicemay', 'fr', 'stan', 'soul', 'rest', 'eternal', 'peace']",0.5423
+193,"['since', 'much', 'interest', 'injustice', 'wonder', 'one', 'take', 'interest', 'rajan', 'pillai', 'jailedfor', 'crime', 'commit', 'india', 'allow', 'go', 'hospital', 'least', 'father', 'hospitalise']",0.2263
+194,"['spread', 'hate', 'remindingabout', 'acrroties', 'year', 'ago', 'must', 'also', 'reming', 'christian', 'missionary', 'peaseants', 'goa', 'year', 'agothese', 'people', 'choose', 'selective', 'main', 'agenda', 'show', 'hinduism', 'poorshe', 'die', 'old', 'age', 'complication']",-0.8225
+195,"['happen', 'india', 'extremely', 'distress', 'dangerous', 'shameful']",-0.8894
+196,"['justice', 'vr', 'krishna', 'iyer', 'justice', 'sarkaria', 'justice', 'hr', 'khanna', 'chief', 'justice', 'yv', 'chandrachud', 'justice', 'mc', 'gupta', 'stalwart', 'transformational']",0.9517
+197,"['rip', 'sir', 'sacrifice', 'go', 'waste', 'safe', 'hand', 'almighty', 'neither', 'forget', 'forgive', 'perpetrator', 'face', 'retribution', 'hell', 'death', 'justice', 'towards', 'evil', 'cruel', 'brutal', 'unforgiving', 'forgiveness', 'know', 'jai', 'mata', 'di']",-0.9104
+198,"['halt', 'development', 'activity', 'conversion', 'happen', 'place']",0.0
+199,"['murderer', 'fundamental', 'right']",-0.6808
+200,"['judicial', 'kill', 'bjp', 'r', 'ideology', 'agenda', 'brother']",-0.6908
+201,"['state', 'judiciary', 'police', 'hospital', 'state', 'central', 'govt', 'v', 'maoism', 'harharmahadev']",0.0
+202,"['god', 'judge', 'moron', 'action']",-0.2732
+203,"['rip', 'indian', 'judiciary']",0.0
+204,"['rape', 'accuse', 'swamy', 'nithyananda', 'still', 'free', 'still', 'indian', 'union']",-0.4939
+205,"['rajdeep', 'would', 'appreciate', 'show', 'kind', 'emotion', 'program', 'lakh', 'people', 'languish', 'jail', 'across', 'india', 'deny', 'bail', 'access', 'legal', 'help', 'high', 'profile', 'case', 'try', 'project', 'champion', 'right', 'downtrodden', 'definitely', 'reason', 'bail', 'give', 'also', 'lakh', 'others', 'talk', 'justice', 'one', 'person', 'hypocritical']",0.9313
+206,['novotebjpinallindia'],0.0
+207,"['kind', 'discussion', 'do']",0.5267
+208,"['judgement', 'judge', 'consistant', 'law', 'constitution', 'quite', 'earratic']",0.0
+209,"['need', 'change', 'india', 'indian', 'authority', 'power', 'hindu', 'indian', 'vice', 'versa']",0.0772
+210,"['rest', 'eternal', 'peace', 'fr', 'stan']",0.5423
+211,"['jesus', 'give', 'u', 'blood', 'fresh', 'u', 'crucify']",0.3182
+212,"['observe', 'dreze', 'deny', 'associate', 'maoist']",-0.34
+213,"['sad', 'fr', 'stan', 'rip', 'fight', 'win', 'battle', 'believe', 'government', 'india', 'give', 'bail', 'beautiful', 'person', 'harsh', 'treatment']",-0.3612
+214,"['satish', 'maneshinde', 'lawyer']",0.0
+215,"['uapa', 'require', 'review', 'without', 'doubt']",0.2755
+216,"['sad', 'rip', 'fr', 'stan']",-0.4767
+217,"['quoteven', 'entitle', 'humane', 'treatmemtquot']",0.0
+218,"['may', 'soul', 'annointed', 'shepherd', 'god', 'take', 'care', 'folk', 'mercy', 'christ', 'jesus', 'rest', 'peace', 'amen']",0.8834
+219,"['great', 'lose', 'adivashi', 'jharkhand']",0.34
+220,"['pack', 'panel']",0.0
+221,"['india', 'democracy', 'country', 'democracy', 'dead', 'dictatorship', 'rule']",-0.6486
+222,"['ridiculous', 'point', 'chargesheet', 'leftist', 'foment', 'enmity', 'religion', 'time', 'uapa', 'draconian', 'outdated', 'law', 'review', 'judiciary', 'central', 'investigation', 'agency', 'liberate', 'political', 'party', 'government', 'pressure', 'ridicule', 'military', 'instal', 'government', 'pakistan', 'freedom', 'deny', 'dictatorial', 'china', 'every', 'opportunity', 'sure', 'slap']",0.5423
+223,"['stans', 'death', 'compare', 'lynch', 'palghar', 'sadhu', 'palghar', 'sadhu', 'threat', 'congress', 'take', 'u', 'ambassador']",-0.8074
+224,"['arnab', 'story', 'today', 'stan', 'semi']",0.0
+225,"['really', 'sad', 'rip', 'fr']",-0.5256
+226,"['fr', 'stan', 'swamy', 'true', 'hero']",0.7506
+227,"['caucasian', 'guy', 'import', 'seditious', 'crookharsh', 'mander', 'collect', 'crore', 'dollar', 'abroad', 'instigate', 'delihi', 'riot', 'jail', 'decade', 'least', 'rebiro', 'mass', 'religous', 'conversion', 'racket', 'fundamentalist', 'christian']",-0.743
+228,"['r', 'muder', 'jail', 'good', 'work', 'buting', 'jail', 'kill', 'shameless', 'india', 'world', 'look']",-0.6369
+229,"['human', 'right', 'law', 'abide', 'citizen', 'seditious', 'crook', 'evangelical', 'christian', 'priest', 'exploit', 'innocence', 'adivasis']",-0.128
+230,"['even', 'bedridden', 'maoist', 'dangerous', 'better', 'die', 'prison']",-0.8126
+231,"['many', 'antinational', 'maoist', 'languish', 'various', 'jail', 'let', 'organise', 'maoist', 'style', 'massacre', 'place', 'better', 'keep', 'jail', 'ever']",0.4404
+232,"['do', 'enough', 'mischief', 'industrial', 'scale', 'conversion', 'contrive', 'pretend', 'follower', 'jesus', 'christ', 'maosit', 'organise', 'massacre', 'innocent', 'civilian', 'kind', 'jusuit', 'preist', 'hea', 'bite', 'diabolical', 'priest']",0.4404
+233,"['god', 'open', 'eye', 'kill', 'good', 'peole']",-0.1779
+234,"['stan', 'swamy', 'crook', 'priest', 'hell', 'bend', 'convert', 'adivasis', 'upset', 'indian', 'democracy']",-0.802
+235,"['religious', 'conversion', 'artist', 'whole', 'life', 'one', 'immerse', 'unlawful', 'activity', 'seditious', 'core', 'want', 'use', 'indian', 'constitution', 'topple', 'india', 'democracy', 'sad', 'demise', 'lament', 'leftist', 'jihadis']",-0.8176
+236,"['everything', 'world', 'belong', 'bad', 'paradise', 'father', 'forgive', 'u', 'father']",0.4215
+237,"['rest', 'peace', 'dear', 'fathershame', 'juridical', 'system']",0.7269
+238,['murder'],-0.6908
+239,"['amit', 'shah', 'go', 'respond', 'inhuman', 'act', 'do', 'old', 'guy', 'little', 'shame', 'god', 'watch']",-0.2466
+240,"['murder', 'innocent', 'cover', 'crimesindia', 'ancient', 'land', 'know', 'mercy', 'forbearance', 'hell', 'facism']",-0.7506
+241,"['rajdeep', 'cryto', 'christian', 'silent', 'plaghar', 'sadhu', 'lynch']",0.0
+242,"['may', 'fr', 'soul', 'rip']",0.0
+243,"['may', 'soul', 'rest', 'peacefeel', 'sad', 'indian', 'citizen']",-0.4767
+244,"['justice', 'father', 'stan']",0.5267
+245,"['bless', 'persecute', 'sake', 'great', 'reward', 'heaven', 'quotmathew', 'chapter', 'verse', 'small', 'consolation', 'hundred', 'believer', 'remind', 'kind', 'horrendous', 'crime', 'past', 'dr', 'graham', 'stain', 'burn', 'death', 'along', 'two', 'small', 'son', 'lay', 'sleep', 'car', 'man', 'charge', 'say', 'reaction', 'quot', 'conversation', 'conversion', 'quot']",0.4588
+246,"['pass', 'awayfrstan', 'attain', 'martyrdom', 'unique', 'kindmay', 'soul', 'rip', 'n', 'find', 'true', 'justice', 'heaven', 'freedomsadthe', 'jesuit', 'priest', 'get', 'justice', 'incompetant', 'n', 'corrupt', 'indian', 'judiciary']",0.9169
+247,"['wish', 'punish', 'allege', 'involvement', 'anyway', 'thank', 'god', 'many', 'govt', 'administration', 'amp', 'court', 'slow', 'nationalist', 'indian', 'hope', 'supreme', 'god']",0.8885
+248,"['palghar', 'case', 'plz', 'bring', 'fwd', 'truth']",0.3818
+249,"['nirav', 'modi', 'choksi', 'brother', 'vijay', 'mallya', 'nithya', 'nanda', 'dawood', 'name', 'live', 'life', 'gentleman', 'mean', 'judicial', 'custody', 'man', 'year', 'old', 'need', 'do', 'death', 'citizen', 'aword', 'humanity', 'sad', 'touch', 'incident', 'brutality', 'core', 'modijee', 'kee', 'accha', 'din', 'dikee', 'hai']",-0.9001
+250,"['sad', 'eternal', 'rest', 'grant', 'unto', 'fr', 'swan', 'lord', 'let', 'perpetual', 'light', 'shine', 'upon', 'may', 'rest', 'peace', 'amen']",0.4404
+251,"['wiseman', 'say', 'elect', 'clown', 'expect', 'circus']",0.0
+252,"['corrupt', 'medium', 'fake', 'channel', 'antinational', 'rajdeep', 'get', 'support', 'antinational']",-0.1027
+253,"['r', 'work', 'extensively', 'among', 'tribal', 'community', 'wo', 'convert', 'religion', 'like', 'christianity', 'maoist']",0.3612
+254,"['reberio', 'shed', 'dirty', 'tear', 'catholic', 'dy', 'rabid', 'communal', 'julio']",-0.4404
+255,"['good', 'riddance']",0.4404
+256,"['wtf', 'niacbisupreme', 'courtelection', 'commission', 'puppet', 'modi', 'shah', 'government']",-0.5859
+257,"['rahul', 'baba', 'since', 'new', 'partner', 'shiv', 'sena', 'form', 'maharashtra', 'government']",0.0
+258,"['fr', 'swami', 'rest', 'peace', 'pray', 'u']",0.7003
+259,"['real', 'power', 'government', 'adibasi']",0.0
+260,"['judiciary', 'fail', 'supreme', 'court', 'fail', 'intervene']",-0.5267
+261,"['lose', 'faith', 'government', 'justice', 'corruption', 'go']",0.5423
+262,"['destiny', 'health', 'nobody', 'else', 'responsible']",0.3182
+263,"['stan', 'swamy', 'urban', 'naxalplease', 'play', 'victim', 'card']",0.0772
+264,"['welcome', 'republic']",0.4588
+265,"['palghar', 'sadhu', 'murder', 'one', 'shed', 'tear']",-0.6908
+266,"['need', 'feel', 'ashamed', 'give', 'proper', 'medication', 'involve', 'naxel', 'activity']",-0.4767
+267,"['may', 'father', 'satan', 'swami', 'soul', 'rest', 'peace']",0.5423
+268,"['uapa', 'abolish']",0.0
+269,"['see', 'hypocrite', 'nothing', 'live', 'suddenly', 'shed', 'tear', 'blame', 'judiciary', 'deathshame', 'hypocrite']",-0.34
+270,"['rip', 'father', 'become', 'saint', 'india']",0.0
+271,"['ask', 'maharashtra', 'government', 'failure', 'justice']",0.0258
+272,"['favour', 'thy', 'favourkill', 'deadquotfavour', 'hate', 'speech', 'kmkilled', 'afghan', 'frankenstein', 'manner', 'care', 'giver', 'poor', 'tribalswhere', 'hrc', 'indiastand', 'year', 'oldreturn', 'gift', 'father', 'stan', 'swamyakhil', 'gogoi', 'assam', 'release', 'lack', 'evidence', 'uapa', 'hear', 'press', 'conference', 'speech', 'name', 'hold', 'responsible']",0.5574
+273,"['nobody', 'help', 'save', 'life', 'value', 'poor', 'people', 'country', 'follow', 'theory', 'might', 'right', 'may', 'soul', 'rest', 'peace', 'amen']",0.8271
+274,"['believe', 'indian', 'justicecan', 'leave', 'india', 'go', 'country', 'find', 'justice']",0.4939
+275,"['andh', 'bhakth', 'godi', 'mediaopen', 'eye']",0.0
+276,"['popular', 'hence', 'everyone', 'talk', 'lakh', 'people', 'languish', 'jail', 'without', 'crime', 'many', 'criminal', 'roam', 'free', 'recently', 'one', 'guy', 'free', 'year', 'frame', 'fake', 'rape', 'case', 'medium', 'debate']",0.7372
+277,"['several', 'plea', 'release', 'medical', 'grind', 'reject', 'lead', 'death', 'anybody', 'file', 'case', 'system', 'murder']",-0.9062
+278,['margaya'],0.0
+279,"['hinduism', 'kill', 'time', 'father', 'stan', 'swamy', 'stay', 'safe', 'avoid', 'hinduism']",-0.6124
+280,"['nia', 'become', 'narendra', 'investigation', 'agency', 'nia', 'institute', 'terror', 'case', 'become', 'fraud', 'agency', 'case', 'nonterror', 'find', 'trace', 'terrorism', 'work', 'vest', 'interest', 'modi', 'govt', 'ban', 'nia']",-0.9246
+281,"['uapa', 'act', 'look', 'politician', 'best', 'interest', 'democracy', 'wise', 'india', 'die', 'soon', 'great', 'sacrifice', 'forefather', 'go', 'vain']",0.8271
+282,"['true', 'servant', 'lord']",0.4215
+283,"['sadned', 'miss', 'rev', 'father']",-0.1531
+284,"['rip', 'rev', 'father', 'stan', 'swamy']",0.0
+285,"['injustice', 'do', 'fr', 'stan', 'swamy', 'justice', 'do', 'stan', 'swamy', 'give', 'justice']",0.4767
+286,"['god', 'give', 'bail', 'stans', 'lourthu', 'samy', 'bear', 'tiruchi', 'tamilnadu', 'work', 'tribe', 'jarkhandrip']",0.2732
+287,"['may', 'soul', 'rest', 'peace']",0.5423
+288,"['put', 'jail', 'want', 'look', 'themself', 'infront', 'mirror', 'want', 'ask', 'human', 'right', 'activist', 'really', 'really', 'blame', 'bjp', 'party', 'take', 'majority', 'long', 'india', 'bad', 'situation']",-0.4419
+289,"['india', 'secretly', 'apply', 'devide', 'rule', 'policy', 'mizoram', 'christian', 'state', 'assam', 'bjp', 'take', 'majority', 'try', 'take', 'part', 'mizoram', 'land', 'toocatholic', 'christian', 'suffer', 'many', 'way', 'second', 'xi', 'jingping']",-0.5423
+290,"['bledyfools', 'time', 'talk', 'nonsense', 'person', 'death', 'take', 'place']",-0.765
+291,"['responsible', 'central', 'government', 'judge', 'jail', 'authoritieswill', 'face', 'karma']",0.3182
+292,"['finally', 'fr', 'stan', 'swamy', 'get', 'kill', 'new', 'pliant', 'judiciary', 'medium', 'agency', 'many', 'die', 'fire', 'injustice', 'suffer', 'reach', 'every', 'door', 'burn', 'house']",-0.959
+293,"['crpf', 'official', 'die', 'fight', 'maoist', 'mercy', 'people', 'conspire', 'country']",-0.6124
+294,"['sad', 'day', 'fir', 'christian', 'missionary', 'an', 'maoist']",-0.4767
+295,"['cry', 'rajdeep', 'cry', 'maoist', 'christian', 'father', 'pass', 'away']",-0.7351
+296,"['miss', 'use', 'power', 'indian', 'govt']",-0.1531
+297,"['nia', 'celebrate', 'get', 'promotion']",0.5719
+298,"['god', 'punish', 'dirty', 'judgescan', 'judge', 'dare', 'mother']",-0.6369
+299,"['yeah', 'good', 'jail', 'senior', 'citizen', 'provide', 'basic', 'need', 'criminal', 'politician', 'police', 'powerful', 'people', 'roam', 'free', 'eben', 'get', 'bail', 'get', 'marry', 'farce', 'judiciary', 'system', 'run', 'god', 'know']",0.7351
+300,"['common', 'delay', 'court', 'hear', 'n', 'make', 'innocent', 'people', 'suffer', 'ever', 'refuse', 'give', 'sipper', 'punish', 'judiciary', 'suck', 'medium', 'get', 'nia', 'air', 'talk']",-0.8979
+301,"['nda', 'govt']",0.0
+302,"['crime', 'larger', 'life', 'ignominous', 'act', 'long', 'checker', 'stay', 'tribal', 'area', 'clearly', 'debase', 'shed', 'crocodile', 'tear', 'agerelated', 'natural', 'demise', 'likely', 'expose', 'agenda', 'publicity', 'starve', 'news', 'agency', 'public', 'domain', 'would', 'interest', 'soil', 'expose', 'renegade']",-0.1027
+303,"['news', 'go', 'day', 'n', 'forget', 'medium', 'give', 'help', 'alive', 'n', 'sipper', 'give', 'cruelty', 'bcos', 'priest', 'nia', 'would', 'modi', 'need', 'straw']",-0.128
+304,"['ache', 'din', 'yeh', 'hai']",-0.3818
+305,"['need', 'pity', 'maoist']",-0.296
+306,"['talk', 'kill', 'bengal', 'since', 'talk', 'obvious', 'issue', 'credibility', 'zero', 'may', 'men', 'dispose', 'pin', 'blame', 'right', 'rule', 'party', 'may', 'truth', 'come', 'slap', 'culprit', 'right', 'face']",-0.3612
+307,"['use', 'show', 'fr', 'stan', 'swamy', 'dead']",-0.6486
+308,"['really', 'democratic', 'country', 'v', 'sad', 'india', 'goinggone', 'back', 'stone', 'age', 'civilization']",-0.5209
+309,"['really', 'democratic', 'country', 'v', 'sad', 'india', 'goinggone', 'back', 'stone', 'age', 'civilization']",-0.5209
+310,"['murder', 'central', 'government', 'judge']",-0.6908
+311,"['continue', 'india', 'deserve', 'international', 'sanction']",0.0
+312,"['corrupt', 'journalist', 'mercy', 'conversion', 'mafia', 'hold', 'key', 'european', 'usa', 'visa', 'also', 'pump', 'lot', 'money', 'news', 'organisation', 'return', 'journalist', 'ignore', 'conversion', 'mafia', 'illegal', 'activity', 'find', 'raise', 'hell', 'medium', 'action', 'take', 'conversion', 'mafia']",-0.8481
+313,"['long', 'live', 'fr', 'stan', 'sincere', 'dedication', 'cause', 'poor', 'inspire', 'million', 'sensible', 'indian', 'stand', 'unite', 'stop', 'senseless', 'treatment', 'give', 'saintly', 'man', 'god', 'frstan']",0.4939
+314,"['rajdeep', 'sardesai', 'never', 'fluent', 'always', 'grope', 'word', 'people', 'wonder', 'call', 'tv', 'news', 'anchor', 'ask', 'question', 'make', 'sense', 'bias']",-0.1027
+315,"['proper', 'plan', 'murder', 'innocent', 'man', 'total', 'failure', 'govt', 'judicial', 'police', 'country', 'move', 'towards', 'lawlessness']",-0.765
+316,"['blood', 'innocent', 'soal', 'hand', 'perfume', 'arabia', 'sweeten']",0.6808
+317,['murder'],-0.6908
+318,"['create', 'social', 'unrest']",0.2732
+319,"['naxal', 'supporter']",0.2732
+320,"['today', 'frstanwho', 'kill', 'tomorrow']",-0.6908
+321,"['holy', 'jesus', 'thank', 'forgive', 'evil', 'heart']",-0.2023
+322,"['india', 'die', 'yesterday']",-0.5994
+323,"['stategodi', 'medium', 'judiciary', 'glove', 'deny', 'justice', 'take', 'citizen', 'life']",0.25
+324,"['politician', 'police', 'esp', 'nia', 'court', 'kill', 'period']",-0.6908
+325,"['rajdeep', 'show', 'doesnot', 'allow', 'panelist', 'speak', 'netanagri', 'lallantop', 'want', 'speak', 'doesnot', 'listen', 'anchor']",0.296
+326,"['deadhe', 'life', 'long', 'adivasi', 'converter', 'live', 'convert', 'people', 'rice', 'bagshe', 'life', 'long', 'antinational', 'activity', 'try', 'destroy', 'nationhe', 'life', 'long', 'leftist', 'create', 'caste', 'divide', 'divide', 'hindu']",-0.34
+327,"['stan', 'swamy', 'wage', 'war', 'india']",-0.5994
+328,"['rip', 'frswamy']",0.0
+329,"['rip', 'stan', 'swamy', 'yet', 'goodfor', 'nothing', 'criminal', 'politician', 'walk', 'free', 'disgraceful', 'bjp']",0.7249
+330,"['rajdick', 'dalaldesai', 'ak', 'dalal', 'haiaur', 'india', 'today', 'fake', 'news', 'today']",-0.4767
+331,"['inhumane', 'act', 'ashamed', 'indian']",-0.4767
+332,"['live', 'long', 'past', 'retirement', 'year', 'travail', 'one', 'usually', 'get', 'affect', 'ailment', 'gain', 'say', 'however', 'law', 'enforce', 'koregaon', 'issue', 'border', 'defeat', 'religious', 'supremacist', 'deny', 'supremacist', 'latter', 'support', 'british', 'win', 'occasion', 'celebration', 'stan', 'swamy', 'support', 'political', 'gain', 'deprive', 'remain', 'taxpayer', 'money', 'pillage', 'government', 'day', 'aspect', 'miss', 'bus', 'stan', 'think', 'irrationality', 'become', 'fodder', 'pronouncement', 'hatred', 'fill', 'environment', 'social', 'disorder', 'need', 'several', 'political', 'group', 'grieve', 'human', 'life', 'could', 'paint', 'world', 'wisdom', 'condemn', 'heinous', 'man', 'whose', 'wisdom', 'lay', 'spread', 'hatred']",-0.5106
+333,"['god', 'die', 'save', 'u', 'frm', 'sin', 'n', 'arise', 'da', 'day', 'n', 'comeback', 'take', 'u', 'bodily', 'heaven', 'u', 'believec', 'redemption', 'google']",0.0258
+334,"['may', 'soul', 'rest', 'eternal', 'peace', 'fr', 'stan', 'may', 'god', 'grant', 'u', 'grace', 'forgive', 'persecute', 'u', 'continue', 'live', 'life', 'faith', 'hope', 'importantly', 'love']",0.9643
+335,"['sri', 'ranjan', 'gogai']",0.0
+336,"['pray', 'country']",0.3182
+337,"['fantastic', 'judiciary', 'bright', 'police', 'colleague', 'worry', 'every', 'dog', 'dayu', 'see', 'guy', 'roll', 'bed']",0.5574
+338,"['definitely', 'murder', 'shame', 'indian', 'government']",-0.7269
+339,"['r', 'fascist', 'modi', 'government', 'cold', 'blood', 'kill', 'year', 'old', 'social', 'activist', 'whole', 'world', 'raise', 'condolence']",-0.8519
+340,"['court', 'reply', 'delay', 'justice', 'let', 'accuse', 'guilty', 'unless', 'declare', 'guilty', 'compromise', 'dignity', 'death', 'well', 'people', 'furious', 'court', 'respond', 'jus', 'wash', 'hand']",-0.7096
+341,"['failure', 'every', 'fuck', 'system', 'country', 'system', 'medium']",-0.7783
+342,"['paralyze', 'political', 'judiciary', 'india']",0.0
+343,"['god', 'die', 'save', 'u', 'frm', 'sin', 'n', 'arise', 'da', 'day', 'n', 'comeback', 'take', 'u', 'bodily', 'heaven', 'u', 'believec', 'redemption', 'google']",0.0258
+344,"['jo', 'begunah', 'logo', 'ko', 'jailo', 'tusa', 'gaya', 'hai', 'unka', 'badduwa', 'hindustan', 'ko', 'zaroor', 'lagega', 'vinaash', 'kaal', 'vipareet', 'bhuddhi']",0.0
+345,"['r', 'government', 'nia', 'hindustan', 'ka', 'sarvanash', 'karke', 'hi', 'maregha']",0.0
+346,"['murder', 'nothing', 'custodial', 'murder', 'shame', 'governmentour', 'policeour', 'judiciary', 'shame', 'u']",-0.7424
+347,"['indian', 'government', 'judiciary', 'trail', 'international', 'court', 'justice', 'outside', 'india', 'shame', 'indian', 'government', 'judiciary', 'shame', 'cold', 'blood', 'amp', 'deliberate', 'murder']",-0.8176
+348,"['thank', 'indian', 'government', 'indian', 'judiciary', 'nobelest', 'act', 'succeed', 'punish', 'greatest', 'conspirator', 'india', 'shame', 'u', 'citizen', 'country']",0.5267
+349,"['sad', 'day', 'indian', 'democracysocial', 'activsts', 'jail', 'leave', 'die', 'corrupt', 'let', 'lose']",-0.872
+350,"['shame', 'justice', 'system', 'country', 'movingshameless', 'inhumane', 'rip', 'sir', 'stan', 'swamy']",0.0772
+351,"['sham', 'man', 'kerala', 'work', 'year', 'adivasis', 'jharkhand', 'nothing', 'shame', 'young', 'blood', 'bela', 'bhatia', 'sudha', 'bharadwaj', 'jean', 'dreaze', 'stan', 'swary', 'real', 'hero', 'work', 'silently', 'political', 'leader', 'bark']",0.7314
+352,"['well', 'plan', 'murder']",-0.5574
+353,"['modi', 'unconstitutional', 'pm', 'evm', 'set', 'evm', 'set', 'aur', 'r', 'ne', 'kiya']",0.0
+354,"['congratulation', 'godi', 'medium', 'one', 'naxal', 'die', 'urban', 'naxal', 'deshdroh', 'foreign', 'fund', 'deshbhakt', 'modi', 'ji', 'bhakt', 'medium']",0.0
+355,"['sadhu', 'lunch', 'live', 'tv', 'care', 'old', 'man', 'dy', 'doubt', 'sad', 'old', 'age', 'health', 'problem', 'world', 'fall', 'mean', 'atleast', 'pretend', 'neutral']",-0.6705

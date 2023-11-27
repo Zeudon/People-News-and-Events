@@ -1,0 +1,867 @@
+,message,created_time,sentiment
+0,['rip'],2020-06-14T09:16:25+0000,0.0
+1,['rip'],2020-06-14T09:16:36+0000,0.0
+2,"['rip', 'sir']",2020-06-14T09:16:37+0000,0.0
+3,"['sukhdev', 'brar']",2020-06-14T09:16:40+0000,0.0
+4,['wtf'],2020-06-14T09:17:19+0000,-0.5
+5,['rip'],2020-06-14T09:17:38+0000,0.0
+6,['mannnnnn'],2020-06-14T09:17:42+0000,0.0
+7,"['omg', 'rip']",2020-06-14T09:17:50+0000,0.0
+8,['shock'],2020-06-14T09:17:50+0000,0.0
+9,"['rip', 'reason', 'jab', 'actor', 'suicide', 'karni', 'lagi', 'gay', 'aam', 'loog', 'ka', 'kari', 'ga']",2020-06-14T09:17:53+0000,0.4166666666666667
+10,"['sad', 'news']",2020-06-14T09:18:03+0000,-0.5
+12,['true'],2020-06-14T09:18:11+0000,0.35
+11,"['way', 'tell', 'fake']",2020-06-14T09:18:11+0000,-0.5
+13,"['rip', 'good', 'actor']",2020-06-14T09:18:12+0000,0.7
+14,"['unbelievable', 'rip']",2020-06-14T09:18:13+0000,-0.25
+15,"['oh', 'really', 'shock']",2020-06-14T09:18:17+0000,0.2
+16,['reason'],2020-06-14T09:18:25+0000,0.0
+17,"['rip', 'great', 'loss', 'world', 'entertainment', 'industry', 'fine', 'actor']",2020-06-14T09:18:39+0000,0.6083333333333334
+18,['curse'],2020-06-14T09:18:44+0000,0.0
+19,"['sad', 'news']",2020-06-14T09:18:54+0000,-0.5
+20,"['cant', 'believe', 'cant', 'believeso', 'shock', 'may', 'soul', 'rest', 'peace']",2020-06-14T09:18:56+0000,0.0
+21,"['oh', 'shock']",2020-06-14T09:18:56+0000,0.0
+22,['shock'],2020-06-14T09:19:01+0000,0.0
+23,"['one', 'best', 'actor']",2020-06-14T09:19:05+0000,1.0
+24,['rip'],2020-06-14T09:19:12+0000,0.0
+25,"['oh', 'god', 'tell', 'fake', 'news']",2020-06-14T09:19:13+0000,-0.5
+26,['fake'],2020-06-14T09:19:16+0000,-0.5
+27,"['money', 'cant', 'reason', 'sometime', 'back', 'buy', 'car', 'worth', 'rupee', 'cr', 'young', 'good', 'look', 'guy', 'rip', 'bro']",2020-06-14T09:19:19+0000,0.275
+28,"['one', 'favourite', 'actor', 'something', 'expect', 'brave', 'actor', 'rip']",2020-06-14T09:19:36+0000,0.8
+29,"['holy', 'im', 'shock']",2020-06-14T09:19:42+0000,0.0
+30,['dump'],2020-06-14T09:19:44+0000,0.0
+31,['true'],2020-06-14T09:19:46+0000,0.35
+32,['rip'],2020-06-14T09:19:46+0000,0.0
+33,['rip'],2020-06-14T09:19:50+0000,0.0
+34,"['actor', 'also', 'commit', 'suicide', 'india', 'due', 'poverty']",2020-06-14T09:19:56+0000,-0.125
+35,"['shock', 'n', 'sadrip']",2020-06-14T09:19:59+0000,0.0
+36,['rip'],2020-06-14T09:20:00+0000,0.0
+37,['rip'],2020-06-14T09:20:02+0000,0.0
+38,"['shock', 'rip']",2020-06-14T09:20:05+0000,0.0
+39,"['shivani', 'ragni']",2020-06-14T09:20:06+0000,0.0
+40,"['sad', 'news', 'may', 'soul', 'rest', 'peace']",2020-06-14T09:20:09+0000,-0.5
+41,"['unbelievable', 'cruel']",2020-06-14T09:20:10+0000,-0.625
+42,"['uday', 'singh', 'rajput', 'who']",2020-06-14T09:20:13+0000,0.0
+43,['unbelievable'],2020-06-14T09:20:15+0000,-0.25
+44,['rip'],2020-06-14T09:20:20+0000,0.0
+45,['u'],2020-06-14T09:20:25+0000,0.0
+46,"['wtf', 'yyy']",2020-06-14T09:20:26+0000,-0.5
+47,['real'],2020-06-14T09:20:29+0000,0.2
+48,"['uday', 'singh', 'rajput', 'iv', 'ur', 'bro']",2020-06-14T09:20:29+0000,0.0
+49,['rip'],2020-06-14T09:20:32+0000,0.0
+50,"['shockedwein', 'part', 'worldalways', 'take', 'mental', 'health', 'forgranted', 'everyone', 'u', 'suicidal', 'think', 'stagebut', 'suicide', 'optiontalk', 'people', 'around', 'yousolution', 'come', 'sure']",2020-06-14T09:20:33+0000,0.2
+51,"['way', 'end', 'lifeby', 'brave', 'man', 'like', 'himrip']",2020-06-14T09:20:33+0000,0.8
+52,"['sad', 'news']",2020-06-14T09:20:38+0000,-0.5
+53,"['really', 'devastate', 'year']",2020-06-14T09:20:49+0000,0.2
+54,"['omg', 'shock']",2020-06-14T09:20:54+0000,0.0
+55,['shock'],2020-06-14T09:20:55+0000,0.0
+56,"['sad', 'lovly', 'actor']",2020-06-14T09:20:59+0000,-0.5
+57,"['suicide', 'solution', 'get', 'dress', 'n', 'face', 'till', 'end']",2020-06-14T09:20:59+0000,0.0
+58,"['sarfaraz', 'dhoka', 'dy', 'gaya', 'apne', 'fan', 'ko', 'would', 'beautiful', 'soul', 'commit', 'suicide', 'look', 'like', 'murder', 'case', 'condolence', 'pakistan']",2020-06-14T09:21:03+0000,0.85
+59,"['shock', 'news', 'cant', 'believerip']",2020-06-14T09:21:09+0000,0.0
+60,"['heartbreaking', 'news']",2020-06-14T09:21:11+0000,0.0
+61,['rip'],2020-06-14T09:21:16+0000,0.0
+62,"['shock', 'sadden']",2020-06-14T09:21:17+0000,0.0
+63,"['way', 'wasso', 'sweetest', 'boy', 'true']",2020-06-14T09:21:20+0000,0.35
+64,['rip'],2020-06-14T09:21:20+0000,0.0
+65,"['really', 'feel', 'sad']",2020-06-14T09:21:22+0000,-0.15
+66,"['monaa', 'jaswani']",2020-06-14T09:21:26+0000,0.0
+67,['seriously'],2020-06-14T09:21:30+0000,-0.3333333333333333
+68,"['unfortunate', 'nice', 'talent', 'rest', 'peace', 'legend']",2020-06-14T09:21:30+0000,0.04999999999999999
+69,['terrible'],2020-06-14T09:21:30+0000,-1.0
+70,"['manager', 'also', 'commit', 'suicide', 'day', 'bck', 'untold', 'love', 'story', 'guess']",2020-06-14T09:21:31+0000,0.5
+71,"['sad', 'may', 'murder', 'need', 'investigation']",2020-06-14T09:21:33+0000,-0.5
+72,"['sad', 'respect', 'pakistan']",2020-06-14T09:21:55+0000,-0.5
+73,"['unbelievablevery', 'sad', 'somethings', 'seriously', 'wrong', 'first', 'ex', 'manager', 'rip']",2020-06-14T09:21:57+0000,-0.25
+74,"['much', 'sad', 'shock', 'eye', 'r', 'tear']",2020-06-14T09:21:59+0000,-0.5
+75,"['sad', 'news']",2020-06-14T09:22:00+0000,-0.5
+76,"['jignasha', 'solanki', 'maansi', 'shetty', 'anushka', 'bhat', 'bhavisha', 'solanki', 'ummm']",2020-06-14T09:22:05+0000,0.0
+77,"['m', 'dhoni', 'movie', 'ka', 'hero', 'tha']",2020-06-14T09:22:16+0000,0.0
+78,"['shock', 'sad', 'news']",2020-06-14T09:22:18+0000,-0.5
+79,['rip'],2020-06-14T09:22:22+0000,0.0
+80,['rip'],2020-06-14T09:22:27+0000,0.0
+81,['unbelievable'],2020-06-14T09:22:31+0000,-0.25
+82,['rip'],2020-06-14T09:22:36+0000,0.0
+83,['rip'],2020-06-14T09:22:42+0000,0.0
+84,['shock'],2020-06-14T09:22:47+0000,0.0
+85,"['sad', 'rip']",2020-06-14T09:22:53+0000,-0.5
+86,"['whats', 'happen']",2020-06-14T09:22:55+0000,0.0
+87,"['shock', 'unexpected', 'lose', 'energetic', 'actorrip']",2020-06-14T09:22:58+0000,0.3
+88,['shock'],2020-06-14T09:22:59+0000,0.0
+89,"['omg', 'ye', 'ho', 'kya', 'raha', 'hai', 'koi', 'itna', 'pareshan', 'bhi', 'ho', 'sakta', 'hai', 'ki', 'faansi', 'laga', 'le', 'rip']",2020-06-14T09:23:14+0000,0.0
+90,"['u', 'break', 'many', 'heat', 'today', 'brother', 'cowardrip']",2020-06-14T09:23:15+0000,0.5
+91,['rip'],2020-06-14T09:23:21+0000,0.0
+92,"['cant', 'cruel', 'every', 'bad', 'thing', 'happen', 'year']",2020-06-14T09:23:26+0000,-0.8499999999999999
+93,"['sad', 'learn', 'sad', 'news']",2020-06-14T09:23:30+0000,-0.5
+94,"['omg', 'unbelievable']",2020-06-14T09:23:35+0000,-0.25
+95,"['nurul', 'he', 'indian', 'actor']",2020-06-14T09:23:37+0000,0.0
+96,"['omg', 'really']",2020-06-14T09:23:40+0000,0.2
+97,"['star', 'chichore', 'movie', 'overcome', 'suicidal', 'tendency', 'sadly', 'real', 'life', 'tragic', 'end', 'rip', 'shouldnt', 'go', 'sushant', 'miss']",2020-06-14T09:23:44+0000,-0.275
+98,['rip'],2020-06-14T09:23:49+0000,0.0
+99,['rip'],2020-06-14T09:23:59+0000,0.0
+100,"['sad', 'news', 'good', 'actor', 'brilliant', 'performer', 'commit', 'suicidewe', 'never', 'know', 'anyone', 'go', 'personal', 'life', 'rip']",2020-06-14T09:24:07+0000,0.275
+101,['rip'],2020-06-14T09:24:09+0000,0.0
+102,"['zero', 'sympathy', 'younge', 'problem', 'n', 'depression', 'knock', 'everyones', 'door', 'way', 'world', 'never', 'place', 'fr', 'weak', 'person']",2020-06-14T09:24:17+0000,-0.375
+103,"['salaar', 'muhammad', 'uzair', 'rasool', 'mahota']",2020-06-14T09:24:33+0000,0.0
+104,['rip'],2020-06-14T09:24:40+0000,0.0
+105,['rip'],2020-06-14T09:24:47+0000,0.0
+106,"['news', 'true']",2020-06-14T09:24:47+0000,0.35
+107,"['rohan', 'chakrabarti']",2020-06-14T09:24:49+0000,0.0
+108,['rip'],2020-06-14T09:24:50+0000,0.0
+109,"['piyali', 'bhowmick', 'shock']",2020-06-14T09:24:52+0000,0.0
+110,"['sohrab', 'muhammad', 'unbelievable']",2020-06-14T09:24:54+0000,-0.25
+111,"['cant', 'believehe', 'good', 'actor']",2020-06-14T09:24:55+0000,0.7
+112,"['seriously', 'joke']",2020-06-14T09:25:07+0000,-0.3333333333333333
+113,"['rip', 'great', 'actor']",2020-06-14T09:25:08+0000,0.8
+114,"['phattu', 'sala']",2020-06-14T09:25:09+0000,0.0
+115,"['suicide', 'never', 'solutioni', 'sure', 'money', 'reasonmay', 'depressionrip']",2020-06-14T09:25:10+0000,0.5
+116,['sad'],2020-06-14T09:25:21+0000,-0.5
+117,['sad'],2020-06-14T09:25:27+0000,-0.5
+118,"['easy', 'say', 'one', 'need', 'strong', 'life', 'etc', 'etc', 'take', 'extreme', 'step', 'know', 'feel', 'severity', 'painsuffering', 'compel']",2020-06-14T09:25:37+0000,0.24722222222222223
+119,['rip'],2020-06-14T09:25:51+0000,0.0
+120,"['salaar', 'muhammad', 'biggest', 'upset']",2020-06-14T09:25:56+0000,0.0
+121,"['sohrab', 'muhammad', 'inquiry', 'murder']",2020-06-14T09:26:20+0000,0.0
+122,['rip'],2020-06-14T09:26:23+0000,0.0
+123,"['age', 'die', 'sad', 'felt', 'turn', 'help', 'rip']",2020-06-14T09:26:42+0000,-0.5
+124,"['cant', 'believe', 'sad', 'newsrip']",2020-06-14T09:26:43+0000,-0.5
+125,['seriously'],2020-06-14T09:26:45+0000,-0.3333333333333333
+126,"['finally', 'sarfaz', 'deceive', 'sad', 'news', 'yaar']",2020-06-14T09:26:55+0000,-0.25
+127,"['maham', 'issa', 'anum', 'shamim', 'issa']",2020-06-14T09:27:12+0000,0.0
+128,"['ruthless', 'year', 'rip']",2020-06-14T09:27:15+0000,-1.0
+129,"['rip', 'great', 'actor']",2020-06-14T09:27:17+0000,0.8
+130,['rip'],2020-06-14T09:27:17+0000,0.0
+131,"['hope', 'police', 'investigate', 'case']",2020-06-14T09:27:34+0000,0.0
+132,['rip'],2020-06-14T09:27:40+0000,0.0
+133,"['happen', 'lot', 'past', 'murder', 'label', 'suicide', 'rip', 'respect']",2020-06-14T09:27:45+0000,-0.25
+134,"['azeem', 'soomro', 'ozem', 'rapheal']",2020-06-14T09:28:14+0000,0.0
+135,"['omg', 'cant', 'accept', 'fair', 'earth', 'go']",2020-06-14T09:28:19+0000,0.7
+136,"['rest', 'peace', 'brother']",2020-06-14T09:28:41+0000,0.0
+137,"['salaar', 'muhammad', 'bakhsy', 'babu']",2020-06-14T09:28:47+0000,0.0
+138,"['cant', 'believe']",2020-06-14T09:28:47+0000,0.0
+139,"['rohan', 'chakrabarti', 'im', 'go', 'cry']",2020-06-14T09:28:55+0000,0.0
+140,['unbelievable'],2020-06-14T09:29:04+0000,-0.25
+141,"['shock', 'rip']",2020-06-14T09:29:07+0000,0.0
+142,['manav'],2020-06-14T09:29:14+0000,0.0
+143,['dead'],2020-06-14T09:29:15+0000,-0.2
+144,"['say', 'shock', 'would', 'understatement', 'rip', 'beautiful', 'soul']",2020-06-14T09:29:38+0000,0.85
+145,['rip'],2020-06-14T09:29:45+0000,0.0
+146,"['couldnt', 'tolerate', 'get', 'positive', 'covid', 'decide', 'quiet', 'life']",2020-06-14T09:29:53+0000,0.11363636363636363
+147,['kyu'],2020-06-14T09:30:02+0000,0.0
+148,['rip'],2020-06-14T09:30:06+0000,0.0
+149,"['rip', 'cant', 'believe', 'versatile', 'actor']",2020-06-14T09:30:17+0000,0.0
+150,['rip'],2020-06-14T09:30:26+0000,0.0
+151,['rip'],2020-06-14T09:30:29+0000,0.0
+152,['heck'],2020-06-14T09:30:37+0000,0.0
+153,"['cant', 'believe', 'good', 'actormay', 'soul', 'rest', 'peace']",2020-06-14T09:30:39+0000,0.7
+154,"['perform', 'beautifully', 'm', 'dhoni', 'sad', 'see', 'hom', 'go', 'like']",2020-06-14T09:30:41+0000,0.175
+155,['rip'],2020-06-14T09:30:51+0000,0.0
+156,['rip'],2020-06-14T09:30:52+0000,0.0
+157,['rip'],2020-06-14T09:30:52+0000,0.0
+158,"['please', 'say', 'true', 'brilliant', 'actor', 'inspirational', 'person', 'miss', 'real', 'well', 'reel', 'life']",2020-06-14T09:31:02+0000,0.4875
+159,"['oh', 'nohe', 'favorite']",2020-06-14T09:31:08+0000,0.5
+160,"['really', 'terrible', 'news', 'may', 'allah', 'give', 'patience', 'bereave', 'family', 'bear', 'loss', 'plz', 'go', 'fast', 'dont', 'need', 'u', 'anymore']",2020-06-14T09:31:25+0000,-0.4
+161,['rip'],2020-06-14T09:31:40+0000,0.0
+162,['rip'],2020-06-14T09:31:44+0000,0.0
+163,"['mohammed', 'bhutto', 'khan', 'suicide', 'nothing', 'brave', 'please', 'educate']",2020-06-14T09:31:51+0000,0.8
+164,"['depression', 'joke']",2020-06-14T09:31:54+0000,0.0
+165,"['corona', 'positive', 'nahi', 'hai']",2020-06-14T09:32:01+0000,0.22727272727272727
+166,"['good', 'actor']",2020-06-14T09:32:02+0000,0.7
+167,['omg'],2020-06-14T09:32:03+0000,0.0
+168,['sad'],2020-06-14T09:32:05+0000,-0.5
+169,"['unbelievable', 'end', 'day', 'depression', 'work', 'well', 'act', 'look', 'happy', 'well', 'dress', 'money', 'famouse', 'friend', 'around', 'enough', 'rest', 'peace']",2020-06-14T09:32:09+0000,0.18333333333333335
+170,"['rip', 'shock', 'real', 'life', 'people', 'fail']",2020-06-14T09:32:33+0000,-0.15
+171,"['sad', 'know']",2020-06-14T09:32:33+0000,-0.5
+172,"['depression', 'ek', 'bimari', 'hai', 'aur', 'logon', 'ko', 'yeh', 'accept', 'karna', 'padega', 'ek', 'suicide', 'hi', 'kewal', 'option', 'nahi', 'hota', 'hai']",2020-06-14T09:32:39+0000,0.0
+173,"['sohrab', 'muhammad', 'mahi']",2020-06-14T09:32:40+0000,0.0
+175,['rip'],2020-06-14T09:32:49+0000,0.0
+174,"['totally', 'do']",2020-06-14T09:32:49+0000,0.0
+176,"['ki', 'baat', 'ka', 'gham', 'must', 'girl', 'issue', 'kriti', 'sanon', 'must', 'reject']",2020-06-14T09:32:50+0000,0.0
+177,"['ohh', 'unbelievablereally', 'shock']",2020-06-14T09:32:52+0000,0.0
+178,"['shockingvery', 'sad']",2020-06-14T09:32:57+0000,-0.5
+179,['rip'],2020-06-14T09:33:04+0000,0.0
+180,"['heart', 'breakingshocking', 'n', 'sad']",2020-06-14T09:33:06+0000,-0.5
+181,"['cross', 'road', 'demon', 'deal', 'case', 'thinkhe', 'sell', 'soul', 'back', 'crossroad', 'demon', 'return', 'yr', 'life', 'would', 'want']",2020-06-14T09:33:31+0000,0.0
+182,"['om', 'shanti']",2020-06-14T09:33:40+0000,0.0
+183,"['rest', 'peace', 'sushant']",2020-06-14T09:33:43+0000,0.0
+184,['rip'],2020-06-14T09:33:49+0000,0.0
+185,"['sadyoung', 'boy']",2020-06-14T09:33:58+0000,0.0
+186,['rest'],2020-06-14T09:34:36+0000,0.0
+187,['rip'],2020-06-14T09:34:36+0000,0.0
+188,"['omg', 'cant', 'believehe', 'fantastic', 'actorrip']",2020-06-14T09:34:40+0000,0.4
+189,"['daldo', 'ilzaam', 'pakistan', 'pr', 'abtk', 'ki', 'bari', 'khabr', 'bna', 'k']",2020-06-14T09:34:42+0000,0.0
+190,"['cant', 'blame', 'himi', 'think', 'nobody', 'want', 'talk', 'problem', 'dont', 'know']",2020-06-14T09:34:44+0000,0.0
+191,"['unbelievableshockedom', 'shanti', 'peace']",2020-06-14T09:34:48+0000,0.0
+192,"['omg', 'happen', 'people', 'day', 'great', 'actor', 'sad', 'shock', 'hear', 'demise', 'rip']",2020-06-14T09:34:49+0000,0.15000000000000002
+193,"['omgi', 'cant', 'expect', 'thishe', 'good', 'actor']",2020-06-14T09:35:09+0000,0.7
+194,"['shoking', 'rip']",2020-06-14T09:35:23+0000,0.0
+195,['om'],2020-06-14T09:35:23+0000,0.0
+196,['rip'],2020-06-14T09:35:28+0000,0.0
+197,"['patnas', 'rise', 'star', 'brilliant', 'actor', 'seriously', 'cant', 'believe', 'rip']",2020-06-14T09:35:32+0000,0.2833333333333333
+198,['disgustfull'],2020-06-14T09:35:56+0000,0.0
+199,['rip'],2020-06-14T09:36:00+0000,0.0
+200,"['shimana', 'mazumdar']",2020-06-14T09:36:04+0000,0.0
+201,['rip'],2020-06-14T09:36:25+0000,0.0
+202,['rip'],2020-06-14T09:36:32+0000,0.0
+203,['rip'],2020-06-14T09:36:38+0000,0.0
+204,"['rip', 'sir']",2020-06-14T09:36:39+0000,0.0
+205,"['happy', 'pakistani']",2020-06-14T09:36:45+0000,0.8
+206,"['sushant', 'whyom', 'shocki', 'believeyou', 'thissad', 'sad']",2020-06-14T09:36:47+0000,-0.5
+207,"['ohhh', 'yarr', 'happen']",2020-06-14T09:36:49+0000,0.0
+208,"['charm', 'fellowhow', 'brave', 'man', 'like', 'runaway', 'life', 'really', 'shock']",2020-06-14T09:37:10+0000,0.5
+209,"['aishwrya', 'rajput', 'true', 'dont', 'think', 'suicide', 'attempt']",2020-06-14T09:37:15+0000,0.35
+210,"['cant', 'believe', 'read', 'news', 'young', 'actor', 'commit', 'suicide', 'iswar', 'uske', 'aatma', 'ko', 'santi', 'de', 'shanti']",2020-06-14T09:37:16+0000,0.1
+211,"['yah', 'jo', 'han', 'rahe', 'hai', 'aisa', 'lagta', 'hai', 'yah', 'inka', 'behnoi', 'tha', 'shameless', 'ppl']",2020-06-14T09:37:19+0000,0.0
+212,"['may', 'soul', 'eternal', 'peace', 'world', 'foot', 'still', 'come', 'term', 'horrific', 'news']",2020-06-14T09:37:21+0000,-1.0
+213,['rip'],2020-06-14T09:37:28+0000,0.0
+214,"['look', 'like', 'didnt', 'learn', 'anything', 'chichore']",2020-06-14T09:37:33+0000,0.0
+215,"['sad', 'news', 'may', 'soul', 'rest', 'peace']",2020-06-14T09:37:42+0000,-0.5
+216,"['vex', 'modi', 'maybbe']",2020-06-14T09:38:02+0000,0.0
+217,"['oh', 'sad', 'please', 'personality', 'always', 'give', 'positive', 'vibe', 'one', 'know', 'carry', 'inside', 'rip', 'beautiful', 'soul']",2020-06-14T09:38:05+0000,0.19242424242424241
+218,['rip'],2020-06-14T09:38:16+0000,0.0
+219,"['oh', 'charm', 'actor']",2020-06-14T09:38:21+0000,0.0
+220,['rip'],2020-06-14T09:38:31+0000,0.0
+221,"['really', 'sad']",2020-06-14T09:38:44+0000,-0.5
+222,"['ali', 'raza', 'cheema', 'he', 'sikh', 'obvious']",2020-06-14T09:38:47+0000,0.0
+223,"['may', 'soul', 'rest', 'peace']",2020-06-14T09:38:51+0000,0.0
+224,"['last', 'visit', 'indian', 'jammu', 'kashmir', 'brutatlity', 'saw', 'indian', 'occupy', 'force', 'get', 'depression', 'finally', 'hang', 'likewise', 'many', 'indian', 'army', 'official']",2020-06-14T09:38:59+0000,0.16666666666666666
+225,"['rip', 'sushant', 'singh', 'rajput']",2020-06-14T09:39:06+0000,0.0
+226,"['happy', 'porki']",2020-06-14T09:39:09+0000,0.8
+227,"['unbelievablelife', 'preciousi', 'request', 'everyone', 'plz', 'take', 'care', 'life', 'think', 'family']",2020-06-14T09:39:14+0000,0.0
+228,"['oh', 'godsuch', 'cruel', 'decision', 'take', 'man', 'teach', 'u', 'much', 'chichore', 'painful']",2020-06-14T09:39:16+0000,-0.5
+229,"['wasuli', 'jhanam']",2020-06-14T09:39:17+0000,0.0
+230,"['sarfaraz', 'ne', 'dhoka', 'diya']",2020-06-14T09:39:21+0000,0.0
+231,"['unplanned', 'lockdown', 'modi']",2020-06-14T09:39:22+0000,0.0
+232,"['sd', 'bad', 'news']",2020-06-14T09:39:23+0000,-0.6999999999999998
+233,"['good', 'news', 'he', 'successfully', 'reach', 'hell']",2020-06-14T09:39:45+0000,0.725
+234,"['oh', 'heart', 'wrench', 'condolence', 'family', 'rest', 'peace']",2020-06-14T09:39:58+0000,0.0
+235,"['aishwrya', 'rajput', 'doesnt', 'matter', 'religion']",2020-06-14T09:40:01+0000,0.0
+236,"['bro', 'love']",2020-06-14T09:40:12+0000,0.5
+237,"['waseem', 'ali', 'funny', 'please', 'act', 'humane']",2020-06-14T09:40:19+0000,0.25
+238,"['aise', 'bede', 'actor', 'take', 'big', 'amount', 'loan', 'market', 'dont', 'give', 'back', 'might', 'do', 'suside']",2020-06-14T09:40:19+0000,0.0
+239,"['waseem', 'ali']",2020-06-14T09:40:20+0000,0.0
+240,['oh'],2020-06-14T09:40:21+0000,0.0
+241,"['numan', 'arif', 'see', 'brutality', 'pak', 'army', 'baluchistan', 'kashmir']",2020-06-14T09:40:25+0000,0.0
+242,"['junaid', 'khan', 'hey', 'animal', 'go', 'die', 'rot', 'hell']",2020-06-14T09:40:31+0000,0.0
+243,"['gourab', 'partho']",2020-06-14T09:40:41+0000,0.0
+244,"['commit', 'suicide', 'set', 'right', 'example', 'future', 'generation']",2020-06-14T09:40:49+0000,0.14285714285714285
+245,"['aishwrya', 'rajput', 'excellent', 'actor', 'example', 'others']",2020-06-14T09:40:50+0000,1.0
+246,"['look', 'madarchods']",2020-06-14T09:41:02+0000,0.0
+247,"['oh', 'god']",2020-06-14T09:41:14+0000,0.0
+248,"['omg', 'he', 'real', 'gem', 'outstanding', 'actor', 'great', 'job', 'pk', 'dhoni', 'movie', 'whats', 'happen', 'oh', 'god', 'unbelevaible']",2020-06-14T09:41:27+0000,0.5
+249,"['nitish', 'singh', 'pangtey', 'wear', 'lundian', 'army', 'uniform', 'gayhind']",2020-06-14T09:41:29+0000,0.0
+250,['omg'],2020-06-14T09:41:31+0000,0.0
+251,"['money', 'n', 'worldly', 'pleasure', 'would', 'cause', 'mental', 'peace', 'n', 'happiness', 'routine', 'happen', 'say', 'likewise', 'case', 'elite', 'class', 'could', 'dream', 'never', 'accomplish', 'conclusion', 'le', 'always', 'verily', 'heart', 'find', 'peace', 'remembrance', 'allah', 'swt', 'rip', 'allahu', 'akbar']",2020-06-14T09:41:33+0000,0.3
+252,"['abey', 'haram', 'ki', 'paidaishbhonk', 'mat', 'idhar']",2020-06-14T09:41:36+0000,0.0
+253,['ok'],2020-06-14T09:41:46+0000,0.5
+255,"['people', 'go', 'treatment', 'hospital', 'something', 'happen', 'guy', 'kill', 'sake', 'selfish', 'people', 'kill', 'themself', 'call', 'selfish']",2020-06-14T09:41:59+0000,-0.5
+254,"['oooh', 'sad']",2020-06-14T09:41:59+0000,-0.5
+256,"['whats', 'reason']",2020-06-14T09:42:02+0000,0.0
+257,"['heartbreaking', 'news', 'nothing', 'worse', 'could', 'happen', 'year', 'love', 'u', 'sushant', 'may', 'soul', 'rest', 'peace']",2020-06-14T09:42:03+0000,0.04999999999999999
+258,['rip'],2020-06-14T09:42:13+0000,0.0
+259,['shock'],2020-06-14T09:42:16+0000,0.0
+260,"['bollywood', 'come', 'big', 'question', 'mark', 'kind', 'mythical', 'lifemythical', 'glamour', 'mythical', 'love', 'give', 'spread', 'negativity', 'real']",2020-06-14T09:42:22+0000,0.325
+261,"['unbelievable', 'news', 'sad', 'hear']",2020-06-14T09:42:23+0000,-0.375
+262,"['im', 'really', 'sad', 'hear', 'disturb', 'news', 'incredible', 'rise', 'actor', 'bollywood', 'film', 'industry', 'rip']",2020-06-14T09:42:25+0000,0.2
+263,"['rest', 'peace']",2020-06-14T09:42:30+0000,0.0
+264,"['ali', 'raza', 'cheema', 'support', 'freedom', 'movement', 'sikh']",2020-06-14T09:43:00+0000,0.0
+265,"['ranki', 'dutta', 'worst', 'year']",2020-06-14T09:43:22+0000,-1.0
+267,['rip'],2020-06-14T09:43:24+0000,0.0
+266,"['cheryll', 'sylvester']",2020-06-14T09:43:24+0000,0.0
+268,['rip'],2020-06-14T09:43:28+0000,0.0
+269,"['absolutely', 'sadden', 'man', 'star', 'chhichhore', 'movie', 'beautifully', 'deal', 'battle', 'suicidal', 'think', 'never', 'know', 'person', 'go', 'rip', 'sushant', 'singh', 'rajput']",2020-06-14T09:43:30+0000,0.525
+270,"['many', 'young', 'people', 'look', 'bollywood', 'star']",2020-06-14T09:43:34+0000,0.3
+271,"['numan', 'arif', 'wear', 'porki', 'army', 'terrorist', 'hope', 'another', 'plane', 'crash']",2020-06-14T09:43:36+0000,0.0
+272,['sad'],2020-06-14T09:43:45+0000,-0.5
+273,"['deepest', 'sympathy', 'condolence', 'go', 'family', 'sad', 'know', 'leave', 'early', 'maymay', 'god', 'give', 'eternal', 'peace', 'solely', 'miss', 'fan', 'film', 'fraternity', 'rest', 'peace', 'sushant', 'shock', 'sadden']",2020-06-14T09:43:51+0000,-0.2
+274,"['rip', 'heartbreaking']",2020-06-14T09:43:56+0000,0.0
+275,"['dont', 'think', 'commit', 'sucide', 'cbi', 'investigation', 'do']",2020-06-14T09:43:59+0000,0.0
+276,"['rip', 'shock', 'news', 'pakistan']",2020-06-14T09:44:01+0000,0.0
+277,"['rip', 'heart', 'break', 'news']",2020-06-14T09:44:03+0000,0.0
+278,['rip'],2020-06-14T09:44:04+0000,0.0
+279,['rip'],2020-06-14T09:44:05+0000,0.0
+280,['rip'],2020-06-14T09:44:10+0000,0.0
+281,"['clearly', 'murder', 'case']",2020-06-14T09:44:13+0000,0.10000000000000002
+282,"['miss', 'man']",2020-06-14T09:44:17+0000,0.0
+283,['rip'],2020-06-14T09:44:23+0000,0.0
+284,"['cant', 'belive', 'shock', 'rip']",2020-06-14T09:44:31+0000,0.0
+285,['heartbreakingrip'],2020-06-14T09:44:46+0000,0.0
+286,"['deepest', 'heartfelt', 'condolence', 'family']",2020-06-14T09:44:50+0000,0.0
+287,"['want', 'investigation']",2020-06-14T09:44:55+0000,0.0
+288,"['asia', 'noor', 'yes']",2020-06-14T09:44:57+0000,0.0
+289,['know'],2020-06-14T09:45:11+0000,0.0
+290,"['sad', 'disturb', 'newsrest', 'peace']",2020-06-14T09:45:15+0000,-0.5
+291,"['unbelievable', 'news', 'rip']",2020-06-14T09:45:20+0000,-0.25
+292,['possible'],2020-06-14T09:45:25+0000,0.0
+293,"['mental', 'health', 'important', 'come', 'role', 'family', 'friend', 'never', 'know', 'person', 'go', 'share', 'dear', 'one', 'rip']",2020-06-14T09:45:28+0000,0.15000000000000002
+294,"['nohe', 'cant', 'commit', 'suicidehe', 'strong', 'mani', 'think', 'murder']",2020-06-14T09:45:30+0000,0.4333333333333333
+295,"['ali', 'raza', 'cheema', 'time', 'eventually', 'reveal', 'truth']",2020-06-14T09:45:32+0000,0.0
+296,"['nitish', 'singh', 'pangtey', 'shame', 'must', 'burn', 'hell']",2020-06-14T09:45:36+0000,0.0
+297,"['true', 'great', 'career', 'go', 'watch', 'dance', 'competition', 'one', 'channel', 'long', 'long', 'back', 'terrific', 'dancer', 'create', 'record', 'propose', 'ankita', 'lokhande', 'tv', 'star', 'heroine', 'national', 'tv', 'spontsneously', 'bresk', 'come', 'ro', 'hollywood', 'hero', 'go', 'court', 'krithi', 'karbhanda', 'ankita', 'shatter', 'day', 'bigger', 'star', 'sushanth', 'sad', 'seem', 'weakling', 'though', 'extremely', 'talented', 'twinkle', 'toesankita', 'way', 'second', 'heroine', 'manikarnika']",2020-06-14T09:45:44+0000,0.12499999999999997
+298,['rip'],2020-06-14T09:46:03+0000,0.0
+299,"['aishwrya', 'rajput', 'course']",2020-06-14T09:46:10+0000,0.0
+300,"['real', 'life', 'tragic', 'endyou', 'shouldnt', 'go', 'miss']",2020-06-14T09:46:24+0000,-0.275
+301,"['waseem', 'ali', 'tum', 'sale', 'hote', 'hi', 'madarchod', 'ho', 'apne', 'kom', 'ka', 'naam', 'mitte', 'mein', 'mila', 'ho', 'tum', 'jase', 'kuch', 'log', 'saala', 'kabhi', 'milna', 'kutte', 'se', 'chudwayenge', 'tumhe']",2020-06-14T09:46:27+0000,0.0
+302,"['omg', 'rip']",2020-06-14T09:46:33+0000,0.0
+303,"['sad', 'news']",2020-06-14T09:46:39+0000,-0.5
+304,"['numan', 'arif', 'parent', 'must', 'burn', 'hell', 'shame', 'porki']",2020-06-14T09:46:54+0000,0.0
+305,"['shock', 'rest', 'peace']",2020-06-14T09:47:03+0000,0.0
+306,"['manav', 'gupta', 'exactlythats', 'wot', 'thinkhe', 'strong', 'manhe', 'cant', 'commit', 'suicideit', 'murder']",2020-06-14T09:47:08+0000,0.4333333333333333
+307,"['oh', 'god', 'sad']",2020-06-14T09:47:13+0000,-0.5
+308,"['waseem', 'ali', 'idiot', 'person', 'like', 'get', 'time', 'make', 'fun', 'someone', 'death']",2020-06-14T09:47:13+0000,-0.25
+309,"['ooh', 'good', 'cant', 'believe']",2020-06-14T09:47:20+0000,0.7
+310,"['rip', 'sirmiss', 'sir']",2020-06-14T09:47:26+0000,0.0
+311,['rip'],2020-06-14T09:47:28+0000,0.0
+312,"['day', 'back', 'actor', 'mourn', 'death', 'former', 'manager', 'disha', 'salian', 'death', 'commit', 'suicide']",2020-06-14T09:47:38+0000,0.0
+313,"['waseem', 'ali', 'dude', 'yeh', 'confirm', 'news', 'nahi', 'hai', 'toh', 'yar', 'yeh', 'sab', 'cheeze', 'mat', 'post', 'kro']",2020-06-14T09:48:23+0000,0.0
+314,"['mk', 'jeenarain']",2020-06-14T09:48:27+0000,0.0
+315,"['extremely', 'unpleasantthis', 'easiest', 'way', 'make', 'toughest', 'decision', 'life', 'u', 'didnt']",2020-06-14T09:48:37+0000,-0.125
+316,['shockingrip'],2020-06-14T09:48:39+0000,0.0
+317,"['sad', 'news']",2020-06-14T09:48:52+0000,-0.5
+318,"['sushant', 'news', 'absolutely', 'wrongthe', 'actor', 'god', 'dont', 'believe', 'moreplease', 'god', 'bless', 'everyonefor', 'myside', 'also', 'troublesi', 'believe', 'india', 'today', 'team', 'stop', 'bad', 'time', 'go', 'whole', 'world', 'nation', 'india']",2020-06-14T09:48:54+0000,-0.09999999999999994
+319,['rip'],2020-06-14T09:49:03+0000,0.0
+320,['shockingunbelievable'],2020-06-14T09:49:07+0000,0.0
+321,"['last', 'line', 'article', 'say', 'actor', 'former', 'manager', 'disha', 'salian', 'find', 'dead', 'day', 'ago']",2020-06-14T09:49:09+0000,-0.06666666666666667
+322,['sad'],2020-06-14T09:49:12+0000,-0.5
+324,"['waseem', 'ali', 'phle', 'afridi', 'ko', 'bacha', 'lo', 'beta', 'positive']",2020-06-14T09:49:18+0000,0.22727272727272727
+323,"['dimps', 'dimps', 'yes']",2020-06-14T09:49:18+0000,0.0
+325,"['asia', 'noor', 'hmm']",2020-06-14T09:50:36+0000,0.0
+326,"['unimaginable', 'thing', 'happen', 'year', 'rip', 'sushant', 'singh', 'rajput']",2020-06-14T09:50:40+0000,0.0
+327,['hell'],2020-06-14T09:50:50+0000,0.0
+328,"['shock', 'unbelievable']",2020-06-14T09:50:52+0000,-0.25
+329,"['kitna', 'bda', 'pagal', 'thaa', 'yrr', 'arey', 'aise', 'kya', 'suicide', 'krne', 'ka', 'nasha', 'chad', 'gya', 'sushant', 'ko', 'abhi', 'abhi', 'toh', 'career', 'lgbg', 'start', 'hua', 'bnde', 'n', 'pagalon', 'wale', 'kaam', 'chee', 'yrrripyrr', 'mai', 'maan', 'skta', 'bnda', 'suicide', 'krega', 'kuch', 'toh', 'bada', 'plan', 'hai', 'piche', 'sharat', 'lga', 'lo', 'mai', 'sushant', 'ko', 'itne', 'ache', 'se', 'jaanta', 'hu', 'jahan', 'tk', 'baat', 'rhi', 'suicide', 'ki', 'mai', 'ni', 'maanta', 'kuch', 'gadbad', 'hai', 'mai', 'mumbai', 'police', 'se', 'haath', 'jodkar', 'nivedan', 'krta', 'hu', 'ki', 'bohot', 'tgda', 'action', 'lo', 'aage', 'piche', 'sbka']",2020-06-14T09:50:55+0000,0.1
+330,"['sad', 'indeed', 'rest', 'peace']",2020-06-14T09:51:07+0000,-0.5
+331,"['somehow', 'god', 'grace', 'survive', 'year', 'tell', 'child', 'gransons', 'worst', 'year', 'ever', 'see']",2020-06-14T09:51:12+0000,-1.0
+332,['sadrip'],2020-06-14T09:51:12+0000,0.0
+333,"['unbelievable', 'rip', 'shushant']",2020-06-14T09:51:27+0000,-0.25
+334,"['blackmail', 'depression', 'lead', 'sucide', 'may', 'girl', 'money', 'business']",2020-06-14T09:51:42+0000,0.0
+335,"['always', 'remain', 'dhoni', 'doubt', 'rest', 'peace']",2020-06-14T09:51:42+0000,0.0
+336,"['day', 'back', 'ex', 'manager', 'disha', 'seliyan', 'also', 'commit', 'suicide']",2020-06-14T09:51:43+0000,0.0
+337,"['extremely', 'sad', 'news', 'cant', 'believe']",2020-06-14T09:51:45+0000,-0.5
+338,"['talentedsmart', 'actor', 'pavitra', 'rista', 'archanarip']",2020-06-14T09:52:17+0000,0.0
+339,"['sad', 'really', 'sad', 'news']",2020-06-14T09:52:21+0000,-0.5
+340,"['one', 'favourite']",2020-06-14T09:52:35+0000,0.0
+341,"['life', 'suck', 'matter']",2020-06-14T09:52:47+0000,0.0
+342,"['d', 'world', 'rudeno', 'one', 'say', 'go', 'd', 'depressionso', 'much', 'fame', 'n', 'money', 'get', 'nothing', 'd', 'world', 'need', 'sukoon', 'n', 'relaxation', 'desperately', 'live', 'd', 'world']",2020-06-14T09:52:57+0000,0.16818181818181818
+343,"['yes', 'act', 'human', 'ever', 'reason', 'life', 'go', 'speak', 'anything', 'bad', 'soul']",2020-06-14T09:53:00+0000,-0.3499999999999999
+344,"['wht', 'heck', 'happning', 'yr', 'ar', 'kya', 'kya', 'dikhaega']",2020-06-14T09:53:26+0000,0.0
+345,"['msdhoni', 'chichore']",2020-06-14T09:53:42+0000,0.0
+346,"['really', 'sad', 'news', 'fine', 'actor', 'rip']",2020-06-14T09:53:47+0000,-0.04166666666666666
+347,"['waseem', 'ali', 'arent', 'human']",2020-06-14T09:54:09+0000,0.0
+348,"['uff', 'akher', 'sarfarz', 'ne', 'dhoka', 'de', 'deya', 'rip']",2020-06-14T09:55:02+0000,0.0
+349,"['really', 'heartbreaking']",2020-06-14T09:55:38+0000,0.2
+350,"['shock', 'rip']",2020-06-14T09:55:46+0000,0.0
+351,"['mental', 'health', 'important', 'thing', 'require', 'concern', 'attention', 'dont', 'know', 'person', 'go', 'person', 'fame', 'wealth', 'bright', 'future', 'attempt', 'suicide', 'love', 'die', 'conclude', 'run', 'nothing', 'actually', 'thing', 'need', 'peace', 'mental', 'satisfaction', 'spirituality']",2020-06-14T09:55:50+0000,0.19999999999999998
+352,"['bro', 'sad', 'thats', 'bad', 'news', 'bro', 'love', 'respect', 'afghanistan']",2020-06-14T09:55:57+0000,-0.23333333333333325
+353,"['stupid', 'get', 'suicid', 'people', 'struggle', 'hard', 'square', 'meal', 'even', 'think', 'cowardly', 'act']",2020-06-14T09:56:01+0000,-0.5458333333333333
+354,['rip'],2020-06-14T09:56:07+0000,0.0
+355,['rip'],2020-06-14T09:56:15+0000,0.0
+356,"['waseem', 'ali', 'heavensdont', 'expose', 'inhuman', 'sadistic', 'behaviorby', 'add', 'new', 'canard', 'ityour', 'mental', 'state', 'lumpen', 'mindset', 'get', 'exposedhe', 'may', 'pass', 'depression', 'personal', 'issueslets', 'judgemental', 'intrusive', 'private', 'life']",2020-06-14T09:56:39+0000,0.009090909090909087
+357,"['could', 'stay', 'physic']",2020-06-14T09:56:47+0000,0.0
+358,"['really', 'shock', 'news']",2020-06-14T09:56:52+0000,0.2
+359,"['suicide', 'never', 'way', 'guy', 'pity', 'rip']",2020-06-14T09:57:06+0000,-0.1
+360,"['sad', 'hear', 'sudden', 'death', 'great', 'actor', 'big', 'fan', 'watch', 'chichore', 'msdrip']",2020-06-14T09:57:24+0000,0.07500000000000001
+361,"['lesson', 'u', 'learn', 'never', 'judge', 'someone', 'outside', 'dont', 'know', 'go', 'inside']",2020-06-14T09:57:36+0000,0.0
+362,"['really', 'shock', 'news']",2020-06-14T09:57:48+0000,0.2
+363,"['never', 'know', 'hide', 'behind', 'big', 'smile']",2020-06-14T09:57:57+0000,-0.03333333333333335
+364,['rip'],2020-06-14T09:58:02+0000,0.0
+365,"['waseem', 'ali', 'shame', 'society', 'speak', 'like', 'someone', 'death', 'one', 'day', 'also', 'taste']",2020-06-14T09:58:11+0000,0.0
+366,['rip'],2020-06-14T09:58:12+0000,0.0
+367,['rip'],2020-06-14T09:58:35+0000,0.0
+368,"['aakash', 'nirmal', 'whats']",2020-06-14T09:58:38+0000,0.0
+369,"['india', 'best', 'astrologer', 'aghori', 'baba', 'husband', 'wife', 'solution', 'love', 'marriage', 'specialist', 'dispute', 'relationship', 'love', 'breakup', 'solution', 'whatspp', 'husband', 'wife', 'disturbance', 'call', 'arrange', 'marriage', 'control', 'husband', 'wife', 'hand', 'love', 'problem', 'solution', 'whatspp']",2020-06-14T09:58:41+0000,0.625
+370,"['unexpected', 'news']",2020-06-14T09:58:44+0000,0.1
+371,['omg'],2020-06-14T09:59:05+0000,0.0
+372,"['asia', 'noor', 'interest', 'thank']",2020-06-14T09:59:23+0000,0.0
+373,['sad'],2020-06-14T09:59:23+0000,-0.5
+374,"['rip', 'sushant', 'singh', 'rajput']",2020-06-14T09:59:34+0000,0.0
+375,['rip'],2020-06-14T09:59:37+0000,0.0
+376,"['cant', 'believe', 'totally', 'shock', 'news', 'rest', 'peace', 'sushant', 'singh', 'rajput']",2020-06-14T09:59:45+0000,0.0
+377,"['rip', 'really', 'shock']",2020-06-14T09:59:48+0000,0.2
+378,"['great', 'actor']",2020-06-14T09:59:49+0000,0.8
+379,"['rom', 'ali', 'unbelievable']",2020-06-14T09:59:51+0000,-0.25
+380,"['abid', 'mulla']",2020-06-14T10:00:00+0000,0.0
+381,"['sad', 'rip']",2020-06-14T10:00:09+0000,-0.5
+382,"['shock', 'news', 'rip']",2020-06-14T10:00:57+0000,0.0
+383,['rip'],2020-06-14T10:01:06+0000,0.0
+384,"['deeply', 'sadden', 'news', 'rip']",2020-06-14T10:01:10+0000,0.0
+385,"['alway', 'u', 'know', 'could', 'something', 'else']",2020-06-14T10:01:12+0000,0.0
+386,"['great', 'shock', 'news']",2020-06-14T10:01:24+0000,0.8
+387,"['he', 'young', 'shock', 'im', 'cant', 'believe', 'true']",2020-06-14T10:01:24+0000,0.22499999999999998
+388,"['sad', 'news', 'talented', 'guy']",2020-06-14T10:01:38+0000,0.09999999999999998
+389,['rip'],2020-06-14T10:01:43+0000,0.0
+390,"['rip', 'extremely', 'surprise', 'dishearten', 'news']",2020-06-14T10:01:48+0000,-0.125
+392,"['sarfaraz', 'dhoka', 'dy', 'gaya', 'apne', 'fan', 'ko', 'would', 'beautiful', 'soul', 'commit', 'suicide', 'look', 'like', 'murder', 'case', 'condolence', 'pakistan']",2020-06-14T10:01:54+0000,0.85
+391,"['really', 'donot', 'understand', 'person', 'commit', 'suicide', 'find', 'difficulty', 'talk', 'one', 'talk', 'god', 'sake', 'talk', 'express', 'someone', 'yes', 'many', 'kind', 'supress', 'show', 'u', 'u', 'r', 'longer', 'list', 'one', 'always', 'worry', 'u', 'single', 'person', 'ask', 'hold', 'u', 'strongly', 'u', 'r', 'think', 'suicide', 'life', 'matter']",2020-06-14T10:01:54+0000,0.33238095238095233
+393,"['feel', 'sadrest', 'pesce', 'legend']",2020-06-14T10:01:58+0000,0.0
+394,['rip'],2020-06-14T10:01:59+0000,0.0
+395,['reason'],2020-06-14T10:02:01+0000,0.0
+396,"['business', 'everyone', 'specially', 'mumbai', 'difficult', 'conditionlockdown', 'stress']",2020-06-14T10:02:02+0000,-0.07142857142857142
+397,"['absolutely', 'sadden', 'untimely', 'death', 'tragic', 'frustration', 'even', 'painful']",2020-06-14T10:02:08+0000,-0.4166666666666667
+398,['rip'],2020-06-14T10:02:11+0000,0.0
+399,['rip'],2020-06-14T10:02:32+0000,0.0
+400,"['successful', 'actor', 'seem', 'murder']",2020-06-14T10:02:35+0000,0.75
+401,"['rest', 'peace', 'brother', 'condolence', 'pakistan']",2020-06-14T10:02:45+0000,0.0
+402,"['shock', 'news', 'talented', 'actor', 'may', 'soul', 'rest', 'peace']",2020-06-14T10:02:49+0000,0.7
+403,['ri'],2020-06-14T10:03:08+0000,0.0
+404,['rip'],2020-06-14T10:03:10+0000,0.0
+405,"['saddest', 'news']",2020-06-14T10:03:13+0000,0.0
+406,"['rohan', 'chakrabarti', 'upset']",2020-06-14T10:03:18+0000,0.0
+407,"['garima', 'batra', 'supernatural', 'processu', 'summon', 'crossroad', 'demonthese', 'demon', 'grant', 'ur', 'wish', 'like', 'wealthover', 'night', 'succes', 'fame', 'etc', 'anything', 'u', 'wish', 'forn', 'return', 'give', 'u', 'life', 'yr', 'hell', 'hound', 'come', 'n', 'take', 'away', 'ur', 'soulso', 'guess', 'case', 'might']",2020-06-14T10:03:26+0000,0.16666666666666666
+408,"['omgwhat', 'happen', 'redt', 'peace']",2020-06-14T10:03:30+0000,0.0
+409,"['joulan', 'goveas']",2020-06-14T10:03:43+0000,0.0
+410,"['like', 'cant', 'believe', 'miss']",2020-06-14T10:03:44+0000,0.0
+411,"['rinesh', 'bhatt', 'mujhe', 'bhi', 'ehi', 'lagti', 'hy']",2020-06-14T10:04:03+0000,0.0
+412,['rip'],2020-06-14T10:04:04+0000,0.0
+413,"['condolence', 'china', 'occupy', 'ladakh']",2020-06-14T10:04:32+0000,0.0
+414,"['oho', 'thory', 'din', 'pehle', 'e', 'm', 'dhoni', 'movie', 'ka', 'clip', 'dekha', 'tha']",2020-06-14T10:04:34+0000,0.0
+415,"['always', 'use', 'give', 'positive', 'vibe', 'talk', 'extremely', 'heartbreaking', 'know', 'he', 'rest', 'peace', 'sushant', 'miss']",2020-06-14T10:04:57+0000,0.05113636363636363
+416,"['om', 'shanti']",2020-06-14T10:05:17+0000,0.0
+417,"['rip', 'young', 'brother']",2020-06-14T10:05:27+0000,0.1
+418,"['sad', 'news']",2020-06-14T10:05:44+0000,-0.5
+419,"['shock', 'news', 'rip']",2020-06-14T10:05:56+0000,0.0
+420,"['cant', 'belive']",2020-06-14T10:05:58+0000,0.0
+421,"['seem', 'matter', 'quite', 'dubious', 'investigation', 'initiate']",2020-06-14T10:06:14+0000,0.0
+422,"['cant', 'believe', 'sad', 'news', 'prove', 'costly', 'whatever', 'may', 'cause', 'shouldnt', 'go', 'extent', 'suicide', 'sad', 'end', 'brilliant', 'talented', 'actor']",2020-06-14T10:06:15+0000,0.15
+423,"['suman', 'bunty', 'roy', 'dont', 'bring', 'religion']",2020-06-14T10:06:33+0000,0.0
+424,"['unbelievable', 'yr', 'ruthless']",2020-06-14T10:07:09+0000,-0.625
+425,"['sad', 'news']",2020-06-14T10:07:26+0000,-0.5
+426,"['indian', 'choose', 'solve', 'domestic', 'problem', 'commit', 'suicide']",2020-06-14T10:08:05+0000,0.0
+427,"['chuitya', 'tha', 'sala', 'aisa', 'kon', 'krta', 'h', 'bhai']",2020-06-14T10:08:16+0000,0.0
+428,['sad'],2020-06-14T10:08:21+0000,-0.5
+429,"['ramya', 'dave', 'show', 'think', 'also', 'mention', 'bcoz', 'people', 'like', 'whole', 'community', 'target']",2020-06-14T10:08:21+0000,0.2
+430,['acceptablerip'],2020-06-14T10:08:23+0000,0.0
+431,"['ab', 'ka', 'really', 'dar', 'lag', 'raha']",2020-06-14T10:08:28+0000,0.2
+432,"['syed', 'faraz', 'maybe', 'depress', 'even', 'back']",2020-06-14T10:08:30+0000,-0.03333333333333333
+433,"['devastate', 'newz']",2020-06-14T10:08:32+0000,0.0
+434,['rip'],2020-06-14T10:08:35+0000,0.0
+435,"['kiruba', 'nidhi', 'true']",2020-06-14T10:08:52+0000,0.35
+436,['murder'],2020-06-14T10:08:57+0000,0.0
+437,"['umar', 'faruque', 'correct', 'brother']",2020-06-14T10:08:59+0000,0.0
+438,"['pray', 'truth', 'reveal', 'manager', 'die', 'die', 'day', 'later', 'suspicious', 'envy', 'ego', 'evil', 'many', 'famous', 'people', 'die', 'evil', 'people', 'enough', 'money', 'power', 'medium', 'cover', 'like', 'demonic', 'democrat', 'involvement', 'zionist', 'global', 'elite', 'cabal', 'especially', 'illuminati', 'many', 'famous', 'hollywood', 'actor', 'writer', 'producer', 'involve', 'vicious', 'evil', 'crime', 'billion', 'dollar', 'buy', 'medium', 'protect', 'many', 'famous', 'people', 'join', 'society', 'aware', 'corruption', 'suspiciously', 'find', 'dead', 'medium', 'tell', 'lie', 'cover', 'truth', 'surface', 'pray', 'evil', 'stop', 'god', 'bless', 'man', 'bring', 'justice', 'well', 'others', 'victim', 'michael', 'jackson', 'prince', 'fast', 'furious', 'man', 'john', 'lennon', 'jfk', 'list', 'go']",2020-06-14T10:09:16+0000,-0.09605263157894736
+439,"['absolutely', 'shock', 'pity', 'le', 'year', 'happen', 'around', 'world']",2020-06-14T10:09:23+0000,0.05
+440,['unbelievable'],2020-06-14T10:09:29+0000,-0.25
+441,"['sad', 'news']",2020-06-14T10:09:29+0000,-0.5
+442,"['sad', 'news', 'rest', 'peace']",2020-06-14T10:09:30+0000,-0.5
+443,"['deepest', 'condolence', 'sushants', 'family', 'deeply', 'sadden', 'decisionrip', 'sushant']",2020-06-14T10:09:30+0000,0.0
+444,"['rest', 'peace', 'sushant']",2020-06-14T10:09:33+0000,0.0
+445,['rip'],2020-06-14T10:09:49+0000,0.0
+446,['rip'],2020-06-14T10:09:54+0000,0.0
+447,"['may', 'soul', 'rip']",2020-06-14T10:10:43+0000,0.0
+448,['rip'],2020-06-14T10:10:52+0000,0.0
+449,"['rip', 'let', 'pas', 'judgement']",2020-06-14T10:10:54+0000,0.0
+450,"['bahat', 'galat', 'kiye', 'aap', 'ne', 'susant', 'itni', 'tklif', 'de', 'k', 'geye', 'holagta', 'nh', 'aap', 'koy', 'paraye', 'hojaise', 'koy', 'apno', 'ne', 'sath', 'chod', 'diyecant', 'belive']",2020-06-14T10:11:12+0000,0.0
+451,['rip'],2020-06-14T10:11:30+0000,0.0
+452,['nooooo'],2020-06-14T10:11:37+0000,0.0
+453,"['thats', 'murder']",2020-06-14T10:11:51+0000,0.0
+454,"['sad', 'news']",2020-06-14T10:12:06+0000,-0.5
+455,"['shock', 'news']",2020-06-14T10:12:16+0000,0.0
+456,"['shraddha', 'satya', 'fell', 'balcony', 'seem', 'murder']",2020-06-14T10:12:22+0000,0.0
+457,['rip'],2020-06-14T10:12:27+0000,0.0
+459,"['rest', 'peace', 'absolute', 'heart', 'break']",2020-06-14T10:13:30+0000,0.2
+458,"['waseem', 'ali', 'could', 'cure', 'oh']",2020-06-14T10:13:30+0000,0.0
+460,"['sarfaraz', 'dhoka', 'de', 'gya']",2020-06-14T10:13:33+0000,0.0
+461,"['unbelievable', 'rip']",2020-06-14T10:13:39+0000,-0.25
+462,"['shockingrecently', 'watch', 'chichore', 'deal', 'suicide', 'themewhat', 'happenedripsuch', 'fine', 'actor']",2020-06-14T10:14:01+0000,0.4166666666666667
+463,"['sad', 'shock', 'rip', 'sushant', 'role', 'msd', 'always', 'memory']",2020-06-14T10:14:13+0000,-0.5
+464,"['bro', 'plzzz']",2020-06-14T10:14:36+0000,0.0
+465,"['bad', 'news', 'cant', 'believe', 'really', 'really', 'sad']",2020-06-14T10:14:45+0000,-0.5999999999999999
+466,"['people', 'leave', 'family', 'alone', 'nowit', 'must', 'hard', 'painful']",2020-06-14T10:14:45+0000,-0.49583333333333335
+467,"['first', 'feel', 'sushant']",2020-06-14T10:15:17+0000,0.25
+468,"['esornongwo', 'na', 'nonga', 'le']",2020-06-14T10:15:36+0000,0.0
+469,['rip'],2020-06-14T10:15:42+0000,0.0
+470,['sad'],2020-06-14T10:15:52+0000,-0.5
+471,['rip'],2020-06-14T10:16:32+0000,0.0
+472,['rip'],2020-06-14T10:17:16+0000,0.0
+473,['rip'],2020-06-14T10:18:02+0000,0.0
+474,"['love', 'yourip']",2020-06-14T10:18:07+0000,0.5
+475,"['mean', 'suicide', 'solution', 'problem']",2020-06-14T10:18:16+0000,-0.3125
+476,"['sad', 'rip']",2020-06-14T10:18:18+0000,-0.5
+477,"['ripindia', 'today', 'sushantsinghrajput']",2020-06-14T10:18:20+0000,0.0
+478,['rip'],2020-06-14T10:18:35+0000,0.0
+479,"['miss', 'u']",2020-06-14T10:18:56+0000,0.0
+480,"['oh', 'god', 'whats', 'happen', 'world']",2020-06-14T10:18:57+0000,0.0
+481,"['e', 'lockdown', 'na', 'kutnu', 'ke', 'jane', 'lee']",2020-06-14T10:19:02+0000,0.0
+482,['rip'],2020-06-14T10:19:25+0000,0.0
+483,"['aakash', 'nirmal', 'wtf', 'man']",2020-06-14T10:19:29+0000,-0.5
+484,['rip'],2020-06-14T10:19:47+0000,0.0
+485,"['absolutely', 'speechless', 'love', 'gentleness', 'decency', 'sobriety']",2020-06-14T10:20:21+0000,0.35
+486,"['dont', 'get', 'body', 'react', 'wow', 'heart', 'post', 'become', 'inhumane']",2020-06-14T10:20:29+0000,-0.4
+487,"['dont', 'blame', 'plz', 'commit', 'suicide', 'mistake']",2020-06-14T10:20:45+0000,0.0
+488,"['waseem', 'ali', 'stop', 'disgrace', 'society', 'twat', 'someone', 'die', 'sell', 'munjan', 'somewhere', 'else']",2020-06-14T10:20:51+0000,0.0
+489,"['sad', 'news', 'om', 'shanti']",2020-06-14T10:21:20+0000,-0.5
+490,"['never', 'think', 'something', 'heartbreaking', 'great', 'celebrity', 'rip', 'sushant', 'singh', 'rajput']",2020-06-14T10:21:21+0000,0.8
+491,"['raj', 'khan', 'one', 'possibility', 'bro', 'celebraties', 'die', 'suddenhuge', 'indication', 'towards', 'supernaturalchester', 'benningtonparveen', 'bobbysushant', 'singh', 'n', 'many', 'example', 'famous', 'successful', 'celebrity', 'die', 'suddenly', 'alonebehind', 'suicide', 'lie', 'dark', 'truth', 'supernatural', 'activity']",2020-06-14T10:21:25+0000,0.29444444444444445
+492,['rip'],2020-06-14T10:21:30+0000,0.0
+493,"['syed', 'faraz', 'irony', 'life']",2020-06-14T10:21:51+0000,0.0
+494,"['really', 'grt', 'loss']",2020-06-14T10:21:55+0000,0.2
+495,['sad'],2020-06-14T10:22:41+0000,-0.5
+496,['rip'],2020-06-14T10:23:31+0000,0.0
+497,"['sad', 'news']",2020-06-14T10:23:38+0000,-0.5
+498,['sad'],2020-06-14T10:23:47+0000,-0.5
+499,"['ripgone', 'soonvery', 'unfair']",2020-06-14T10:23:54+0000,-0.5
+500,['rip'],2020-06-14T10:23:56+0000,0.0
+501,"['aaisi', 'kya', 'majboori', 'kya', 'problem', 'thi', 'jo', 'aapne', 'ye', 'step', 'lia', 'kisi', 'se', 'kuch', 'share', 'krte', 'tarah', 'seepure', 'indian', 'ko', 'shock', 'daal', 'kr', 'chale', 'gaye']",2020-06-14T10:25:30+0000,0.0
+502,"['heart', 'break', 'news', 'india', 'get', 'back', 'back', 'sad', 'news']",2020-06-14T10:26:10+0000,-0.16666666666666666
+503,"['rest', 'paradise', 'brother']",2020-06-14T10:26:12+0000,0.0
+504,['rip'],2020-06-14T10:26:20+0000,0.0
+505,"['cheat', 'many', 'rememberedrip']",2020-06-14T10:26:43+0000,0.5
+506,['rip'],2020-06-14T10:26:47+0000,0.0
+507,"['guds', 'suicide', 'could', 'live', 'life', 'challenge', 'good', 'actor', 'happen', 'actor', 'start', 'heart', 'attack', 'actor', 'dr', 'sethuraman', 'chennai', 'actor', 'chiranjeevi', 'sarja', 'kannada', 'suicide', 'sushant', 'bollywood', 'love', 'u', 'much', 'm', 'dhoni', 'sushant', 'miss', 'rip']",2020-06-14T10:27:02+0000,0.3840909090909091
+508,['rip'],2020-06-14T10:27:33+0000,0.0
+509,"['shock', 'news']",2020-06-14T10:27:44+0000,0.0
+510,"['soap', 'opera', 'quite', 'famous', 'country', 'rip']",2020-06-14T10:27:47+0000,0.5
+511,['omgunbelievable'],2020-06-14T10:28:21+0000,0.0
+512,['rip'],2020-06-14T10:28:25+0000,0.0
+513,"['cbi', 'investigation', 'death', 'do', 'may', 'murder', 'underworld', 'activity', 'nowadays', 'nothing', 'impossible']",2020-06-14T10:28:44+0000,-0.6666666666666666
+514,"['om', 'shanti']",2020-06-14T10:29:01+0000,0.0
+515,['sad'],2020-06-14T10:29:04+0000,-0.5
+516,['rip'],2020-06-14T10:29:46+0000,0.0
+517,"['right', 'decision', 'life', 'precious', 'gift', 'god']",2020-06-14T10:29:54+0000,0.39285714285714285
+518,"['sad', 'shoking']",2020-06-14T10:30:21+0000,-0.5
+519,['rip'],2020-06-14T10:30:45+0000,0.0
+520,"['sad', 'hear']",2020-06-14T10:30:54+0000,-0.5
+521,['rip'],2020-06-14T10:30:56+0000,0.0
+522,"['wtf', 'ye', 'sb', 'kya', 'chl', 'kya', 'rha', 'hai']",2020-06-14T10:31:08+0000,-0.5
+523,"['shock', 'heartbreaking', 'newsrip']",2020-06-14T10:31:19+0000,0.0
+524,"['nobody', 'know', 'type', 'burden', 'personpersons', 'keep', 'heart', 'god', 'know', 'notice', 'smile', 'n', 'laugher', 'face', 'think', 'must', 'happy', 'forgive', 'oh', 'god', 'may', 'soul', 'rest', 'peace']",2020-06-14T10:32:15+0000,0.55
+525,"['sad', 'really', 'sad']",2020-06-14T10:32:18+0000,-0.5
+526,"['kya', 'decision', 'hai']",2020-06-14T10:32:29+0000,0.0
+527,"['could', 'famous', 'handsome', 'enough', 'afford', 'luxurious', 'life', 'isnt', 'murder', 'something']",2020-06-14T10:33:01+0000,0.3333333333333333
+528,"['extremely', 'dishearten']",2020-06-14T10:33:09+0000,-0.125
+529,['idea'],2020-06-14T10:33:17+0000,0.0
+530,['rip'],2020-06-14T10:33:30+0000,0.0
+531,"['rip', 'sushant', 'singh', 'rajput', 'deepest', 'condolence', 'family', 'love', 'one']",2020-06-14T10:33:44+0000,0.5
+532,['ripshushantsingh'],2020-06-14T10:33:55+0000,0.0
+533,"['cant', 'believe', 'rip']",2020-06-14T10:34:13+0000,0.0
+534,"['rohan', 'chakrabarti', 'way']",2020-06-14T10:35:09+0000,0.0
+535,"['god', 'let', 'soul', 'rest', 'peace']",2020-06-14T10:35:14+0000,0.0
+536,"['marwa', 'ragaa']",2020-06-14T10:35:23+0000,0.0
+537,"['cant', 'blv']",2020-06-14T10:36:40+0000,0.0
+538,['rip'],2020-06-14T10:37:13+0000,0.0
+539,"['serial', 'artist', 'film', 'star', 'need', 'counselingstardom', 'permanent', 'start', 'scratchstruggled', 'good', 'actoryoung', 'ppl', 'r', 'give', 'teach', 'u', 'nothing', 'permanent']",2020-06-14T10:37:37+0000,0.7
+540,"['sad', 'indeed', 'rip']",2020-06-14T10:38:17+0000,-0.5
+541,"['kya', 'gham', 'tha', 'bhai', 'jo', 'tumko', 'khud', 'kushi', 'karni', 'padi', 'insan', 'k', 'sab', 'hote', 'huye', 'bhi', 'kuchh', 'nahin', 'hai']",2020-06-14T10:38:30+0000,0.0
+542,"['say', 'watch', 'horror', 'movie', 'lot']",2020-06-14T10:38:51+0000,0.0
+543,"['condolence', 'family']",2020-06-14T10:39:02+0000,0.0
+544,"['heart', 'break', 'rest', 'peace', 'grief', 'condolence', 'family', 'much', 'love', 'pakistan']",2020-06-14T10:39:07+0000,-0.15000000000000002
+545,['mg'],2020-06-14T10:40:22+0000,0.0
+546,['rip'],2020-06-14T10:40:26+0000,0.0
+547,['sad'],2020-06-14T10:40:37+0000,-0.5
+548,"['honestly', 'news', 'leave', 'u', 'shock', 'speechless', 'brilliant', 'actor', 'sushantsinghrajput', 'show', 'face', 'problem', 'chichore', 'couldnt', 'imagine', 'pain', 'go', 'may', 'god', 'give', 'strength', 'family']",2020-06-14T10:41:19+0000,0.75
+549,"['great', 'actor', 'may', 'soul', 'rest', 'peace']",2020-06-14T10:41:31+0000,0.8
+550,['rip'],2020-06-14T10:41:51+0000,0.0
+551,"['sad', 'news']",2020-06-14T10:41:55+0000,-0.5
+552,['rip'],2020-06-14T10:42:16+0000,0.0
+553,"['om', 'shantie', 'sushant', 'singh', 'rajput', 'condoleances', 'relative']",2020-06-14T10:42:58+0000,0.0
+554,"['rip', 'shushant', 'shing']",2020-06-14T10:43:12+0000,0.0
+555,['rip'],2020-06-14T10:43:38+0000,0.0
+556,"['really', 'sad', 'may', 'soul', 'rip']",2020-06-14T10:43:40+0000,-0.5
+557,"['rip', 'bollywood', 'face', 'great', 'loss', 'yearfirst', 'irfan', 'khan', 'rishi', 'kapoor', 'among', 'sajid', 'wajid', 'n', 'sushant']",2020-06-14T10:44:09+0000,0.8
+558,"['rip', 'condolence', 'family']",2020-06-14T10:44:38+0000,0.0
+559,"['rip', 'sishant']",2020-06-14T10:44:55+0000,0.0
+560,"['indeed', 'sad', 'newsyesterday', 'indian', 'make', 'fun', 'shahid', 'afridi']",2020-06-14T10:45:42+0000,-0.1
+561,"['sad', 'news', 'young', 'rip']",2020-06-14T10:45:45+0000,-0.2
+562,"['unbelievable', 'life', 'unpredictable', 'one', 'never', 'imagine', 'whats', 'go', 'mind', 'kind', 'battle', 'someone', 'face', 'inside', 'money', 'look', 'fame', 'everything', 'seem', 'useless', 'dont', 'inner', 'peace', 'happiness', 'life', 'handsome', 'charm', 'talented', 'actor', 'miss', 'forever', 'rest', 'peace']",2020-06-14T10:45:45+0000,0.19791666666666666
+563,"['shouldnt', 'happen', 'ala']",2020-06-14T10:46:04+0000,0.0
+564,"['om', 'shanti']",2020-06-14T10:46:27+0000,0.0
+565,['rip'],2020-06-14T10:47:59+0000,0.0
+566,['sorry'],2020-06-14T10:49:05+0000,-0.5
+567,['really'],2020-06-14T10:49:27+0000,0.2
+568,"['unbelievable', 'shock', 'rip']",2020-06-14T10:50:59+0000,-0.25
+569,"['rip', 'suicide']",2020-06-14T10:51:26+0000,0.0
+570,['loss'],2020-06-14T10:52:18+0000,0.0
+571,['tragic'],2020-06-14T10:52:19+0000,-0.75
+572,['unpredictable'],2020-06-14T10:52:19+0000,-0.16666666666666666
+573,"['sad', 'rip']",2020-06-14T10:53:08+0000,-0.5
+574,['wtf'],2020-06-14T10:53:13+0000,-0.5
+575,"['heart', 'break']",2020-06-14T10:53:14+0000,0.0
+576,['sad'],2020-06-14T10:53:42+0000,-0.5
+577,"['subodh', 'pawar', 'note', 'diary']",2020-06-14T10:54:16+0000,0.0
+578,"['sad', 'news']",2020-06-14T10:55:23+0000,-0.5
+579,"['sad', 'indeed', 'dont', 'know', 'whats', 'reasonfoolish', 'decision', 'great', 'long', 'future', 'untimely', 'fade', 'away', 'may', 'rest', 'peace']",2020-06-14T10:55:40+0000,0.06250000000000001
+580,"['sad', 'news', 'rip', 'brother']",2020-06-14T10:56:05+0000,-0.5
+581,"['could', 'possible', 'young', 'healthy']",2020-06-14T10:56:11+0000,0.19999999999999998
+582,['rip'],2020-06-14T10:56:23+0000,0.0
+583,"['na', 'goresikandar', 'na', 'hai', 'qabredr', 'mite', 'nmiyo', 'ke', 'nish', 'kaise', 'kaise']",2020-06-14T10:56:43+0000,0.0
+584,"['heart', 'break']",2020-06-14T10:57:21+0000,0.0
+585,"['may', 'soul', 'rest', 'peace']",2020-06-14T10:57:35+0000,0.0
+586,['rip'],2020-06-14T10:57:39+0000,0.0
+587,"['rip', 'love', 'pakistan']",2020-06-14T10:58:28+0000,0.5
+588,"['wake', 'sad', 'newsabsolutely', 'shock', 'load', 'fan', 'especially', 'london', 'family', 'watch']",2020-06-14T10:59:06+0000,-0.25
+589,['rip'],2020-06-14T10:59:31+0000,0.0
+590,"['word', 'say', 'shock', 'news', 'brillant', 'actor', 'rip']",2020-06-14T10:59:32+0000,0.0
+591,"['cant', 'believe', 'amaze', 'actor', 'sad', 'dismissedmay', 'soul', 'rest', 'peace']",2020-06-14T10:59:42+0000,-0.5
+592,['rip'],2020-06-14T11:00:42+0000,0.0
+593,['rip'],2020-06-14T11:01:22+0000,0.0
+594,"['oomshanti', 'oom']",2020-06-14T11:01:34+0000,0.0
+595,"['cant', 'believe', 'sushant', 'singh', 'commit', 'suicide', 'rip']",2020-06-14T11:01:46+0000,0.0
+596,"['sadvery', 'sad']",2020-06-14T11:01:52+0000,-0.5
+597,"['shock', 'rest', 'peace', 'sarfaraz', 'ne', 'dokha', 'de', 'deya']",2020-06-14T11:02:56+0000,0.0
+598,"['go', 'soon', 'v', 'sad']",2020-06-14T11:03:02+0000,-0.5
+599,['sad'],2020-06-14T11:03:03+0000,-0.5
+600,"['reach', 'top', 'fall', 'like', 'unbelievable', 'god', 'know', 'make', 'take', 'one', 'life', 'solution', 'sad', 'om', 'shanti']",2020-06-14T11:05:26+0000,-0.08333333333333333
+601,"['sushant', 'singh', 'rajput', 'suicide', 'note']",2020-06-14T11:08:17+0000,0.0
+602,"['reportedly', 'live', 'alone', 'apartment', 'lockdown', 'survive', 'countless', 'lockdown', 'red', 'cheek', 'god', 'bless', 'u']",2020-06-14T11:08:21+0000,0.04545454545454545
+603,"['v', 'sadrip']",2020-06-14T11:08:26+0000,0.0
+604,"['yak', 'arafatkhan', 'sushant', 'singh', 'rajput', 'suicide', 'note']",2020-06-14T11:08:47+0000,0.0
+605,"['sushant', 'singh', 'rajput', 'suicide', 'note']",2020-06-14T11:08:58+0000,0.0
+606,"['keseor', 'ko', 'chance', 'mil', 'gahe', 'gw']",2020-06-14T11:08:59+0000,0.0
+607,"['unbelievable', 'life', 'unpredictable', 'one', 'never', 'imagine', 'whats', 'go', 'mind', 'kind', 'battle', 'someone', 'face', 'inside', 'money', 'look', 'fame', 'everything', 'seem', 'useless', 'dont', 'inner', 'peace', 'happiness', 'life', 'teach', 'u', 'kill', 'depression', 'lose']",2020-06-14T11:09:07+0000,0.06388888888888888
+608,['rip'],2020-06-14T11:09:31+0000,0.0
+609,"['god', 'happen']",2020-06-14T11:10:31+0000,0.0
+610,['rip'],2020-06-14T11:10:35+0000,0.0
+611,['rip'],2020-06-14T11:10:54+0000,0.0
+612,"['shock', 'sadden']",2020-06-14T11:12:47+0000,0.0
+613,"['love', 'specialist', 'vashikaran', 'baba', 'ji', 'call', 'whatsap']",2020-06-14T11:13:05+0000,0.5
+614,['rip'],2020-06-14T11:13:34+0000,0.0
+615,"['omg', 'unbelievable']",2020-06-14T11:14:02+0000,-0.25
+616,"['sad', 'unbelievablerip']",2020-06-14T11:14:12+0000,-0.5
+617,"['shock', 'news', 'cant', 'believe']",2020-06-14T11:14:22+0000,0.0
+618,['suicide'],2020-06-14T11:14:27+0000,0.0
+619,"['rip', 'sarfraz', 'ne', 'dhoka', 'de', 'dia', 'apne', 'family', 'ko']",2020-06-14T11:16:33+0000,0.0
+620,"['sad', 'news', 'rip', 'sir']",2020-06-14T11:17:09+0000,-0.5
+621,['wtf'],2020-06-14T11:18:46+0000,-0.5
+622,"['sad', 'r', 'p']",2020-06-14T11:18:51+0000,-0.5
+623,['rip'],2020-06-14T11:19:32+0000,0.0
+624,"['sooo', 'sadrip']",2020-06-14T11:20:13+0000,0.0
+625,"['sad', 'news', 'rip']",2020-06-14T11:20:16+0000,-0.5
+626,"['favorite', 'actor', 'sad', 'hear', 'news', 'rest', 'peace']",2020-06-14T11:22:19+0000,0.0
+627,"['lock', 'effect']",2020-06-14T11:23:48+0000,0.0
+628,"['omgno', 'dont', 'believehe', 'cant', 'commit', 'suicidehe', 'strong', 'confidential', 'person']",2020-06-14T11:26:06+0000,0.4333333333333333
+629,"['ill', 'wait', 'till', 'postmortem', 'report']",2020-06-14T11:27:03+0000,-0.5
+630,"['doesnt', 'matter', 'ur', 'r', 'u', 'religion', 'u', 'believe', 'death', 'certain', 'unbelievable', 'truth', 'life', 'unpredictable', 'one', 'never', 'imagine', 'whats', 'go', 'mind', 'kind', 'battle', 'someone', 'face', 'inside', 'money', 'look', 'fame', 'everything', 'seem', 'useless', 'dont', 'inner', 'peace', 'happiness', 'life', 'teach', 'u', 'kill', 'depression', 'lose', 'handsome', 'charm', 'talented', 'actor', 'miss', 'forever']",2020-06-14T11:27:39+0000,0.1997354497354497
+631,"['sad', 'inhuman', 'pas', 'negative', 'comment', 'know', 'life', 'end', 'please', 'refrain', 'negative', 'comment', 'focus', 'life', 'hereafter']",2020-06-14T11:27:56+0000,-0.3666666666666667
+632,"['fee', 'naar', 'saka', 'aaban', 'dan', 'aaba', 'daa']",2020-06-14T11:28:33+0000,0.0
+633,"['shiekha', 'gupta', 'wwhaaaaaat']",2020-06-14T11:30:28+0000,0.0
+634,"['depression', 'lead', 'suicide', 'shock', 'tragic', 'rip']",2020-06-14T11:30:50+0000,-0.75
+635,"['suicide', 'solution', 'instead', 'fight', 'live']",2020-06-14T11:31:13+0000,0.13636363636363635
+636,"['om', 'shanthi']",2020-06-14T11:31:37+0000,0.0
+637,['rip'],2020-06-14T11:31:40+0000,0.0
+638,"['tragic', 'sad', 'end', 'early', 'rip']",2020-06-14T11:31:47+0000,-0.3833333333333333
+639,"['actually', 'truem', 'shock']",2020-06-14T11:32:30+0000,0.0
+640,"['nadia', 'khursheed']",2020-06-14T11:32:48+0000,0.0
+641,"['shock', 'rip']",2020-06-14T11:33:31+0000,0.0
+642,"['heartbreaking', 'news', 'high', 'condolence', 'pakistan', 'pakistanisarfaraz']",2020-06-14T11:35:12+0000,0.16
+643,"['really', 'hurt']",2020-06-14T11:35:51+0000,0.2
+644,"['unbelievable', 'rip']",2020-06-14T11:37:38+0000,-0.25
+645,"['feel', 'sad', 'pray', 'soul', 'purgatory', 'get', 'bless', 'virgin', 'goodness', 'mother', 'mery', 'nd', 'jesus', 'christ', 'amen', 'hallelujah', 'hallelujah', 'hallelujah']",2020-06-14T11:37:44+0000,-0.5
+646,['stotram'],2020-06-14T11:37:52+0000,0.0
+647,"['person', 'teach', 'u', 'face', 'hard', 'time', 'life', 'suicide', 'solution', 'instead', 'fight', 'live', 'chhichore', 'movie', 'leave', 'u', 'alone', 'hard', 'believe']",2020-06-14T11:37:57+0000,-0.148989898989899
+648,"['hardik', 'shraddanjali']",2020-06-14T11:38:25+0000,0.0
+649,"['go', 'soon']",2020-06-14T11:39:49+0000,0.0
+650,['rip'],2020-06-14T11:42:25+0000,0.0
+651,['shock'],2020-06-14T11:42:37+0000,0.0
+652,"['muhammad', 'mohsin', 'mushtaq', 'jutt', 'clown', 'manipulate', 'corrupt', 'politician', 'believe', 'minister', 'want', 'believe', 'kinda', 'people', 'like', 'man', 'brain']",2020-06-14T11:45:23+0000,-0.5
+653,"['rip', 'khlistan']",2020-06-14T11:45:27+0000,0.0
+654,"['apologize', 'indian']",2020-06-14T11:45:52+0000,0.0
+655,"['waseem', 'ali', 'chutal', 'guidkieh']",2020-06-14T11:46:10+0000,0.0
+656,"['shock', 'sink']",2020-06-14T11:46:51+0000,0.0
+657,['unbelievable'],2020-06-14T11:47:09+0000,-0.25
+658,['rip'],2020-06-14T11:49:18+0000,0.0
+659,"['heartbreaking', 'news', 'unbelievablerip']",2020-06-14T11:49:33+0000,0.0
+660,"['waseem', 'ali', 'person', 'without', 'normal', 'brain', 'cell', 'find', 'every', 'tragic', 'funnyyou', 'need', 'help']",2020-06-14T11:49:56+0000,-0.3
+661,"['yesterday', 'indian', 'cheer', 'shahid', 'afridi', 'test', 'covid', 'positive', 'today', 'pakistani', 'mourn', 'death', 'sushantsingh', 'tell', 'lot', 'mentality', 'two', 'nation', 'people', 'pakistan', 'humanity', 'le', 'hate', 'pakistan']",2020-06-14T11:50:54+0000,-0.2863636363636364
+663,"['abu', 'nubaid', 'riyaz', 'khan']",2020-06-14T11:51:21+0000,0.0
+662,"['good', 'actor', 'go', 'connection', 'manager', 'disha', 'salian', 'death']",2020-06-14T11:51:21+0000,0.7
+664,"['nadia', 'khursheed', 'yesterday', 'indian', 'cheer', 'shahid', 'afridi', 'test', 'covid', 'positive', 'today', 'pakistani', 'mourn', 'death', 'sushantsingh', 'tell', 'lot', 'mentality', 'two', 'nation', 'people', 'pakistan', 'humanity', 'le', 'hate', 'pakistan']",2020-06-14T11:51:46+0000,-0.2863636363636364
+665,"['speak', 'bjp', 'day', 'ago']",2020-06-14T11:52:03+0000,0.0
+666,"['yes', 'take', 'medicine', 'depression', 'couldnt', 'take', 'pressure', 'lock']",2020-06-14T11:52:22+0000,0.0
+667,"['case', 'positive', 'confirm', 'decide', 'rip', 'problem', 'god', 'amen']",2020-06-14T11:52:48+0000,0.22727272727272727
+668,"['rip', 'unbelievable']",2020-06-14T11:52:53+0000,-0.25
+669,"['rip', 'sushant', 'singh', 'rajput']",2020-06-14T11:52:55+0000,0.0
+670,"['shikha', 'mishra', 'yesterday', 'indian', 'cheer', 'shahid', 'afridi', 'test', 'covid', 'positive', 'today', 'pakistani', 'mourn', 'death', 'sushantsingh', 'tell', 'lot', 'mentality', 'two', 'nation', 'people', 'pakistan', 'humanity', 'le', 'hate', 'pakistan']",2020-06-14T11:53:51+0000,-0.2863636363636364
+671,['rip'],2020-06-14T11:53:56+0000,0.0
+672,"['rip', 'hard', 'believedal', 'mein', 'kuch', 'kala']",2020-06-14T11:56:41+0000,-0.2916666666666667
+673,['grieve'],2020-06-14T11:57:46+0000,0.0
+674,"['sad', 'news']",2020-06-14T11:58:55+0000,-0.5
+675,"['may', 'soul', 'rest', 'peace']",2020-06-14T11:59:50+0000,0.0
+676,['rip'],2020-06-14T11:59:59+0000,0.0
+677,['rip'],2020-06-14T12:02:36+0000,0.0
+678,['rip'],2020-06-14T12:02:42+0000,0.0
+679,"['nahi', 'aaya', 'aaxxe', 'dinrip']",2020-06-14T12:02:49+0000,0.0
+680,"['may', 'commit', 'suicide', 'tge', 'reason', 'depression', 'january', 'relation', 'rhea', 'chakrabortyfew', 'day', 'secretary', 'commit', 'suicide']",2020-06-14T12:03:28+0000,0.0
+681,"['still', 'believe', 'love', 'film']",2020-06-14T12:03:42+0000,0.5
+682,"['ripim', 'truly', 'heartbroken', 'promise', 'career', 'front', 'truly', 'dont', 'know', 'people', 'anymore']",2020-06-14T12:06:16+0000,0.0
+683,"['sad', 'hear', 'demise', 'sushant', 'lose', 'good', 'actoray', 'soul', 'rest', 'peace']",2020-06-14T12:07:42+0000,0.09999999999999998
+684,['rip'],2020-06-14T12:09:31+0000,0.0
+685,"['worst', 'year', 'ever', 'saw', 'life']",2020-06-14T12:10:20+0000,-1.0
+686,['miss'],2020-06-14T12:11:52+0000,0.0
+687,"['heartbreaking', 'news', 'sad']",2020-06-14T12:12:18+0000,-0.5
+688,['sad'],2020-06-14T12:12:31+0000,-0.5
+689,['rip'],2020-06-14T12:12:32+0000,0.0
+690,"['sad', 'hear', 'bad', 'news', 'rip']",2020-06-14T12:12:55+0000,-0.5999999999999999
+691,"['sad', 'aisa', 'kyu', 'kiya', 'sir']",2020-06-14T12:13:41+0000,-0.5
+692,['rip'],2020-06-14T12:15:44+0000,0.0
+693,['shock'],2020-06-14T12:17:45+0000,0.0
+694,"['possibly', 'murder', 'drug', 'overdose']",2020-06-14T12:18:27+0000,0.0
+695,['rip'],2020-06-14T12:18:38+0000,0.0
+696,"['sad', 'news', 'may', 'soul', 'rest', 'peace']",2020-06-14T12:19:47+0000,-0.5
+697,['rip'],2020-06-14T12:20:25+0000,0.0
+698,"['saala', 'viswas', 'hi', 'nhi', 'ho', 'raha']",2020-06-14T12:22:33+0000,0.0
+699,"['really', 'unbelievable']",2020-06-14T12:24:18+0000,-0.25
+700,"['good', 'actor', 'extremely', 'dishearten', 'r', 'p']",2020-06-14T12:24:47+0000,0.2875
+701,"['good', 'die', 'early', 'would', 'better', 'today', 'anonymous', 'engineer', 'rather', 'chase', 'showbiz', 'nonsense', 'watch', 'since', 'dance', 'day', 'reality', 'tv', 'people', 'ask', 'whether', 'want', 'either', 'son', 'daughter', 'consider', 'showbiz', 'career', 'say', 'thing', 'want', 'fake', 'life', 'chase', 'name', 'fame', 'celebrity', 'sh', 'whatever', 'money', 'shony']",2020-06-14T12:27:55+0000,0.19999999999999996
+702,"['varsha', 'dutta', 'seriously']",2020-06-14T12:30:06+0000,-0.3333333333333333
+703,['solution'],2020-06-14T12:31:17+0000,0.0
+704,"['great', 'loss', 'one', 'talentedexposes', 'depression', 'something', 'world', 'need', 'take', 'seriously']",2020-06-14T12:33:05+0000,0.23333333333333336
+705,"['may', 'soul', 'rest', 'peace']",2020-06-14T12:35:51+0000,0.0
+706,['rip'],2020-06-14T12:36:23+0000,0.0
+707,['rip'],2020-06-14T12:36:38+0000,0.0
+708,"['shock', 'im', 'deeply', 'sadwhat', 'gonin', 'bad', 'one', 'favourt', 'actor', 'darama', 'serial', 'rip', 'sushant']",2020-06-14T12:38:52+0000,-0.3499999999999999
+709,['sad'],2020-06-14T12:39:28+0000,-0.5
+710,['rip'],2020-06-14T12:43:30+0000,0.0
+711,['rip'],2020-06-14T12:45:02+0000,0.0
+712,"['please', 'check', 'foul', 'play', 'rip', 'condolence', 'bereave', 'one']",2020-06-14T12:45:38+0000,0.0
+713,"['rest', 'peace', 'sir']",2020-06-14T12:48:05+0000,0.0
+714,"['show', 'intellectual', 'level', 'wellit', 'useless', 'say', 'people', 'like']",2020-06-14T12:48:42+0000,-0.1
+715,['nonono'],2020-06-14T12:53:11+0000,0.0
+716,['rip'],2020-06-14T12:57:31+0000,0.0
+717,['rip'],2020-06-14T12:58:33+0000,0.0
+718,['rip'],2020-06-14T13:04:08+0000,0.0
+719,"['really', 'sorry']",2020-06-14T13:04:58+0000,-0.5
+720,['rip'],2020-06-14T13:05:00+0000,0.0
+721,"['depression', 'serious', 'incident', 'especially', 'time', 'every', 'one', 'call', 'ur', 'friend', 'relative', 'live', 'alone', 'convey', 'ur', 'love', 'regard', 'tell', 'u', 'r', 'wid', 'rip']",2020-06-14T13:10:51+0000,0.06060606060606061
+722,"['sad', 'young']",2020-06-14T13:11:25+0000,-0.2
+723,"['omg', 'sad', 'news', 'sushant', 'singh', 'rajput', 'vry', 'young', 'talented', 'actormy', 'favourite', 'actor', 'rest', 'peace']",2020-06-14T13:14:10+0000,0.09999999999999998
+724,['rip'],2020-06-14T13:14:40+0000,0.0
+725,['rip'],2020-06-14T13:14:50+0000,0.0
+726,"['body', 'must', 'threaten', 'money', 'film', 'star', 'handsome', 'tall', 'n', 'talented']",2020-06-14T13:14:59+0000,0.6
+727,"['life', 'much', 'offer', 'many', 'people', 'fight', 'survival', 'every', 'night', 'sleep', 'hope', 'nxt', 'morning', 'sunshine', 'act', 'suicide', 'dont', 'deserve', 'rip']",2020-06-14T13:18:00+0000,0.35
+728,"['oh', 'god', 'cant', 'believe', 'shock', 'year', 'really', 'curse', 'may', 'soul', 'rest', 'peace']",2020-06-14T13:19:06+0000,0.2
+729,"['feed', 'see', 'happen', 'ladakh', 'wht', 'modi', 'india']",2020-06-14T13:19:29+0000,0.0
+730,['rip'],2020-06-14T13:25:15+0000,0.0
+731,"['om', 'shanti']",2020-06-14T13:26:16+0000,0.0
+732,"['sad', 'cant', 'believewhy', 'cant', 'take', 'young', 'come', 'youngster']",2020-06-14T13:26:51+0000,-0.2
+733,['rip'],2020-06-14T13:29:16+0000,0.0
+734,"['condolence', 'sad']",2020-06-14T13:30:18+0000,-0.5
+735,"['suicide', 'good', 'super', 'star', 'hero']",2020-06-14T13:34:39+0000,0.5166666666666666
+736,"['day', 'ago', 'watch', 'movie', 'think', 'would', 'next', 'bollywood', 'king', 'future', 'sad']",2020-06-14T13:35:16+0000,-0.16666666666666666
+737,"['e', 'insan', 'housla', 'rakh', 'kabhi', 'haar', 'mat', 'khuda', 'pe', 'bharosa', 'rakh']",2020-06-14T13:39:48+0000,0.0
+738,"['watch', 'live', 'talk', 'show', 'coffee', 'kanika', 'mental', 'health', 'awareness', 'initiative', 'web', 'series', 'iii', 'let', 'raise', 'awareness', 'together', 'better', 'tomorrow', 'please', 'spread', 'serve', 'humanity']",2020-06-14T13:43:07+0000,0.1787878787878788
+739,"['rip', 'painful']",2020-06-14T13:43:12+0000,-0.7
+740,['rip'],2020-06-14T13:43:15+0000,0.0
+741,['rip'],2020-06-14T13:44:18+0000,0.0
+742,"['great', 'tragic', 'loss']",2020-06-14T13:45:09+0000,0.025000000000000022
+743,['rip'],2020-06-14T13:47:56+0000,0.0
+744,['rip'],2020-06-14T13:48:23+0000,0.0
+745,"['cowardice', 'act', 'crime', 'send', 'negative', 'message', 'society', 'present', 'generation', 'rip']",2020-06-14T13:50:09+0000,-0.15
+746,"['tragic', 'shock', 'heartfelt', 'condolence']",2020-06-14T13:50:40+0000,-0.375
+747,"['asia', 'noor', 'yeah', 'read', 'believe', 'good', 'look', 'talented', 'actor']",2020-06-14T13:51:16+0000,0.7
+748,['rip'],2020-06-14T13:55:11+0000,0.0
+749,['rip'],2020-06-14T13:55:20+0000,0.0
+750,['rip'],2020-06-14T13:55:24+0000,0.0
+751,['sad'],2020-06-14T13:56:07+0000,-0.5
+752,"['unki', 'atma', 'ko', 'shanti', 'mile', 'rip']",2020-06-14T13:57:24+0000,0.0
+753,"['sad', 'lose', 'good', 'artist', 'rip']",2020-06-14T13:59:59+0000,0.09999999999999998
+754,"['sad', 'thorough', 'investigation', 'matter']",2020-06-14T14:02:04+0000,-0.5
+755,"['sad', 'young', 'right', 'way', 'depart']",2020-06-14T14:08:24+0000,-0.038095238095238106
+756,"['life', 'extremely', 'complicate', 'never', 'know', 'whats', 'go', 'behind', 'curtain', 'unless', 'youre', 'shoe', 'kindness', 'must', 'give', 'love', 'important', 'give', 'love', 'rest', 'peace', 'sushant']",2020-06-14T14:10:51+0000,0.175
+757,['rip'],2020-06-14T14:13:29+0000,0.0
+758,['sad'],2020-06-14T14:13:51+0000,-0.5
+759,"['depression', 'consequence', 'rip', 'shusant']",2020-06-14T14:20:44+0000,0.0
+760,['rip'],2020-06-14T14:22:50+0000,0.0
+761,"['unbelievable', 'r', 'p']",2020-06-14T14:24:10+0000,-0.25
+762,"['v', 'sad', 'news', 'talented', 'bud', 'actorom', 'shanti']",2020-06-14T14:24:30+0000,0.09999999999999998
+763,"['shock', 'newsrest', 'peace']",2020-06-14T14:25:46+0000,0.0
+764,['rip'],2020-06-14T14:27:08+0000,0.0
+765,"['sad', 'news', 'young']",2020-06-14T14:28:18+0000,-0.2
+766,"['terrible', 'shock', 'news', 'u', 'may', 'god', 'grant', 'soul', 'eternal', 'peace', 'hope', 'payer', 'comfort', 'pain', 'beareved', 'family', 'well', 'wishers']",2020-06-14T14:35:11+0000,-1.0
+767,"['sad', 'om', 'shanti']",2020-06-14T14:46:17+0000,-0.5
+768,['rip'],2020-06-14T14:47:08+0000,0.0
+769,['love'],2020-06-14T14:48:09+0000,0.5
+770,"['sad', 'brilliant', 'young', 'actor', 'rip']",2020-06-14T14:50:00+0000,0.16666666666666666
+771,"['sad', 'first', 'disha', 'sushant', 'singh']",2020-06-14T14:51:21+0000,-0.125
+772,"['must', 'br', 'investigate']",2020-06-14T14:51:39+0000,0.0
+773,"['gutter', 'mai', 'gaya', 'becharaa']",2020-06-14T14:56:14+0000,0.0
+774,['sad'],2020-06-14T14:58:39+0000,-0.5
+775,"['extreme', 'step', 'sad', 'rip']",2020-06-14T14:58:49+0000,-0.3125
+776,"['sad', 'untimely', 'depart', 'soulrip']",2020-06-14T15:04:43+0000,-0.5
+777,['rip'],2020-06-14T15:06:59+0000,0.0
+778,"['sad', 'demise', 'sushant', 'singh', 'rajput']",2020-06-14T15:09:22+0000,-0.5
+779,"['upset', 'young', 'love', 'smile', 'rip']",2020-06-14T15:12:31+0000,0.3
+780,['rip'],2020-06-14T15:13:16+0000,0.0
+781,"['sad', 'news']",2020-06-14T15:16:47+0000,-0.5
+782,"['also', 'trend', 'pakistan']",2020-06-14T15:17:34+0000,0.0
+783,"['cant', 'believe', 'could', 'act', 'rip', 'depart', 'soul']",2020-06-14T15:18:31+0000,0.0
+784,['rip'],2020-06-14T15:21:17+0000,0.0
+785,"['meera', 'kota']",2020-06-14T15:21:47+0000,0.0
+786,['rip'],2020-06-14T15:24:49+0000,0.0
+787,"['wow', 'suicide']",2020-06-14T15:33:43+0000,0.1
+788,"['rip', 'sir']",2020-06-14T15:36:27+0000,0.0
+789,"['meanwhile', 'medium']",2020-06-14T15:37:42+0000,0.0
+790,"['prove', 'name', 'fame', 'money', 'cant', 'buy', 'happiness']",2020-06-14T15:40:47+0000,0.7
+791,"['dear', 'u']",2020-06-14T15:41:44+0000,0.0
+792,"['young', 'age', 'leave', 'bollywood', 'fan', 'soul', 'rest', 'peace', 'om', 'shanti']",2020-06-14T15:44:03+0000,0.1
+793,['rip'],2020-06-14T15:45:51+0000,0.0
+794,"['nadia', 'khursheed', 'true', 'worse', 'year']",2020-06-14T15:46:59+0000,-0.025000000000000022
+795,"['could', 'digest', 'news', 'feel', 'sad']",2020-06-14T15:50:16+0000,-0.5
+796,"['collage', 'life', 'spend', 'look', 'ur', 'serial', 'pabitra', 'rista', 'manaba', 'archana', 'favourite', 'couple', 'forever', 'realy', 'realy', 'miss', 'sir']",2020-06-14T15:58:59+0000,0.0
+797,"['shock', 'even', 'sad', 'loose', 'young', 'talented', 'actor', 'human', 'dedication', 'struggle', 'use', 'inspire', 'u', 'soon', 'leave', 'u', 'away', 'young', 'energetic', 'soul', 'great', 'loss', 'bollywood', 'lovefrom', 'bangladesh', 'may', 'depart', 'soul', 'rest', 'peace']",2020-06-14T15:59:56+0000,0.20288461538461539
+798,['hero'],2020-06-14T16:02:31+0000,0.0
+799,"['cant', 'believe', 'thisrip']",2020-06-14T16:05:51+0000,0.0
+800,"['still', 'love']",2020-06-14T16:06:00+0000,0.5
+801,['omg'],2020-06-14T16:09:53+0000,0.0
+802,"['favorite', 'hero', 'rip', 'life', 'time', 'miss']",2020-06-14T16:12:00+0000,0.5
+803,"['though', 'see', 'movie', 'move', 'death', 'suffer', 'clinical', 'depression', 'know', 'terrible', 'mental', 'suffer', 'suffer', 'bipolar', 'disorder', 'plus', 'psychosis', 'painful', 'suffer', 'mother', 'pass', 'away', 'three', 'month', 'ago', 'loneliness', 'due', 'coronavirus', 'cant', 'go', 'go', 'psychiatrist', 'take', 'medication', 'friend', 'sad', 'young']",2020-06-14T16:22:39+0000,-0.38749999999999996
+804,"['commit', 'meansstop', 'use', 'word', 'commitplease']",2020-06-14T16:24:32+0000,0.0
+805,['sad'],2020-06-14T16:35:21+0000,-0.5
+806,"['qayyum', 'shah', 'cant', 'judge', 'entire', 'nationthis', 'wrong']",2020-06-14T16:36:44+0000,-0.25
+807,['rip'],2020-06-14T16:37:02+0000,0.0
+808,"['murder', 'suicide', 'v', 'mark', 'evidence']",2020-06-14T16:38:06+0000,0.0
+809,"['bahot', 'dukh', 'ki', 'bat', 'hai']",2020-06-14T16:49:47+0000,0.0
+810,['rip'],2020-06-14T16:55:51+0000,0.0
+811,"['younghandsome', 'smart', 'actor', 'moremay', 'soul', 'rest', 'peace']",2020-06-14T16:56:27+0000,0.21428571428571427
+812,['sad'],2020-06-14T16:58:27+0000,-0.5
+813,"['esko', 'hmm', 'manv', 'k', 'nam', 'se', 'jante', 'h', 'sad']",2020-06-14T16:59:06+0000,-0.5
+814,"['oh', 'love', 'smile', 'soooo', 'sad']",2020-06-14T17:08:45+0000,0.10000000000000002
+815,"['may', 'soul', 'rest', 'eternal', 'peaceshushant']",2020-06-14T17:25:06+0000,0.0
+816,"['infact', 'unbelievable']",2020-06-14T17:27:46+0000,-0.25
+817,"['sad', 'hear', 'rest', 'peace']",2020-06-14T17:34:46+0000,-0.5
+818,['rip'],2020-06-14T17:35:48+0000,0.0
+819,"['sad', 'much', 'look', 'forward', 'love', 'act', 'pavitar', 'rishta', 'sad']",2020-06-14T17:37:46+0000,-0.075
+820,"['muslim', 'hahaha', 'post']",2020-06-14T17:39:12+0000,0.2
+821,"['miss', 'u']",2020-06-14T17:40:05+0000,0.0
+822,"['rent', 'flat', 'lakh', 'per', 'month', 'b', 'cctv', 'camera', 'investigate', 'help', 'see', 'come', 'flat', 'door', 'bang', 'close', 'switch', 'lock', 'inside', 'force', 'hang', 'go', 'point', 'ponder']",2020-06-14T17:41:47+0000,-0.025
+823,"['wish', 'someone', 'socalled', 'entertainment', 'industry', 'introduce', 'spiritual', 'side', 'life', 'unfulfilled', 'materialistic', 'desire', 'take', 'another', 'young', 'life', 'shame']",2020-06-14T17:44:41+0000,0.05
+824,"['favourite', 'actor', 'go', 'sad', 'may', 'rest', 'peace']",2020-06-14T17:57:46+0000,-0.5
+825,['rip'],2020-06-14T18:11:26+0000,0.0
+826,['rip'],2020-06-14T18:13:02+0000,0.0
+827,"['sad', 'news', 'rip']",2020-06-14T18:27:23+0000,-0.5
+828,"['rip', 'sushant', 'singh', 'rajpoot', 'sad', 'news', 'remind', 'dialogue', 'aamir', 'khan', 'idots', 'must', 'listen']",2020-06-14T18:36:08+0000,-0.5
+829,['rip'],2020-06-14T18:36:33+0000,0.0
+830,"['love', 'movie', 'vibrant', 'personality', 'positive', 'vibe', 'send', 'outif', 'part', 'publicits', 'hard', 'come', 'term', 'losscant', 'imagine', 'family', 'friend', 'must', 'go', 'throughchallenging', 'time', 'indeed']",2020-06-14T18:41:10+0000,0.15056818181818182
+831,"['rip', 'shock', 'sad']",2020-06-14T18:51:46+0000,-0.5
+832,"['rip', 'sad']",2020-06-14T19:03:09+0000,-0.5
+833,['true'],2020-06-14T19:21:10+0000,0.35
+834,"['heartbroken', 'rip', 'lose', 'word']",2020-06-14T19:39:41+0000,0.0
+835,['rip'],2020-06-14T20:17:25+0000,0.0
+836,"['lord', 'god', 'happen', 'take', 'extreme', 'step', 'may', 'soul', 'find', 'peace', 'pray', 'soul']",2020-06-14T20:22:19+0000,-0.125
+837,['rip'],2020-06-14T20:45:02+0000,0.0
+838,"['start', 'watch', 'movie', 'yesterday', 'get', 'back']",2020-06-14T20:52:57+0000,0.0
+839,"['work', 'hard', 'achieve', 'much', 'end', 'like', 'wah', 'tragic', 'loss', 'life', 'absolutely', 'shock']",2020-06-14T20:58:09+0000,-0.16041666666666665
+840,"['nahi', 'pasand', 'dil', 'ko', 'esaliye', 'nahi', 'sine', 'pe', 'g']",2020-06-14T21:05:58+0000,0.0
+841,['rip'],2020-06-14T21:20:12+0000,0.0
+842,['rip'],2020-06-15T03:11:03+0000,0.0
+843,"['sad', 'news']",2020-06-15T03:31:07+0000,-0.5
+844,"['modi', 'kill', 'ompuri', 'two', 'year', 'ago', 'speak', 'favor', 'pakistan', 'modi', 'must', 'target']",2020-06-15T05:18:22+0000,0.0
+845,"['real', 'life', 'bahot', 'kamjor', 'nikla']",2020-06-15T06:33:08+0000,0.2
+846,"['sonali', 'shandilya', 'excite', 'marriage', 'take', 'place', 'november', 'yeari', 'think', 'come', 'know', 'murder', 'managerthat', 'could', 'one', 'reason', 'kill']",2020-06-15T06:40:51+0000,0.0
+847,"['may', 'soul', 'rest', 'peace', 'paradise']",2020-06-15T07:03:40+0000,0.0
+848,"['sad', 'rip']",2020-06-15T07:41:32+0000,-0.5
+849,"['bollywood', 'ready', 'film', 'life']",2020-06-15T07:53:53+0000,0.2
+850,"['young', 'man', 'many', 'work', 'plan', 'many', 'vista', 'span', 'many', 'race', 'could', 'run', 'shock', 'grief', 'reign', 'place', 'couldnt', 'help', 'give', 'solace', 'guilty', 'ashamed', 'lose', 'bud', 'star', 'leave', 'whole', 'humanity', 'scar', 'young', 'man', 'many', 'work', 'plan']",2020-06-15T08:03:21+0000,0.12222222222222223
+851,['nice'],2020-06-15T09:55:04+0000,0.6
+852,['ok'],2020-06-15T11:32:32+0000,0.5
+853,"['om', 'shanti']",2020-06-15T11:36:16+0000,0.0
+854,"['boom', 'brussss', 'sex', 'brus']",2020-06-15T12:15:38+0000,0.0
+855,"['sad', 'newsrip', 'sir']",2020-06-15T12:34:23+0000,-0.5
+856,"['kaushali', 'bandara', 'work']",2020-06-15T13:23:54+0000,0.0
+857,"['sushant', 'intelligent', 'loner', 'dreamer', 'long', 'someone', 'fill', 'void', 'fulfil', 'dream', 'depress', 'fail', 'find', 'one', 'highly', 'talented', 'innovative', 'look', 'star', 'unrest', 'mind', 'void', 'life', 'take', 'life']",2020-06-15T13:28:03+0000,0.23055555555555554
+858,['rip'],2020-06-15T14:10:23+0000,0.0
+859,['rip'],2020-06-15T17:30:39+0000,0.0
+860,"['sorry', 'family', 'friend', 'god', 'bless', 'soul']",2020-06-15T18:10:00+0000,-0.5
+861,"['shock', 'news', 'feel', 'sad']",2020-06-15T20:35:39+0000,-0.5
+862,"['rest', 'peace']",2020-06-16T18:08:37+0000,0.0
+863,"['spoil', 'arijit', 'viveks', 'career', 'know', 'know', 'dangerous', 'politics', 'bollywood', 'launch', 'pakistani', 'artist', 'despite', 'ban', 'pakistani', 'artist', 'strictly', 'india', 'dil', 'diya', 'galla', 'song', 'sing', 'atif', 'aslam']",2020-06-16T18:21:34+0000,-0.6
+864,['sad'],2020-06-18T05:39:34+0000,-0.5
+865,"['vaibhav', 'shukla', 'teri', 'maa', 'ki', 'b', 'blky', 'teri', 'maa', 'ki', 'choot', 'mera', 'loraa', 'ab', 'sahe', 'h', 'lory', 'jc', 'shakal', 'k']",2020-06-20T09:33:15+0000,0.0

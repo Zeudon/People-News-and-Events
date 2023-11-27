@@ -1,0 +1,94 @@
+id,message,tone
+2,Police fired on farmers and bullets hit Farmer and lost control,"{'document_tone': {'tones': [{'score': 0.501515, 'tone_id': 'sadness', 'tone_name': 'Sadness'}]}}"
+3,What has happened today cannot be undermined and it’s a lesson for the Government that the Khalistan referendum which was temporarily suspended in 2020 has indirectly revived after Red Fort incident .. camera visuals are with police .. now police should arrests all those who are part of incident .. innocents public and farmers should be spared..Govt should slap NSA act on all farm leaders those who are now hiding and try to pass blame .. such a shameless incident and that to be National Capital ..,{'document_tone': {'tones': []}}
+4,The Government has to withdraw the law. #FarmersProtest,"{'document_tone': {'tones': [{'score': 0.993781, 'tone_id': 'confident', 'tone_name': 'Confident'}]}, 'sentences_tone': [{'sentence_id': 0, 'text': 'The Government has to withdraw the law.', 'tones': [{'score': 0.9651, 'tone_id': 'confident', 'tone_name': 'Confident'}]}, {'sentence_id': 1, 'text': '#FarmersProtest', 'tones': []}]}"
+5,A shameful moment for the country on our Republic Day. This is nothing short of an act of war against the Indian Republic.,"{'document_tone': {'tones': []}, 'sentences_tone': [{'sentence_id': 0, 'text': 'A shameful moment for the country on our Republic Day.', 'tones': []}, {'sentence_id': 1, 'text': 'This is nothing short of an act of war against the Indian Republic.', 'tones': [{'score': 0.550033, 'tone_id': 'sadness', 'tone_name': 'Sadness'}]}]}"
+6,Police fired on farmer head while he was driving Tractor .Therefore  tractor fell down,"{'document_tone': {'tones': [{'score': 0.801827, 'tone_id': 'analytical', 'tone_name': 'Analytical'}]}}"
+7,Not only indians are watching farmers protest...World peoples are deeply watching...,"{'document_tone': {'tones': [{'score': 0.522121, 'tone_id': 'sadness', 'tone_name': 'Sadness'}, {'score': 0.932977, 'tone_id': 'analytical', 'tone_name': 'Analytical'}]}}"
+8,What does media think ?? medical ?? report in India can move from positive to negative and negative to positive...Made in INDIA ???? ,"{'document_tone': {'tones': [{'score': 0.520874, 'tone_id': 'confident', 'tone_name': 'Confident'}]}}"
+9,Yes but Rajdeep Sardesai already posted he died due to police bullet wound :),"{'document_tone': {'tones': [{'score': 0.762356, 'tone_id': 'analytical', 'tone_name': 'Analytical'}]}}"
+10,Who is behind the root cause of all these divisive acts ...  Who always milks his plots.,"{'document_tone': {'tones': [{'score': 0.898327, 'tone_id': 'confident', 'tone_name': 'Confident'}, {'score': 0.506763, 'tone_id': 'analytical', 'tone_name': 'Analytical'}]}}"
+11,And india today is busy in licking modis boots ????godi media ab toh sudarjao ..one day you guys are gonna pay for this ..,{'document_tone': {'tones': []}}
+12,When farmers law was done you’ll did not give in details... Media is running by government???,{'document_tone': {'tones': []}}
+13,"Its good that one terrorist disguising as farmer died when his tractor overturned. ""Karma""","{'document_tone': {'tones': []}, 'sentences_tone': [{'sentence_id': 0, 'text': 'Its good that one terrorist disguising as farmer died when his tractor overturned.', 'tones': [{'score': 0.78277, 'tone_id': 'sadness', 'tone_name': 'Sadness'}]}, {'sentence_id': 1, 'text': '""Karma""', 'tones': []}]}"
+14,Police wale ne barcading ko dhakka diya h video m saaf dikh rha h,{'document_tone': {'tones': []}}
+15,?? ???????? ????? ?? ????...  ????? ?? ????? ?? ?? ??? ???,{'document_tone': {'tones': []}}
+16,police shoots they will pay..,{'document_tone': {'tones': []}}
+17,Total Govt.failure Home ministry failure  ?? ?? ?? ?? ??? ???????? ??? ??? ?? ????? ??? ???? ?????? ??? ?? ?? ????? ???? ??? ???? ?????? ?? ??? ??? ????? ???? ???? ?? ?? ?? ?? ??? ?? ???? ?? ?????? ???? ????? ?? ???????? ???? ??? ???????? ???? ???   ?? ????? ??? ?? ???? ??? ?????? ????? ?? ???? ???? ????? ?? ??? ??? ???? ????? ????? ?? ??? ?? ???   ?? ??????? ?? ???? ?? ?? ??? ?? ?? ??????? ?? ?????? ?? ?????? ?? ?? ???????? ?? ???? ?? ???????? ?? ??? ??? ?? ????? ?????? ??? ?? ?? ?? ?????? ?? ???? ???? ?? ???????? ?? ?????? ??  ?? ???? ?????,"{'document_tone': {'tones': [{'score': 0.971165, 'tone_id': 'confident', 'tone_name': 'Confident'}]}, 'sentences_tone': [{'sentence_id': 0, 'text': 'Total Govt.failure', 'tones': [{'score': 0.788221, 'tone_id': 'sadness', 'tone_name': 'Sadness'}, {'score': 0.942582, 'tone_id': 'confident', 'tone_name': 'Confident'}]}, {'sentence_id': 1, 'text': 'Home ministry failure  ?? ?? ?? ?? ??? ???????? ??? ??? ?? ????? ??? ???? ?????? ??? ?? ?? ????? ???? ??? ???? ?????? ?? ??? ??? ????? ???? ???? ?? ?? ?? ?? ??? ?? ???? ?? ?????? ???? ????? ?? ???????? ???? ??? ???????? ???? ???   ?? ????? ??? ?? ???? ??? ?????? ????? ?? ???? ???? ????? ?? ??? ??? ???? ????? ????? ?? ??? ?? ???   ?? ??????? ?? ???? ?? ?? ??? ?? ?? ??????? ?? ?????? ?? ?????? ?? ?? ???????? ?? ???? ?? ???????? ?? ??? ??? ?? ????? ?????? ??? ?? ?? ?? ?????? ?? ???? ???? ?? ???????? ?? ?????? ??  ?? ???? ?????', 'tones': []}]}"
+18,The government is afraid of taking action for the fear of losing votes! They did the same during caa protests! Why send policemen to be thrashed by the mob?! Police should withdraw and let the protesters wreak havoc in Delhi instead ??,"{'document_tone': {'tones': [{'score': 0.747938, 'tone_id': 'fear', 'tone_name': 'Fear'}]}, 'sentences_tone': [{'sentence_id': 0, 'text': 'The government is afraid of taking action for the fear of losing votes!', 'tones': [{'score': 0.919695, 'tone_id': 'fear', 'tone_name': 'Fear'}]}, {'sentence_id': 1, 'text': 'They did the same during caa protests!', 'tones': [{'score': 0.658317, 'tone_id': 'anger', 'tone_name': 'Anger'}]}, {'sentence_id': 2, 'text': 'Why send policemen to be thrashed by the mob?! Police should withdraw and let the protesters wreak havoc in Delhi instead ??', 'tones': []}]}"
+19,And some.one called india today report as b....k ????,{'document_tone': {'tones': []}}
+20,Bc police kya kar raha hain you guys supposed to lead farmer bhenkichut,"{'document_tone': {'tones': [{'score': 0.556017, 'tone_id': 'sadness', 'tone_name': 'Sadness'}, {'score': 0.716301, 'tone_id': 'tentative', 'tone_name': 'Tentative'}]}}"
+21,Heard bullet has been fired in his head As reported by india today,{'document_tone': {'tones': []}}
+22,Cops may be used sniper shot who knows???????,"{'document_tone': {'tones': [{'score': 0.88939, 'tone_id': 'tentative', 'tone_name': 'Tentative'}, {'score': 0.803567, 'tone_id': 'analytical', 'tone_name': 'Analytical'}]}}"
+23,Not dead he gets what he deserves . Karma hits back,"{'document_tone': {'tones': []}, 'sentences_tone': [{'sentence_id': 0, 'text': 'Not dead he gets what he deserves .', 'tones': []}, {'sentence_id': 1, 'text': 'Karma hits back', 'tones': []}]}"
+24,driver ? then its actually good,"{'document_tone': {'tones': [{'score': 0.68009, 'tone_id': 'joy', 'tone_name': 'Joy'}, {'score': 0.995186, 'tone_id': 'confident', 'tone_name': 'Confident'}, {'score': 0.980143, 'tone_id': 'analytical', 'tone_name': 'Analytical'}]}, 'sentences_tone': [{'sentence_id': 0, 'text': 'driver ?', 'tones': [{'score': 0.8152, 'tone_id': 'analytical', 'tone_name': 'Analytical'}]}, {'sentence_id': 1, 'text': 'then its actually good', 'tones': [{'score': 0.794571, 'tone_id': 'joy', 'tone_name': 'Joy'}, {'score': 0.97759, 'tone_id': 'confident', 'tone_name': 'Confident'}, {'score': 0.920855, 'tone_id': 'analytical', 'tone_name': 'Analytical'}]}]}"
+25,????? ?? ??? ??? ?? ???? ???? ??? ??? ?? ?? ????,{'document_tone': {'tones': []}}
+26,"On left side, u can find cops. May police fired and he lost his control. ","{'document_tone': {'tones': [{'score': 0.944845, 'tone_id': 'tentative', 'tone_name': 'Tentative'}]}, 'sentences_tone': [{'sentence_id': 0, 'text': 'On left side, u can find cops.', 'tones': []}, {'sentence_id': 1, 'text': 'May police fired and he lost his control.', 'tones': [{'score': 0.88939, 'tone_id': 'tentative', 'tone_name': 'Tentative'}]}]}"
+27,,{'document_tone': {'tones': []}}
+28,,{'document_tone': {'tones': []}}
+29,Police ke karan mar gaye,{'document_tone': {'tones': []}}
+30,Kashmirio pr zulm dhahany waly Aaj Laal Qila bacha nahi Saky.....,{'document_tone': {'tones': []}}
+31,,{'document_tone': {'tones': []}}
+32,,{'document_tone': {'tones': []}}
+33,This is how BJP loves National Flag??,{'document_tone': {'tones': []}}
+34,,{'document_tone': {'tones': []}}
+35,,{'document_tone': {'tones': []}}
+36,,{'document_tone': {'tones': []}}
+37,,{'document_tone': {'tones': []}}
+38,,{'document_tone': {'tones': []}}
+39,,{'document_tone': {'tones': []}}
+40,,{'document_tone': {'tones': []}}
+41,,{'document_tone': {'tones': []}}
+42,"Now it's clear Pak influenced khalisthanis , leftist ,  nuxals and some anti national political parties are the master mind of that barbaric attack on our beloved country  #WEAREWITHINDIA #JAIHIND???? BHARAT MATA KI JAI ????",{'document_tone': {'tones': []}}
+43,,{'document_tone': {'tones': []}}
+44,"?????? ??? ??? ??????????? ?????? ???? ????? ??? ????????? ??????? ????? ???? ?????? ??? ?????????? ????????????? ???????, ???? ???? ?????? ??????",{'document_tone': {'tones': []}}
+45,,{'document_tone': {'tones': []}}
+46,,{'document_tone': {'tones': []}}
+47,,{'document_tone': {'tones': []}}
+48,tikait ke maut honi xhaiye,{'document_tone': {'tones': []}}
+49,Margaya madar*hod la la laa laa,{'document_tone': {'tones': []}}
+50,,{'document_tone': {'tones': []}}
+51,very good that a pig died..,"{'document_tone': {'tones': [{'score': 0.725752, 'tone_id': 'sadness', 'tone_name': 'Sadness'}, {'score': 0.942582, 'tone_id': 'confident', 'tone_name': 'Confident'}]}}"
+52,Ricky S Nikki,{'document_tone': {'tones': []}}
+53,Modi Government has failed completely,"{'document_tone': {'tones': [{'score': 0.647705, 'tone_id': 'sadness', 'tone_name': 'Sadness'}, {'score': 0.961633, 'tone_id': 'confident', 'tone_name': 'Confident'}]}}"
+54,,{'document_tone': {'tones': []}}
+55,,{'document_tone': {'tones': []}}
+56,Sick tertorists destroying bharat mata,"{'document_tone': {'tones': [{'score': 0.577137, 'tone_id': 'anger', 'tone_name': 'Anger'}]}}"
+57,,{'document_tone': {'tones': []}}
+58,Marne do kutte ko,{'document_tone': {'tones': []}}
+59,Time pora hogaya ha india ka,{'document_tone': {'tones': []}}
+60,Shame on Indian government,"{'document_tone': {'tones': [{'score': 0.677864, 'tone_id': 'sadness', 'tone_name': 'Sadness'}]}}"
+61,Long live khalistan kashmir stands with khalistan,{'document_tone': {'tones': []}}
+62,Godi media??????,{'document_tone': {'tones': []}}
+63,#shamesikhshame #wearewithourcountry,{'document_tone': {'tones': []}}
+64,,{'document_tone': {'tones': []}}
+65,????,{'document_tone': {'tones': []}}
+66,Taringa ?? ????? ?? ???????,{'document_tone': {'tones': []}}
+67,??????? ?????? ????????? ?????..! ?? ???? ?? ????? ????,{'document_tone': {'tones': []}}
+68,SharAth KumAr ,{'document_tone': {'tones': []}}
+69,Godi media never tell the truth ...  https://twitter.com/thecaravanindia/status/1354041589727776768?s=19,"{'document_tone': {'tones': [{'score': 0.942582, 'tone_id': 'confident', 'tone_name': 'Confident'}]}}"
+70,Happy ending????,"{'document_tone': {'tones': [{'score': 0.740103, 'tone_id': 'joy', 'tone_name': 'Joy'}]}}"
+71,???? ?????? ?????????? ???????????? ??????????? ????? ???? ?????? ????????? ?????? ???? ?????,{'document_tone': {'tones': []}}
+72,Very good,"{'document_tone': {'tones': [{'score': 0.880435, 'tone_id': 'joy', 'tone_name': 'Joy'}, {'score': 0.996934, 'tone_id': 'confident', 'tone_name': 'Confident'}]}}"
+73,Gunda government,{'document_tone': {'tones': []}}
+74,Delhi became Kashmir,{'document_tone': {'tones': []}}
+75,,{'document_tone': {'tones': []}}
+76,Salman khan bnra tha ,{'document_tone': {'tones': []}}
+77,,{'document_tone': {'tones': []}}
+78,,{'document_tone': {'tones': []}}
+79,Siddhant Pandey ,{'document_tone': {'tones': []}}
+80,,{'document_tone': {'tones': []}}
+81,,{'document_tone': {'tones': []}}
+82,,{'document_tone': {'tones': []}}
+83,,{'document_tone': {'tones': []}}
+84,,{'document_tone': {'tones': []}}
+85,,{'document_tone': {'tones': []}}
+86,,{'document_tone': {'tones': []}}
+87,,{'document_tone': {'tones': []}}
+88,Good,"{'document_tone': {'tones': [{'score': 0.880435, 'tone_id': 'joy', 'tone_name': 'Joy'}]}}"
+89,Shoot them,"{'document_tone': {'tones': [{'score': 0.931034, 'tone_id': 'anger', 'tone_name': 'Anger'}, {'score': 0.931034, 'tone_id': 'fear', 'tone_name': 'Fear'}]}}"
+90,Always showing fake news shame on you,"{'document_tone': {'tones': [{'score': 0.634188, 'tone_id': 'sadness', 'tone_name': 'Sadness'}, {'score': 0.92125, 'tone_id': 'confident', 'tone_name': 'Confident'}]}}"
+91,Your fake news showing please don't tell fake things,"{'document_tone': {'tones': [{'score': 0.578884, 'tone_id': 'sadness', 'tone_name': 'Sadness'}]}}"
+92,Police shoots him.,{'document_tone': {'tones': []}}
+93,,{'document_tone': {'tones': []}}
+94,,{'document_tone': {'tones': []}}
